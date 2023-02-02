@@ -35,6 +35,6 @@ All projects we undertake involve decisions about whose interests matter; which 
 
 . X .<br>
 . O .<br>
-. . .<br>
+X . .<br>
 
 
