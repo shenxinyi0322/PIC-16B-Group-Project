@@ -29,3 +29,12 @@ What are two things that could potentially stop you from achieving the full deli
 
 ## Ethics
 All projects we undertake involve decisions about whose interests matter; which problems are important; and which tradeoffs are considered acceptable. Take some time to reflect on the potential impacts of your product on its users and the broader world. If you can see potential biases or harms from your work, describe some of the ways in which you will work to mitigate them. Remember that even relatively simple ideas can have unexpected and impactful biases
+
+
+## TicTacToe
+
+...
+...
+...
+
+
