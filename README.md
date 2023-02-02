@@ -34,7 +34,7 @@ All projects we undertake involve decisions about whose interests matter; which 
 ## TicTacToe
 
 . X .<br>
-. . .<br>
+. O .<br>
 . . .<br>
 
 
