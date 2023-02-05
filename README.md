@@ -19,11 +19,12 @@ For Partial Success, while we may not be able to fully web-scrape data from Link
 ## Resources Required
 Since this project is aimed to create a novel dataset and learn the features of a successful startup company, we need resources of various data to build our model. Our basic dataset is acquired from CBinsights, which is called The Complete List Of Unicorn Companies. This dataset includes over 1200 companies’ six features, where only two of them can be considered as numerical variables. Realizing that more information is required to conduct the study, we plan to use web-scraping techniques on LinkedIn, crunchbase, and possibly Wikipedia. From these websites, we are able to get data about the number of employees, number of followers, and funding amount etc. The links to the dataset and webpages are attached below. 
 
-The Complete List Of Unicorn Companies data set from CBinsights: https://www.cbinsights.com/research-unicorn-companies 
-Examples of the webpages for scraping:
-LinkedIn: ByteDance, Zhaogang
-Crunchbase: SpaceX, Instacart
-Wikipedia: ByteDance, Xiaohongshu
+<br>The Complete List Of Unicorn Companies data set from CBinsights: https://www.cbinsights.com/research-unicorn-companies 
+
+<br>Examples of the webpages for scraping:
+1. LinkedIn: [ByteDance](https://www.linkedin.com/company/bytedance/), [Zhaogang](https://www.linkedin.com/company/%E6%89%BE%E9%92%A2%E7%BD%91/)
+2. Crunchbase: [SpaceX](https://www.crunchbase.com/organization/space-exploration-technologies), [Instacart](https://www.crunchbase.com/organization/instacart)
+3. Wikipedia: [ByteDance](https://en.wikipedia.org/wiki/ByteDance), [Xiaohongshu](https://en.wikipedia.org/wiki/Xiaohongshu)
 
 
 ## Tools and Skills Required
