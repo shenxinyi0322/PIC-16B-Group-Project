@@ -47,6 +47,18 @@ This product may also harm different stakeholders due to confounding variables a
 
 Overall, the world will become an overall better place due to this product. Firstly,  since essential qualities to a startup's success are indicated, entrepreneurs are more likely to succeed in building their startups based on such guidelines. Secondly, since a more detailed evaluation of a startup's success is created, it will help existing startups with great potential to gain more funding to accelerate their achievements.
 
+## Tentative Timeline
+Feb 16: Project update presentation I:
+- Attend the discussions in person
+- Show web-scraping process
+- Have Machine Learning Models Completed 
+- Visualized Findings
+
+Mar 7: Project update presentation II
+- Attend the discussions in person
+- Complete web-scraping process
+- Tuned Hyperparameters and Optimized Machine Learning Models
+- Visualizations and Explanations for them
 
 ## TicTacToe
 
