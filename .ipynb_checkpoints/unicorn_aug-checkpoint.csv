@@ -1,0 +1,1206 @@
+,Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors,urlsub,ceo,education
+0,ByteDance,$140.00 ,4/7/17,China,Beijing,Artificial intelligence,"Sequoia Capital China, SIG Asia Investments, Sina Weibo, Softbank Group",bytedance,Zhang Yiming,1
+1,SpaceX,$127.00 ,12/1/12,United States,Hawthorne,Other,"Founders Fund, Draper Fisher Jurvetson, Rothenberg Ventures",spacex,Elon Musk,1
+2,SHEIN,$100.00 ,7/3/18,China,Shenzhen,E-commerce & direct-to-consumer,"Tiger Global Management, Sequoia Capital China, Shunwei Capital Partners",shein,Chris Xu,1
+3,Stripe,$95.00 ,1/23/14,United States,San Francisco,Fintech,"Khosla Ventures, LowercaseCapital, capitalG",stripe,Patrick Collison,2
+4,Canva,$40.00 ,1/8/18,Australia,Surry Hills,Internet software & services,"Sequoia Capital China, Blackbird Ventures, Matrix Partners",canva,Melanie Perkins,1
+5,Checkout.com,$40.00 ,5/2/19,United Kingdom,London,Fintech,"Tiger Global Management, Insight Partners, DST Global",checkout.com,Guillaume Pousaz,0
+6,Instacart,$39.00 ,12/30/14,United States,San Francisco,"Supply chain, logistics, & delivery","Khosla Ventures, Kleiner Perkins Caufield & Byers, Collaborative Fund",instacart,Apoorva Mehta,2
+7,Databricks,$38.00 ,2/5/19,United States,San Francisco,Data management & analytics,"Andreessen Horowitz, New Enterprise Associates, Battery Ventures",databricks,Ali Ghodsi,0
+8,Revolut,$33.00 ,4/26/18,United Kingdom,London,Fintech,"index Ventures, DST Global, Ribbit Capital",revolut,Nikolay Storonsky,0
+9,Epic Games,$31.50 ,10/26/18,United States,Cary,Other,"Tencent Holdings, KKR, Smash Ventures",epic games,Tim Sweeney,1
+10,Fanatics,$31.00 ,6/6/12,United States,Jacksonville,E-commerce & direct-to-consumer,"SoftBank Group, Andreessen Horowitz, Temasek Holdings",fanatics,Michael Rubin,1
+11,Chime,$25.00 ,3/5/19,United States,San Francisco,Fintech,"Forerunner Ventures, Crosslink Capital, Homebrew",chime,Chris Britt,0
+12,BYJU's,$22.00 ,7/25/17,India,Bengaluru,Edtech,"Tencent Holdings, Lightspeed India Partners, Sequoia Capital India",byju's,Byju Raveendran,1
+13,J&T Express,$20.00 ,4/7/21,Indonesia,Jakarta,"Supply chain, logistics, & delivery","Hillhouse Capital Management, Boyu Capital, Sequoia Capital China",j&t express,Jet Lee,0
+14,Xiaohongshu,$20.00 ,3/31/16,China,Shanghai,E-commerce & direct-to-consumer,"GGV Capital, ZhenFund, Tencent",xiaohongshu,Miranda Qu,3
+15,Miro,$17.50 ,1/5/22,United States,San Francisco,Internet software & services,"Accel, AltaIR Capital, Technology Crossover Ventures",miro,Andrey Khusid.,0
+16,Yuanfudao,$15.50 ,5/31/17,China,Beijing,Edtech,"Tencent Holdings, Warbug Pincus, IDG Capital",yuanfudao,Chen Yuanfudao,1
+17,Discord,$15.00 ,4/20/18,United States,San Francisco,Internet software & services,"Benchmark, Greylock Partners, Tencent Holdings",discord,Jason Citron.,0
+18,DJI Innovations,$15.00 ,1/23/15,China,Shenzhen,Hardware,"Accel Partners, Sequoia Capital",dji innovations,Frank Wang,1
+19,goPuff,$15.00 ,10/8/20,United States,Philadelphia,"Supply chain, logistics, & delivery","Accel, Softbank Group, Anthos Capital",gopuff,Yakir Gola,0
+20,Ripple,$15.00 ,12/20/19,United States,San Francisco,Fintech,"IDG Capital, Venture51, Lightspeed Venture Partners",ripple,Brad Garlinghouse,1
+21,Yuanqi Senlin,$15.00 ,3/1/20,China,Beijing,Consumer & retail,"Sequoia Capital China, Longfor Capitalm, Gaorong Capital",yuanqi senlin,Zhong Suijuan,3
+22,Blockchain.com,$14.00 ,2/17/21,United Kingdom,London,Fintech,"Lightspeed Venture Partners, Google Ventures, Lakestar",blockchain.com,Peter Smith,0
+23,Plaid,$13.50 ,12/11/18,United States,San Francisco,Fintech,"New Enterprise Associates, Spar Capital, Index Ventures",plaid,Zach Perret,2
+24,OpenSea,$13.30 ,7/20/21,United States,New York,Internet software & services,"Andreessen Horowitz, Thirty Five Ventures, Sound Ventures",opensea,Nate Chastain,0
+25,Celonis,$13.00 ,6/26/18,Germany,Munich,Data management & analytics,"Accel, 83North",celonis,Alexander Rinke,0
+26,Grammarly,$13.00 ,10/10/19,United States,San Francisco,Internet software & services,"General Catalyst, Institutional Venture Partners, Breyer Capital",grammarly,Brad Hoover,1
+27,Devoted Health,$12.60 ,10/16/18,United States,Waltham,Health,"Andreessen Horowitz, F-Prime Capital, Venrock",devoted health,Todd Park,2
+28,Faire,$12.59 ,10/30/19,United States,San Francisco,Artificial intelligence,"Khosla Ventures, Forerunner Ventures, Sequoia Capital",faire,Max Rhodes,1
+29,Brex,$12.30 ,10/5/18,United States,San Francisco,Fintech,"DST Global, Ribbit Capital, Greenoaks Capital Management",brex,Henrique Dubugras,1
+30,Biosplice Therapeutics,$12.00 ,8/6/18,United States,San Diego,Health,"Vickers Venture Partners, IKEA GreenTech",biosplice therapeutics,Pierre Legault,3
+31,Bitmain Technologies,$12.00 ,7/6/18,China,Beijing,Hardware,"Coatue Management, Sequoia Capital China, IDG Capital",bitmain technologies,Jihan Wu,1
+32,Deel,$12.00 ,4/21/21,United States,San Francisco,Fintech,"Andreessen Horowitz, Spark Capital, Y Combinator",deel,Alex Bouaziz,1
+33,GoodLeap,$12.00 ,10/13/21,United States,Roseville,Internet software & services,"New Enterprise Associates, BDT Capital Partners, Davidson Kempner Capital Management",goodleap,Hans Obegger,0
+34,JUUL Labs,$12.00 ,12/20/17,United States,San Francisco,Consumer & retail,Tiger Global Management,juul labs,Kevin Burns,0
+35,Xingsheng Selected,$12.00 ,7/22/20,China,Changsha,E-commerce & direct-to-consumer,"KKR, Tencent Holdings, Sequoia Capital China",xingsheng selected,Wu Guangquan,3
+36,Getir,$11.80 ,3/26/21,Turkey,Istanbul,"Supply chain, logistics, & delivery","Tiger Global Management, Sequoia Capital, Revo Capital",getir,Nevzat Şahin,1
+37,Airtable,$11.70 ,11/15/18,United States,San Francisco,Internet software & services,"Caffeinated Capital, CRV, Founder Collective",airtable,Howie Liu.,1
+38,ZongMu Technology,$11.40 ,6/3/21,China,Shanghai,Auto & transportation,"LTW Capital, Legend Capital, Qualcomm Ventures",zongmu technology,Chen Peng.,2
+39,Rippling,$11.25 ,8/4/20,United States,San Francisco,Internet software & services,"Initialized Capital, Y Combinator, Kleiner Perkins Caufield & Byers",rippling,Parker Conrad.,1
+40,Global Switch,$11.10 ,12/22/16,United Kingdom,London,Hardware,"Aviation Industry Corporation of China, Essence Financial, Jiangsu Sha Steel Group",global switch,John Corcoran,0
+41,Bolt,$11.00 ,10/8/21,United States,San Francisco,Fintech,"Activant Capital, Tribe Capital, General Atlantic",bolt,Markus Villig,1
+42,Weilong,$10.88 ,5/8/21,China,Luohe,Consumer & retail,"Tencent Holdings, Hillhouse Capital Management, Yunfeng Capital",weilong,Wang Wenbiao,1
+43,Swiggy,$10.70 ,6/21/18,India,Bengaluru,"Supply chain, logistics, & delivery","Accel India, SAIF Partners, Norwest Venture Partners",swiggy,Sriharsha Majety,0
+44,Alchemy,$10.20 ,10/28/21,United States,San Francisco,Fintech,"DFJ Growth Fund, Coatue Management, Addition",alchemy,Nikil Viswanathan,1
+45,Chehaoduo,$10.00 ,3/12/16,China,Beijing,E-commerce & direct-to-consumer,"Sequoia Capital China, GX Capital",chehaoduo,Ji Hu.,0
+46,Digital Currency Group,$10.00 ,11/1/21,United States,New York,Fintech,"Ribbit Capital, capitalG, Softbank Group",digital currency group,Barry Silbert,1
+47,Gusto,$10.00 ,12/18/15,United States,San Francisco,Fintech,"General Catalyst Partners, Google Ventures, Kleiner Perkins Caufield & Byers",gusto,Joshua Reeves,1
+48,KuCoin,$10.00 ,5/10/22,Seychelles,Victoria,Fintech,"IDG Capital, Matrix Partners China, Jump Crypto",kucoin,Johnny Lyu,2
+49,Lalamove,$10.00 ,2/21/19,Hong Kong,Cheung Sha Wan,"Supply chain, logistics, & delivery","MindWorks Ventures, Shunwei Capital Partners, Xiang He Capital",lalamove,Shing Chow,3
+50,Notion Labs,$10.00 ,4/1/20,United States,San Francisco,Internet software & services,"Index Ventures, Draft Ventures, Felicis Ventures",notion labs,Ivan Zhao,1
+51,reddit,$10.00 ,7/31/17,United States,San Francisco,Internet software & services,"Y Combinator, Sequoia Capital, Coatue Management",reddit,Steve Huffman,1
+52,Talkdesk,$10.00 ,10/3/18,United States,San Francisco,Internet software & services,"DJF, Salesforce Ventures, Storm Ventures",talkdesk,Tiago Paiva,0
+53,Thrasio,$10.00 ,7/15/20,United States,Walpole,E-commerce & direct-to-consumer,"Upper90, RiverPark Ventures, Advent International",thrasio,Josh Silberstein,1
+54,OutSystems,$9.50 ,6/5/18,United States,Boston,Internet software & services,"KKR, ES Ventures, North Bridge Growth Equity",outsystems,Paulo Rosado,1
+55,ServiceTitan,$9.50 ,11/14/18,United States,Glendale,Internet software & services,"Bessemer Venture Partners, ICONIQ Capital, Battery Ventures",servicetitan,Ara Mahdessian,0
+56,HEYTEA,$9.28 ,7/1/19,China,Shenzhen,Other,"Sequoia Capital China, Tencent Investment, BA Capital",heytea,Yuchen Zhang,1
+57,N26,$9.23 ,1/10/19,Germany,Berlin,Fintech,"Redalpine Venture Partners, Earlybird Venture Capital, Valar Ventures",n26,Valentin Stalf,2
+58,Klaviyo,$9.20 ,11/17/20,United States,Boston,Internet software & services,"Summit Partners, Accel, Astral Capital",klaviyo,Andrew Bialecki,0
+59,TripActions,$9.20 ,11/8/18,United States,Palo Alto,Travel,"Andreessen Horowitz, Lightspeed Venture Partners, Zeev Ventures",tripactions,Ariel Cohen,0
+60,Northvolt,$9.08 ,6/12/19,Sweden,Stockholm,Other,"Vattenfall, Volkswagen Group, Goldman Sachs",northvolt,Peter Carlsson,0
+61,Niantic,$9.00 ,11/24/17,United States,San Francisco,Mobile & telecommunications,"Nintendo, Google, Pokemon Company International, Spark Capital",niantic,John Hanke,0
+62,OYO Rooms,$9.00 ,9/25/18,India,Gurugram,Travel,"SoftBank Group, Sequoia Capital India,Lightspeed India Partners",oyo rooms,Ritesh Agarwal,1
+63,Tanium,$9.00 ,3/31/15,United States,Kirkland,Cybersecurity,"Andreessen Horowitz, Nor-Cal Invest, TPG Growth",tanium,Fazal Merchant,0
+64,Rapyd,$8.75 ,12/3/19,United Kingdom,London,Fintech,"Target Global, General Catalyst, Durable Capital Partners",rapyd,Arik Shtilman,3
+65,Kavak,$8.70 ,10/1/20,Mexico,Lerma de Villada,E-commerce & direct-to-consumer,"DST Global, SoftBank Group, Mountain Nazca",kavak,Carlos Garcia Ottati.,0
+66,Chainalysis,$8.60 ,11/23/20,United States,New York,Fintech,"Addition, Benhcmark, Accel",chainalysis,Michael Gronager,1
+67,Nuro,$8.60 ,2/11/19,United States,Mountain View,Auto & transportation,"SoftBank Group, Greylock Partners, Gaorong Capital",nuro,Jiajun Zhu,0
+68,Personio,$8.50 ,1/19/21,Germany,Munich,Internet software & services,"Global Founders Capital, Nortzone Ventures, Picus Capital",personio,Hanno Renner,0
+69,Pony.ai,$8.50 ,7/11/18,United States,Fremont,Artificial intelligence,"Sequoia Capital China, IDG Capital, DCM Ventures",pony.ai,James Peng,1
+70,SumUp,$8.50 ,7/16/19,United Kingdom,London,Fintech,"American Express Ventures, Goldman Sachs, Bain Capital Credit",sumup,Marc-Alexander Christ,0
+71,Anduril,$8.48 ,9/11/19,United States,Irvine,Artificial intelligence,"Andreessen Horowitz, Founders Fund, Revolution Ventures",anduril,Palmer Luckey,0
+72,Bolt,$8.40 ,5/29/18,Estonia,Tallinn,Auto & transportation,"Didi Chuxing, Diamler, TMT Investments",bolt,Markus Villig,1
+73,Lacework,$8.30 ,1/7/21,United States,San Jose,Cybersecurity,"Sutter Hill Ventures, Liberty Global Ventures, Coatue Management",lacework,Dan Hubbard,0
+74,Tipalti,$8.30 ,10/6/20,United States,San Mateo,Fintech,"01 Advisors, Zeev Ventures, Group 11",tipalti,Chen Amit,0
+75,Ramp,$8.10 ,3/29/21,United States,New York,Fintech,"D1 Capital Partners, Stripe, Coatue Management",ramp,Eric Glyman,0
+76,Tempus,$8.10 ,3/21/18,United States,Chicago,Health,"New Enterprise Associates, T. Rowe Associates, Lightbank",tempus,Eric Lefkofsky,1
+77,Dream11,$8.00 ,4/9/19,India,Mumbai,Internet software & services,"Kaalari Capital, Tencent Holdings, Steadview Capital",dream11,Harsh Jain,2
+78,FalconX,$8.00 ,8/10/21,United States,San Mateo,Fintech,"Tiger Global Management, American Express Ventures, B Capital Group",falconx,Raghu Yarlagadda,1
+79,Fireblocks,$8.00 ,7/27/21,United States,New York,Fintech,"Tenaya Capital, Coatue Management, Stripes Group",fireblocks,Michael Shaulov,2
+80,Flexport,$8.00 ,4/30/18,United States,San Francisco,"Supply chain, logistics, & delivery","Bloomberg Beta, Founders Fund, First Round Capital",flexport,Ryan Petersen,1
+81,StarkWare,$8.00 ,11/17/21,Israel,Netanya,Cybersecurity,"Sequoia Capital, Paradigm, Pantera Capital",starkware,Avi Kohen,2
+82,Caris Life Sciences,$7.83 ,5/12/21,United States,Irving,Health,"Sixth Street Partners, OrbiMed Advisors, Highland Capital Management",caris life sciences,David Halbert,1
+83,Hopin,$7.75 ,11/10/20,United Kingdom,London,Internet software & services,"Accel, Northzone Ventures, Institutional Venture Partners",hopin,Johnny Boufarhat,1
+84,Dapper Labs,$7.60 ,3/30/21,Canada,Vancouver,Internet software & services,"Union Square Ventures, Venrock, Andreessen Horowitz",dapper labs,Roham Gharegozlou,0
+85,Automattic,$7.50 ,5/27/13,United States,San Francisco,Internet software & services,"Insight Venture Partners, Lowercase Capital, Polaris Partners",automattic,Matt Mullenweg,1
+86,Netskope,$7.50 ,11/13/18,United States,Santa Clara,Cybersecurity,"Lightspeed Venture Partners, Social Capital, Accel",netskope,Sanjay Beri,0
+87,Ola Cabs,$7.50 ,10/27/14,India,Bengaluru,Auto & transportation,"Accel Partners, SoftBank Group, Sequoia Capital",ola cabs,Bhavish Aggarwal,1
+88,Razorpay,$7.50 ,10/11/20,India,Bengaluru,Fintech,"Sequoia Capital India, Tiger Global Management, Matrix Partners India",razorpay,Harshil Mathur,1
+89,Carta,$7.40 ,5/6/19,United States,San Francisco,Fintech,"Menlo Ventures, Spark Capital, Union Square Ventures",carta,Henry Ward,2
+90,Snyk,$7.40 ,1/21/20,United States,Boston,Cybersecurity,"BOLDstart Ventures, Google Ventures, Accel",snyk,Guy Podjarny,0
+91,Scale AI,$7.30 ,8/5/19,United States,San Francisco,Artificial intelligence,"Accel, Y Combinator, Index Ventures",scale ai,Yanda Erlich.,0
+92,Argo AI,$7.25 ,7/12/19,United States,Pittsburgh,Auto & transportation,"Volkswagen Group, Ford Autonomous Vehicles",argo ai,Bryan Salesky,3
+93,Gong,$7.25 ,8/12/20,United States,Palo Alto,Artificial intelligence,"Norwest Venture Partners, Next World Capital, Wing Venture Capital",gong,Amit Bendov,0
+94,Gemini,$7.10 ,11/19/21,United States,New York,Fintech,"Morgan Creek Digital, Marcy Venture Partners, 10T Fund",gemini,Tyler Winklevoss,1
+95,ConsenSys,$7.00 ,11/17/21,United States,New York,Fintech,"Third Point, Electric Capital, Coinbase Ventures",consensys,Joseph Lubin,0
+96,Ro,$7.00 ,7/27/20,United States,New York,Health,"Initialized Capital, General Catalyst, SignalFire",ro,Zachariah Reitano.,1
+97,Toss,$7.00 ,12/9/18,South Korea,Seoul,Fintech,"Bessemer Venture Partners, Qualcomm Ventures, Kleiner Perkins Caufield & Byers",toss,Franklin Song,3
+98,We Doctor,$7.00 ,9/22/15,China,Hangzhou,Health,"Tencent, Morningside Group",we doctor,Jerry Liao,0
+99,1Password,$6.80 ,7/8/21,Canada,Toronto,Cybersecurity,"Slack Fund, Accel, Skip Capital",1password,Dave Teare.,0
+100,Automation Anywhere,$6.80 ,7/2/18,United States,San Jose,Artificial intelligence,"General Atlantic, Goldman Sachs, New Enterprise Associates",automation anywhere,Mihir Shukla,2
+101,Klarna,$6.70 ,12/12/11,Sweden,Stockholm,Fintech,"Institutional Venture Partners, Sequoia Capital, General Atlantic",klarna,Sebastian Siemiatkowski,2
+102,Ziroom,$6.60 ,1/17/18,China,Beijing,E-commerce & direct-to-consumer,"Sequoia Capital China, Warburg Pincus, General Catalyst",ziroom,Zi Jinghua,3
+103,SVOLT,$6.51 ,6/8/20,China,Changzhou,Auto & transportation,"IDG Capital, Bank Of China Group Investment,, SDIC CMC Investment Management",svolt,Hongxin Yang,3
+104,Mollie,$6.50 ,9/8/20,Netherlands,Amsterdam,Fintech,Technology Crossover Ventures,mollie,Adriaan Mol,0
+105,National Stock Exchange of India,$6.50 ,7/1/20,India,Mumbai,Fintech,"TA Associates, SoftBank Group, GS Growth",national stock exchange of india,Vikram Limaye,2
+106,CRED,$6.40 ,4/6/21,India,Bengaluru,Fintech,"Tiger Global Management, DST Global, Sequoia Capital India",cred,Kunal Shah,1
+107,Doctolib,$6.40 ,3/19/19,France,Paris,Health,"BPI France, Kerala Ventures, Accel",doctolib,Stanislas Niox-Chateau,2
+108,DataRobot,$6.30 ,7/29/19,United States,Boston,Artificial intelligence,"New Enterprise Associates, Accomplice, IA Ventures",datarobot,Jeremy Achin,0
+109,Upgrade,$6.28 ,2/12/18,United States,San Francisco,Fintech,"Union Square Ventures, Ribbit Capital, VY Capital",upgrade,Renaud Laplanche,2
+110,Hinge Health,$6.20 ,1/6/21,United States,San Francisco,Health,"Atomico, Insight Partners, Coatue Management",hinge health,Daniel Perez,0
+111,Benchling,$6.10 ,4/14/21,United States,San Francisco,Internet software & services,"Thrive Capital, Benchmark, MenloVentures",benchling,Sajith Wickramasekara,1
+112,Black Unicorn Factory,$6.10 ,5/20/21,United States,Los Angeles,Other,Barter Ventures,black unicorn factory,John Stewart,0
+113,Better.com,$6.00 ,11/10/20,United States,New York,Fintech,"Pine Brook, American Express Ventures, Kleiner Perkins Caufield & Byers",better.com,Vishal Garg,2
+114,iCapital Network,$6.00 ,7/27/21,United States,New York,Fintech,"BlackRock, Blackstone, UBS",icapital network,Lawrence Calcano,0
+115,Royole Corporation,$6.00 ,8/18/15,China,Shenzhen,Hardware,"Warmsun Holding, IDG Capital Partners",royole corporation,Bill Liu,1
+116,Wiz,$6.00 ,3/17/21,Israel,Tel Aviv,Cybersecurity,"Insight Partners, Sequoia Capital, Index Ventures",wiz,Chris O'Neill,0
+117,Attentive,$5.99 ,9/23/20,United States,Hoboken,Mobile & telecommunications,"NextView Ventures, Eniac Ventures, Sequoia Capital",attentive,Brian Long,1
+118,Lyra Health,$5.85 ,8/25/20,United States,Burlingame,Health,"Greylock Partners, Venrock, Providence Ventures",lyra health,David Ebersman,2
+119,Easyhome,$5.78 ,2/12/18,China,Beijing,Consumer & retail,"Alibaba Group, Boyu Capital, Borui Capital",easyhome,David Ingram,0
+120,Lianjia,$5.77 ,4/7/16,China,Beijing,E-commerce & direct-to-consumer,"Tencent, Baidu, Huasheng Capital",lianjia,Zuo Hui,1
+121,Back Market,$5.70 ,5/18/21,France,Paris,E-commerce & direct-to-consumer,"Aglae Ventures, Eurazeo, Daphni",back market,Thibaud Hug de Larauze,0
+122,Cityblock Health,$5.70 ,12/10/20,United States,Brooklyn,Health,"Thrive Capital, Maverick Ventures, Redpoint Ventures",cityblock health,Iyah Romm,2
+123,RELEX,$5.70 ,2/17/22,Finland,Helsinki,"Supply chain, logistics, & delivery","Blackstone, Technology Crossover Ventures, Summit Partners",relex,Mikko Kärkkäinen,0
+124,The Boring Company,$5.70 ,4/20/22,United States,Pflugerville,Other,"VY Capital, 8VC, Craft Ventures",the boring company,Elon Musk,1
+125,Vice Media,$5.70 ,4/2/11,United States,Brooklyn,Internet software & services,"Technology Crossover Ventures, A&E Television Networks",vice media,Shane Smith,0
+126,Workato,$5.70 ,1/12/21,United States,Mountain View,Internet software & services,"Battery Ventures, Storm Ventures, Redpoint Ventures",workato,Vijay Tella,2
+127,ContentSquare,$5.60 ,5/25/21,France,Paris,Internet software & services,"Highland Europe, Eurazeo, Canaan Partners",contentsquare,Jonathan Cherki,0
+128,FiveTran,$5.60 ,6/30/20,United States,Oakland,Data management & analytics,"Matrix Partners, Andreessen Horowitz, General Catalyst",fivetran,George Fraser,2
+129,Postman,$5.60 ,6/11/20,United States,San Francisco,Internet software & services,"Nexus Venture Partners, CRV, Insight Partners",postman,Abhinav Asthana,0
+130,Airwallex,$5.50 ,3/25/19,Australia,Melbourne,Fintech,"DST Global, Sequoia Capital China, Tencent Holdings",airwallex,Jack Zhang,2
+131,Mambu,$5.50 ,1/6/21,Netherlands,Amsterdam,Fintech,"Runa Capital, Acton Capital Partners, Point Nine Capital",mambu,Eugene Danilkis,2
+132,Trade Republic,$5.36 ,5/20/21,Germany,Berlin,Fintech,"Founders Fund. Accel, Creandum",trade republic,Christian Hecker,0
+133,Collibra,$5.25 ,1/29/19,Belgium,Brussels,Data management & analytics,"Index Ventures, Battery Ventures, ICONIQ Capital",collibra,Felix Van de Maele,2
+134,Rappi,$5.25 ,8/31/18,Colombia,Bogota,"Supply chain, logistics, & delivery","DST Global, Andreessen Horowitz, Sequoia Capital, Redpoint e.ventures",rappi,Sebastian Mejia,0
+135,6Sense,$5.20 ,3/30/21,United States,San Francisco,Artificial intelligence,"Venrock, Battery Ventures, Insight Partners",6sense,Jason Zintak,0
+136,OneTrust,$5.10 ,7/11/19,United States,Atlanta,Internet software & services,Insight Partners,onetrust,Kabir Barday,0
+137,QuintoAndar,$5.10 ,9/9/19,Brazil,Campinas,E-commerce & direct-to-consumer,"Kaszek Ventures, General Atlantic, SoftBank Group",quintoandar,Gabriel Braga,1
+138,C6 Bank,$5.05 ,12/2/20,Brazil,Sao Paulo,Fintech,Credit Suisse,c6 bank,Marcelo Kalim,0
+139,Coalition,$5.00 ,3/17/21,United States,San Francisco,Cybersecurity,"Two Sigma Ventures, Flint Capital, Commerce Ventures",coalition,Joshua Platzky,0
+140,Cockroach Labs,$5.00 ,1/12/21,United States,New York,Data management & analytics,"Google Ventures, Benchmark, FirstMark Capital",cockroach labs,Spencer Kimball,1
+141,Flink,$5.00 ,12/1/21,Germany,Berlin,E-commerce & direct-to-consumer,"Mubadala Capital, Bond, Prosus Ventures",flink,Oliver Optendrenk,1
+142,Hello TransTech,$5.00 ,6/1/18,China,Shanghai,Auto & transportation,"Ant Financial Services Group, GGV Capital",hello transtech,Henry Sun,3
+143,Hopper,$5.00 ,3/24/21,Canada,Montreal,Travel,"Capital One Growth Ventures, Citi Ventures, OMERS Ventures",hopper,Fred Lalonde,0
+144,Horizon Robotics,$5.00 ,2/27/19,China,Beijing,Artificial intelligence,"Hillhouse Capital Management, Linear Venture, Morningside Venture Capital",horizon robotics,Yu Kai,3
+145,Howden Group Holdings,$5.00 ,9/29/20,United Kingdom,London,Other,"General Atlantic, 3i Group, Huagai Capital",howden group holdings,Chris Cummiskey,2
+146,Icertis,$5.00 ,7/17/19,United States,Bellevue,Artificial intelligence,"Eight Roads Ventures, Greycroft, Ignition Partners",icertis,Samir Bodas,2
+147,Moon Active,$5.00 ,1/26/20,Israel,Tel Aviv,Mobile & telecommunications,"Insight Partners, Andalusian Capital Partners",moon active,Irving Feniger,3
+148,OakNorth Bank,$5.00 ,10/12/17,United Kingdom,London,Fintech,"Clermont Group, Coltrane Asset Management, Toscafund Asset Management",oaknorth bank,Rishi Khosla,2
+149,OfBusiness,$5.00 ,7/31/21,India,Gurgaon,E-commerce & direct-to-consumer,"Matrix Partners India, Falcon Edge Capital, SoftBank Group",ofbusiness,Asish Mohapatra,1
+150,Ola Electric Mobility,$5.00 ,7/2/19,India,Bengaluru,Auto & transportation,"SoftBank Group, Tiger Global Management, Matrix Partners India",ola electric mobility,Bhavish Aggarwal,1
+151,Pine Labs,$5.00 ,1/24/20,India,Noida,Fintech,"Sequoia Capital India, Temasek, PayPal Ventures",pine labs,Amrish Rau,2
+152,Qonto,$5.00 ,1/11/22,France,Paris,Fintech,"Alven Capital, Valar Ventures, Tencent Holdings",qonto,Alexis Lê-Quôc,0
+153,SambaNova Systems,$5.00 ,4/13/21,United States,Palo Alto,Data management & analytics,"Walden International, Google Ventures, Intel Capital",sambanova systems,Chris Ré,0
+154,ShareChat,$5.00 ,4/8/21,India,Bengaluru,Internet software & services,"India Quotient, Elevation Capital, Lightspeed Venture Partners",sharechat,Farid Ahsan,1
+155,VerSe Innovation,$5.00 ,12/22/20,India,Bengaluru,Mobile & telecommunications,"Falcon Edge Capital, Omidyar Network, Sequoia Capital India",verse innovation,Virendra Gupta,0
+156,ZEPZ,$5.00 ,8/23/21,United Kingdom,London,Fintech,"Accel, Technology Crossover Ventures, LeapFrog Investments",zepz,John Smith,0
+157,Grafana Labs,$4.93 ,3/25/21,United States,New York,Internet software & services,"Lightspeed Venture Partners, Lead Edge Capital, Coatue Management",grafana labs,Raj Dutt,2
+158,Meesho,$4.90 ,4/5/21,India,Bengaluru,Internet software & services,"Venture Highway, Sequoia Capital India, Prosus Ventures",meesho,Vidit_Aatrey,1
+159,Cerebral,$4.80 ,6/10/21,United States,San Francisco,Health,"Oak HC/FT Partners, Artis Ventures, WestCap Group",cerebral,Kyle Davies,0
+160,Creditas,$4.80 ,12/18/20,Brazil,Sao Paulo,Fintech,"Kaszek Ventures, Amadeus Capital Partners, Quona Capital",creditas,Sergio Furio,2
+161,Reify Health,$4.80 ,8/10/21,United States,Boston,Health,"Sierra Ventures, Battery Ventures, Asset Management Ventures",reify health,Ralph Holzhaus,0
+162,Chipone,$4.73 ,12/16/21,China,Beijing,Hardware,"China Grand Prosperity Investment, Silk Road Huacheng, Oriza Equity Investment",chipone,Jianhua Zhang,3
+163,BetterUp,$4.70 ,2/25/21,United States,San Francisco,Internet software & services,"Threshold Ventures, Lightspeed Venture Partners, Crosslink Capital",betterup,Alexi Robichaux,0
+164,Pleo,$4.70 ,7/6/21,Denmark,Copenhagen,Fintech,"Creandum, Founders, Kinnevik",pleo,Jeppe Rindom,1
+165,SonarSource,$4.70 ,4/26/22,Switzerland,Geneva,Internet software & services,"Advent International,General Catalyst,Insight Partners",sonarsource,Olivier Gaudin,0
+166,Checkr,$4.60 ,9/19/19,United States,San Francisco,Internet software & services,"Y Combinator, Accel, T. Rowe Price",checkr,Daniel Yanisse,0
+167,Color,$4.60 ,1/4/21,United States,Burlingame,Health,"General Catalyst, Viking Global Investors, T. Rowe Price",color,Bill Nguyen,1
+168,Lendable,$4.58 ,3/31/21,United Kingdom,London,Fintech,"Ontario Teachers' Pension Plan, Goldman Sachs",lendable,Martin Kissinger,0
+169,UBTECH Robotics,$4.58 ,7/25/16,China,Shenzhen,Hardware,"CDH Investments, Goldstone Investments, Qiming Venture Partners",ubtech robotics,James Chow,0
+170,Vinted,$4.53 ,11/27/19,Lithuania,Vilnius,E-commerce & direct-to-consumer,"Accel, Insight Partners, Burda Principal Investments",vinted,Justas Janauskas,0
+171,Lenskart,$4.50 ,12/20/19,India,Faridabad,E-commerce & direct-to-consumer,"Chiratae Ventures, PremjiInvest, Softbank",lenskart,Peyush Bansal,2
+172,Monzo,$4.50 ,10/31/18,United Kingdom,London,Fintech,"Passion Capital, Thrive Capital, Orange Digital Ventures",monzo,Tom Blomfield,2
+173,Socure,$4.50 ,3/16/21,United States,New York,Cybersecurity,"Two Sigma Ventures, Flint Capital, Commerce Ventures",socure,Johnny Ayers,2
+174,VIPKid,$4.50 ,8/4/16,China,Beijing,Edtech,"Sequoia Capital China, Tencent Holdings, Sinovation Ventures",vipkid,Miyaosheng Zhu,0
+175,wefox,$4.50 ,3/5/19,Germany,Berlin,Fintech,"Salesforce Ventures, Seedcamp, OMERS Ventures",wefox,Julian Teicke,2
+176,Guild Education,$4.40 ,11/13/19,United States,Denver,Internet software & services,"General Atlantic, Blackstone, ICONIQ Growth",guild education,Rachel Carlson,2
+177,Outreach,$4.40 ,4/16/19,United States,Seattle,Internet software & services,"Mayfield Fund, M12, Trinity Ventures",outreach,Manny Medina,2
+178,WeRide,$4.40 ,12/23/20,China,Guangzhou,Auto & transportation,"Atop Capital, IDInvest Partners, Qiming Venture Partners",weride,Tony Han,0
+179,Arctic Wolf Networks,$4.30 ,10/22/20,United States,Eden Prairie,Cybersecurity,"Lightspeed Venture Partners, Redpoint Ventures, Viking Global Investors",arctic wolf networks,Brian NeSmith,1
+180,Sorare,$4.30 ,9/21/21,France,Paris,Internet software & services,"Benchmark, Accel, SoftBank Group",sorare,Nicolas Julia,0
+181,Miaoshou Doctor,$4.25 ,6/27/19,China,Beijing,E-commerce & direct-to-consumer,"Sequoia Capital China, Qiming Venture Partners, Tencent Holdings",miaoshou doctor,Xiaoming Jiang,2
+182,dbt Labs,$4.20 ,6/30/21,United States,Philadelphia,Data management & analytics,"Andreessen Horowitz, Amplify Partners, Sequoia Capital",dbt labs,Tristan Handy,0
+183,Globalization Partners,$4.20 ,1/24/22,United States,Boston,Internet software & services,"Vista Equity Partners, Wincove, TDR Capital",globalization partners,Nicole Sahin.,1
+184,Relativity Space,$4.20 ,11/23/20,United States,Inglewood,Other,"Playground Global, Bond, Tribe Capital",relativity space,Tim Ellis,1
+185,ThoughtSpot,$4.20 ,5/8/18,United States,Sunnyvale,Internet software & services,"Lightspeed Venture Partners, Khosla Ventures, Geodesic Capital",thoughtspot,Ajeet Singh,2
+186,SSENSE,$4.15 ,6/8/21,Canada,Montreal,E-commerce & direct-to-consumer,Sequoia Capital,ssense,Rami Atallah,0
+187,BitPanda,$4.11 ,3/16/21,Austria,Vienna,Fintech,"Speedinvest, Valar Ventures, Uniqa Ventures",bitpanda,Eric Demuth,1
+188,Dataminr,$4.10 ,6/4/18,United States,New York,Artificial intelligence,"Venrock, Institutional Venture Partners, Goldman Sachs",dataminr,Ted Bailey,1
+189,Weee!,$4.10 ,3/16/21,United States,Fremont,"Supply chain, logistics, & delivery","Goodwater Capital, iFly, XVC Venture Capital",weee!,Larry Liu.,0
+190,Abnormal Security,$4.00 ,5/10/22,United States,San Francisco,Cybersecurity,"Greylock Partners, Insight Partners,Menlo Ventures",abnormal security,Evan Reiser,0
+191,Aurora Solar,$4.00 ,5/24/21,United States,San Francisco,Internet software & services,"Fifth Wall Ventures, Energize Ventures, ICONIQ Capital",aurora solar,Christopher Hopper,0
+192,Branch,$4.00 ,9/10/18,United States,Redwood City,Mobile & telecommunications,"New Enterprise Associates, Pear, Cowboy Ventures",branch,Atif Azim,2
+193,BrowserStack,$4.00 ,6/16/21,Ireland,Dublin,Internet software & services,"Accel, Insight Partners, Bond Capital",browserstack,Nakul Aggarwal,2
+194,Cerebras Systems,$4.00 ,11/14/18,United States,Los Altos,Hardware,"Benchmark, Foundation Capital, Sequoia Capital",cerebras systems,Andrew Feldman,1
+195,ClickUp,$4.00 ,12/15/20,United States,San Diego,Internet software & services,"Georgian Partners, Craft Ventures",clickup,Zeb Evans,0
+196,Clubhouse,$4.00 ,1/24/21,United States,San Francisco,Mobile & telecommunications,"Andreessen Horowitz, TQ Ventures",clubhouse,Paul Davison,0
+197,Digit Insurance,$4.00 ,1/15/21,India,Bengaluru,Fintech,"Fairfax Financial Holdings, A91 Partners, TVS Capital",digit insurance,Kamesh Goyal,2
+198,Farmers Business Network,$4.00 ,8/3/20,United States,San Carlos,Other,"Blackrock, Kleiner Perkins Caulfield & Byers, Google Ventures",farmers business network,Amol Deshpande,0
+199,Greensill,$4.00 ,7/16/18,United Kingdom,London,Fintech,"SoftBank Group, General Atlantic",greensill,Lex Greensill,0
+200,Houzz,$4.00 ,9/30/14,United States,Palo Alto,E-commerce & direct-to-consumer,"New Enterprise Associates, Sequoia Capital, Comcast Ventures",houzz,Adi Tatarko,1
+201,Impossible Foods,$4.00 ,5/13/19,United States,Redwood City,Consumer & retail,"Khosla Ventures, Horizons Ventures, Temasek Holdings",impossible foods,Patrick Brown,0
+202,MEGVII,$4.00 ,10/31/17,China,Beijing,Artificial intelligence,"Ant Financial Services Group, Russia-China Investment Fund, Foxconn Technology Company",megvii,Qi Yin,0
+203,Melio,$4.00 ,1/25/21,United States,New York,Fintech,"Accel, Aleph, American Express Ventures",melio,Matan Bar,0
+204,Next Insurance,$4.00 ,10/7/19,United States,Palo Alto,Fintech,"Zeev Ventures, Ribbit Capital, TLV Partners",next insurance,Guy Goldstein,2
+205,Olive,$4.00 ,12/1/20,United States,Columbus,Health,"Drive Capital, General Catalyst, Ascension Ventures",olive,Brad Smith,2
+206,Patreon,$4.00 ,9/2/20,United States,San Francisco,Internet software & services,"Index Ventures, Thrive Capital, CRV",patreon,Jack Conte,1
+207,PointClickCare,$4.00 ,1/7/21,Canada,Mississauga,Internet software & services,"Dragoneer Investment Group, Hellman & Friedman, JMI Equity",pointclickcare,Mike Wessinger,1
+208,Radiology Partners,$4.00 ,2/26/18,United States,El Segundo,Health,"New Enterprise Associates, Starr Investment Holdings",radiology partners,Rich Whitney,0
+209,Rubrik,$4.00 ,4/28/17,United States,Palo Alto,Data management & analytics,"Greylock Partners, Lightspeed Venture Partners, Khosla Ventures",rubrik,Bipul Sinha,2
+210,Skydance Media,$4.00 ,2/11/20,United States,Santa Monica,Other,"RedBird Capital Partners, CJ ENM, Tencent Holdings",skydance media,David Ellison,0
+211,Vuori,$4.00 ,10/13/21,United States,Carlsbad,E-commerce & direct-to-consumer,"SoftBank Group, Norwest Venture Partners",vuori,Joe Kudla,1
+212,Webflow,$4.00 ,1/13/21,United States,San Francisco,Internet software & services,"Accel, Silversmith Capital Partners, capitalG",webflow,Vlad Magdalin,1
+213,Yello Mobile,$4.00 ,11/11/14,South Korea,Seoul,Mobile & telecommunications,Formation 8,yello mobile,Sang-hyuk Lee,0
+214,Yuga Labs,$4.00 ,3/22/22,United States,Miami,Internet software & services,"Andreessen Horowitz, Thrive Capital, Sound Ventures",yuga labs,Mike Pouchnejad,0
+215,Zapier,$4.00 ,1/14/21,United States,Sunnyvale,Internet software & services,"Sequoia Capital, Bessemer Venture Partners, Threshold Ventures",zapier,Wade Foster,1
+216,Hozon Auto,$3.95 ,2/22/22,China,Shanghai,Auto & transportation,"HD Capital, Qihoo 360 Technology, China Fortune Land Development",hozon auto,Dahuang Zhou,0
+217,Medlinker,$3.92 ,7/31/18,China,Chengdu,Health,"China Health Industry Investment Fund, China Renaissance, and Sequoia Capital China",medlinker,Zhenghua Luo,0
+218,Convoy,$3.80 ,9/21/18,United States,Seattle,"Supply chain, logistics, & delivery","Greylock Partners, capitalG, Y Combinator",convoy,Dan Lewis,0
+219,Intarcia Therapeutics,$3.80 ,4/1/14,United States,Boston,Health,"New Enterprise Associates, New Leaf Venture Partners, Charter Venture Capital",intarcia therapeutics,Kurt Graves,2
+220,MessageBird,$3.80 ,10/8/20,Netherlands,Amsterdam,Mobile & telecommunications,"Y Combinator, Atomico, Accel",messagebird,Robert Vis,2
+221,StockX,$3.80 ,6/26/19,United States,Detroit,E-commerce & direct-to-consumer,"Google Ventures, Battery Ventures, DST Global",stockx,Josh Luber,1
+222,Articulate,$3.75 ,7/1/21,United States,New York,Edtech,"Blackstone, ICONIQ Growth, General Atlantic",articulate,Adam Schwartz,1
+223,Dutchie,$3.75 ,3/16/21,United States,Bend,E-commerce & direct-to-consumer,"Casa Verde Capital, Gron Ventures, Thrity Five Ventures",dutchie,Ross Lipson,0
+224,Abogen,$3.70 ,11/29/21,China,Suzhou,Health,"Hillhouse Capital Management, SoftBank Group, Qiming Venture Partners",abogen,Stephen D. Andrews,1
+225,Cohesity,$3.70 ,6/11/18,United States,San Jose,Data management & analytics,"SoftBank Group, Sequoia Capital, Wing Venture Capital",cohesity,Mohan Kumar,2
+226,Dataiku,$3.70 ,12/4/19,United States,New York,Artificial intelligence,"Alven Capital, FirstMark Capital, capitalG",dataiku,Florian Douetteau,2
+227,GOAT,$3.70 ,9/23/20,United States,Culver City,E-commerce & direct-to-consumer,"Upfront Ventures, Webb Investment Network, D1 Capital Partners",goat,Eddy Lu,1
+228,Harness,$3.70 ,1/14/21,United States,San Francisco,Artificial intelligence,"Menlo Ventures, Alkeon Capital Management, Citi Ventures",harness,Jyoti Bansal,0
+229,Noom,$3.70 ,5/24/21,United States,New York,Health,"Qualcomm Ventures, Samsung Ventures, Silver Lake",noom,Saeju Jeong,0
+230,Papaya Global,$3.70 ,3/4/21,United States,New York,Internet software & services,"Bessemer Venture Partners, Insight Partners, New Era Ventures",papaya global,Eynat Guez,2
+231,Redwood Materials,$3.70 ,7/28/21,United States,Carson City,Other,"Breakthrough Energy Ventures, Capricorn Investment Group, Valor Equity Partners",redwood materials,JB Straubel,1
+232,VAST Data,$3.70 ,4/16/20,United States,New York,Data management & analytics,"Norwest Venture Partners, Goldman Sachs, Dell Technologies Capital",vast data,Renen Hallak,2
+233,Whatnot,$3.70 ,9/16/21,United States,Marina del Rey,E-commerce & direct-to-consumer,"Y Combinator, Andreessen Horowitz, Wonder Ventures",whatnot,Logan Paul,0
+234,Autograph,$3.66 ,1/20/22,United States,Santa Monica,Internet software & services,01 Advisors. Kleiner Perkins Caufield & Byers. Andreessen Horowitz,autograph,James Packer,0
+235,Applied Intuition,$3.60 ,10/22/20,United States,Sunnyvale,Auto & transportation,"Andreessen Horowitz, Lux Capital, General Catalyst",applied intuition,Qasar Younis,1
+236,Course Hero,$3.60 ,2/12/20,United States,Redwood City,Edtech,"NewView Capital, Maveron, Ridge Ventures",course hero,Andrew Grauer,2
+237,Relativity,$3.60 ,3/18/21,United States,Chicago,Internet software & services,"Silver Lake, ICONIQ Capital",relativity,Ryan Kavanaugh,2
+238,SpotOn,$3.60 ,5/26/21,United States,San Francisco,Fintech,"Dragoneer Investment Group, DST Global, Franklin Templeton",spoton,Dorothy Jean Last_name,0
+239,Whoop,$3.60 ,10/28/20,United States,Boston,E-commerce & direct-to-consumer,"NextView Ventures, Promus Ventures, Two Sigma Ventures",whoop,Will Ahmed,0
+240,Otto Bock HealthCare,$3.52 ,6/24/17,Germany,Duderstadt,Health,EQT Partners,otto bock healthcare,Hans Georg Näder,0
+241,Acronis,$3.50 ,9/18/19,Switzerland,Schaffhausen,Cybersecurity,"Goldman Sachs, VebVentures, Insight Partners",acronis,Serguei Beloussov,2
+242,Celsius Network,$3.50 ,10/12/21,United States,Hoboken,Fintech,"WestCap Group, Caisse de depot et placement du Quebec",celsius network,Alex Mashinsky,2
+243,ChargeBee Technologies,$3.50 ,4/20/21,United States,San Francisco,Fintech,"Insight Partners, Tiger Global Management, Accel",chargebee technologies,Krish Subramanian,0
+244,Commure,$3.50 ,9/16/21,United States,San Francisco,Internet software & services,"General Catalyst, HCA Healthcare",commure,Sima_Samuel,1
+245,Flock Safety,$3.50 ,7/13/21,United States,Atlanta,Hardware,"Matrix Partners, Initialized Capital, Tiger Global Management",flock safety,Garrett Langley,2
+246,GoStudent,$3.50 ,6/22/21,Austria,Vienna,Edtech,"DN Capital, Left Lane Capital, Coatue Management",gostudent,Felix Ohswald,2
+247,Handshake,$3.50 ,5/12/21,United States,San Francisco,Internet software & services,"Kleiner Perkins Caufield & Byers, Lightspeed Venture Partners, True Ventures",handshake,Garrett Camp,1
+248,Helion Energy,$3.50 ,11/5/21,United States,Redmond,Other,"Mithril Capital Management, Y Combinator, Capricorn Investment Group",helion energy,David K. Schlossberg,0
+249,Highspot,$3.50 ,2/22/21,United States,Seattle,Internet software & services,"Madrona Venture Group, Shasta Ventures, Salesforce Ventures",highspot,Robert Wahbe,1
+250,HyalRoute,$3.50 ,5/26/20,Singapore,,Mobile & telecommunications,Kuang-Chi,hyalroute,John Smith,0
+251,Indigo Ag,$3.50 ,9/26/17,United States,Boston,Artificial intelligence,"Activant Capital Group, Alaska Permanent Fund, Baillie Gifford & Co.",indigo ag,David Perry,0
+252,Mirakl,$3.50 ,9/22/20,France,Paris,E-commerce & direct-to-consumer,"Elaia Partners, 83North, Felix Capital",mirakl,Adrien Nussenbaum,0
+253,Rec Room,$3.50 ,3/23/21,United States,Seattle,Internet software & services,"First Round Capital, Sequoia Capital, Index Ventures",rec room,Nick Fajt,0
+254,Tekion,$3.50 ,10/21/20,United States,San Ramon,Internet software & services,"Airbus Ventures, Index Ventures, Advent International",tekion,Jay Vijayan,2
+255,Unacademy,$3.44 ,9/2/20,India,Bengaluru,Edtech,"Blume Ventures, Nexus Venture Partners, Sequoia Capital India",unacademy,Gaurav Munjal,1
+256,Odoo,$3.43 ,7/29/21,Belgium,Louvain-la-Neuve,Internet software & services,"Summit Partners, Noshaq, Sofinnova Partners",odoo,Fabien Pinckaers,2
+257,MoonPay,$3.40 ,11/22/21,United States,Miami,Fintech,"New Enterprise Associates, Coatue Management, Tiger Global Management",moonpay,Ivan Soto-Wright,0
+258,Upstox,$3.40 ,11/29/21,India,Mumbai,Fintech,"Tiger Global Management, Kalaari Capital",upstox,Ravi Kumar,2
+259,Improbable,$3.36 ,5/11/17,United Kingdom,London,Other,"Andreessen Horowitz, SoftBank Group, Temasek Holdings",improbable,Herman Narula,1
+260,OwnBackup,$3.35 ,1/28/21,United States,Englewood Cliffs,Data management & analytics,"Insight Partners, Salesforce Ventures, Vertex Ventures",ownbackup,Sam Gutmann,0
+261,Starburst,$3.35 ,1/6/21,United States,Boston,Data management & analytics,"Index Ventures, Coatue Management, Andreessen Horowitz",starburst,John Smith,0
+262,Youxia Motors,$3.35 ,4/2/18,China,Shanghai,Auto & transportation,"China Environmental Protection Industry, China Fortune Ocean",youxia motors,Hua Su,2
+263,Starling Bank,$3.34 ,3/8/21,United Kingdom,London,Fintech,"JTC Group, Qatar Investment Authority, Fidelity Investment",starling bank,Anne Boden,2
+264,ECARX,$3.31 ,10/26/20,China,Wuhan,Auto & transportation,"Geely, SIG Asia Investments, China State Capital Venture Capital Fund",ecarx,Zhang Xin,2
+265,Cars24,$3.30 ,11/24/20,India,Gurgaon,E-commerce & direct-to-consumer,"Moore Strategic Ventures, DST Global, Sequoia Capital India",cars24,Vikram Chopra,2
+266,Komodo Health,$3.30 ,5/22/20,United States,San Francisco,Health,"Andreessen Horowitz, IA Ventures, Felicis Ventures",komodo health,Arif Nathoo,0
+267,Kurly,$3.30 ,7/9/21,South Korea,Seoul,"Supply chain, logistics, & delivery","Sequoia Capital China, DST Global, DST Global",kurly,Soojin Kang,0
+268,Scopely,$3.30 ,10/29/19,United States,Culver City,Mobile & telecommunications,"Greycroft, Sands Capital, Revolution Growth",scopely,Walter Driver,0
+269,Sila Nanotechnologies,$3.30 ,4/16/19,United States,Alameda,Other,"Bessemer Venture Partners, Sutter Hill Ventures, Matrix Partners",sila nanotechnologies,Gene Berdichevsky,1
+270,Via,$3.30 ,3/30/20,United States,New York,Auto & transportation,"83North, RiverPark Ventures, Pitango Venture Capital",via,Hossein_Shahriar,1
+271,BlockDaemon,$3.25 ,9/21/21,United States,Los Angeles,Fintech,"BOLDstart Ventures, Lerer Hippeau, Kenetic Capital",blockdaemon,Konstantin Richter,0
+272,Dadi Cinema,$3.24 ,5/11/16,China,Shenzhen,Other,Alibaba Pictures Group,dadi cinema,Yuanqiang Hao,2
+273,Aiven,$3.21 ,10/18/21,Finland,Helsinki,Internet software & services,"Institutional Venture Partners, Atomico, Earlybird Venture Capital",aiven,Oskari Saarenmaa,0
+274,ApplyBoard,$3.20 ,5/5/20,Canada,Kitchener,Edtech,"Artiman Ventures, Plug and Play Ventures, Anthos Capital",applyboard,Martin Basiri,0
+275,Astera Labs,$3.20 ,11/17/22,United States,Santa Clara,Hardware,"Intel Capital, Sutter Hill Ventures, VentureTech",astera labs,Hamid Zarringhalam,0
+276,Blockstream,$3.20 ,8/24/21,Canada,Vancouver,Fintech,"AME Cloud Ventures, Future Perfect Ventures, Blockchain Capital",blockstream,Adam Back,3
+277,Cedar,$3.20 ,3/9/21,United States,New York,Fintech,"Thrive Capital, Founders Fund, Cocnord Health Partners",cedar,Cindy Crawford,1
+278,Eikon Therapeutics,$3.20 ,1/6/22,United States,Hayward,Health,"The Column Group, Foresite Capital, Foresite Capital",eikon therapeutics,Shawn DeFoney,0
+279,Eruditus Executive Education,$3.20 ,8/12/21,India,Mumbai,Edtech,"Sequoia Capital India, Softbank, Bertelsmann India Investments",eruditus executive education,Ashwin Damera,2
+280,Innovaccer,$3.20 ,2/19/21,United States,San Francisco,Health,"M12, WestBridge Capital, Lightspeed Venture Partners",innovaccer,Abhinav Gupta,0
+281,Ironclad,$3.20 ,1/18/22,United States,Sacramento,Internet software & services,"Accel, Sequoia Capital, Y Combinator",ironclad,Jason Boehmig,0
+282,Retool,$3.20 ,12/22/21,United States,San Francisco,Internet software & services,Sequoia Capital,retool,David Hsu,0
+283,Skims,$3.20 ,4/9/21,United States,Los Angeles,E-commerce & direct-to-consumer,"Thrive Capital, Alliance Consumer Growth, Imaginary Ventures",skims,Kim Kardashian West,0
+284,Thumbtack,$3.20 ,9/29/15,United States,San Francisco,E-commerce & direct-to-consumer,"Tiger Global, Sequoia Capital, Google Capital",thumbtack,Marco Zappacosta,1
+285,Verkada,$3.20 ,1/29/20,United States,San Mateo,Cybersecurity,"next47, First Round Capital, Sequoia Capital",verkada,Filip Kaliszan,2
+286,PsiQuantum,$3.15 ,7/27/21,United States,Palo Alto,Hardware,"Playground Global, M12, BlackRock",psiquantum,Jeremy O'Brien,3
+287,Gorillas,$3.10 ,3/25/21,Germany,Berlin,"Supply chain, logistics, & delivery","Coatue Management, Atlantic Food Labs, DST Global",gorillas,Kağan Sümer,2
+288,HighRadius,$3.10 ,1/7/20,United States,Houston,Fintech,"Susquehanna Growth Equity, Citi Ventures, ICONIQ Capital",highradius,Sashi Narahari,0
+289,Nuvemshop,$3.10 ,8/17/21,Brazil,Sao Paulo,E-commerce & direct-to-consumer,"Kaszek Ventures, Qualcomm Ventures, Accel",nuvemshop,Santiago Sosa,0
+290,Udaan,$3.10 ,9/4/18,India,Bengaluru,"Supply chain, logistics, & delivery","DST Global, Lightspeed Venture Partners, Microsoft ScaleUp",udaan,Sujeet Kumar,1
+291,ActiveCampaign,$3.00 ,4/21/21,United States,Chicago,Internet software & services,"Silversmith Capital Partners, Susquehanna Growth Equity, Tiger Global Management",activecampaign,Jason VandeBoom,0
+292,Age of Learning,$3.00 ,5/3/16,United States,Glendale,Edtech,Iconiq Capital,age of learning,Doug Dohring,0
+293,Amber Group,$3.00 ,6/21/21,Hong Kong,,Fintech,"Tiger Global Management, Tiger Brokers, DCM Ventures",amber group,Michael Wu,0
+294,Anchorage Digital,$3.00 ,12/15/21,United States,San Francisco,Fintech,"Andreessen Horowitz, Blockchain Capital, Lux Capital",anchorage digital,Nathan McCauley,1
+295,BGL Group,$3.00 ,11/24/17,United Kingdom,Peterborough,Fintech,CPP Investment Board,bgl group,Matthew Donaldson,0
+296,BlockFi,$3.00 ,3/11/21,United States,Jersey City,Fintech,"ConsenSys Ventures, Valar Ventures, PUC",blockfi,Zac Prince,0
+297,Calendly,$3.00 ,1/26/21,United States,Atlanta,Internet software & services,"ICONIQ Capital, OpenView Venture Partners",calendly,Tope Awotona.,1
+298,Carbon Health,$3.00 ,7/21/21,United States,San Francisco,Health,"Brookfield Asset Management, Blackstone, Data Collective",carbon health,Eren Bali,1
+299,Circle,$3.00 ,5/15/18,United States,Boston,Fintech,"General Catalyst, Digital Currency Group, Accel",circle,Jeremy Allaire,0
+300,CMR Surgical,$3.00 ,9/17/19,United Kingdom,Cambridge,Health,"Cambridge Innovation Capital, LGT Capital Partners, Escala Capital",cmr surgical,Per Vegard Nerseth,0
+301,Contentful,$3.00 ,7/28/21,Germany,Berlin,Internet software & services,"Balderton Capital, General Catalyst, Tiger Global Management",contentful,Sascha Konietzke,1
+302,Cross River Bank,$3.00 ,2/11/22,United States,Fort Lee,Fintech,"Battery Ventures, Andreessen Horowitz, Ribbit Capital",cross river bank,Gilles Gade,0
+303,FlixMobility,$3.00 ,7/18/19,Germany,Munich,Auto & transportation,"Holtzbrinck Ventures, Unternehmertum Venture Capital, General Atlantic",flixmobility,Jochen Engert,0
+304,Flutterwave,$3.00 ,3/9/21,United States,San Francisco,Fintech,"Green Visor Capital, CRE Venture Capital, Greycroft",flutterwave,Olugbenga Agboola,0
+305,Forter,$3.00 ,11/19/20,United States,New York,Cybersecurity,"Sequoia Capital Israel, Scale Venture Partners, Commerce Ventures",forter,Michael Reitblat,0
+306,Groww,$3.00 ,4/7/21,India,Bengaluru,Fintech,"Tiger Global Management, Sequoia Capital India, Ribbit Capital",groww,Lalit Keshre,0
+307,Inxeption,$3.00 ,1/13/22,United States,San Francisco,Fintech,"Coatue Management, BMO Capital, Schonfeld Strategic Advisors",inxeption,Farzad Dibachi,0
+308,KK Group,$3.00 ,10/23/19,China,Dongguan,E-commerce & direct-to-consumer,"Matrix Partners China, Bright Venture Capita, Shenzhen Capital Group",kk group,Jason Lee,1
+309,Lattice,$3.00 ,3/23/21,United States,San Francisco,Internet software & services,"Khosla Ventures, Thrive Capital, Y Combinator",lattice,Jim Anderson,2
+310,LaunchDarkly,$3.00 ,8/10/21,United States,Oakland,Internet software & services,"Uncork Capital, Threshold Ventures, Bloomberg Beta",launchdarkly,Edith Harbaugh,0
+311,Lucid Software,$3.00 ,6/29/21,United States,South Jordan,Internet software & services,"Spectrum Equity, ICONIQ Capital, Grayhawk Capital",lucid software,Karl Sun,1
+312,Outschool,$3.00 ,4/14/21,United States,San Francisco,Edtech,"Uniion Square Ventures, Tiger Global Management, Lightspeed Venture Capital",outschool,Amir Nathoo,0
+313,Podium,$3.00 ,4/7/20,United States,Lehi,Internet software & services,"Accel, Summit Partners, Google Ventures",podium,Eric Rea,0
+314,Remote,$3.00 ,7/13/21,United States,San Francisco,Fintech,"Index Ventures, Sequoia Capital, General Catalyst",remote,Sara Sutton,1
+315,Seismic,$3.00 ,12/18/18,United States,San Diego,Internet software & services,"Jackson Square Ventures, General Atlantic, Lightspeed Venture Partners",seismic,Doug Winter,2
+316,Sentry,$3.00 ,2/18/21,United States,San Francisco,Other,"New Enterprise Associates, Accel, Bond",sentry,David Heller,3
+317,Sky Mavis,$3.00 ,10/4/21,Vietnam,Ho Chi Minh City,Internet software & services,"Fabric Ventures, 500 Global, Standard Crypto",sky mavis,Nguyen Tuấn Cuong,0
+318,SouChe Holdings,$3.00 ,11/1/17,China,Hangzhou,E-commerce & direct-to-consumer,"Morningside Ventures, Warburg Pincus, CreditEase Fintech Investment Fund",souche holdings,Bin Li,3
+319,TradingView,$3.00 ,10/14/21,United States,Westerville,Fintech,"Tiger Global Management, Insight Partners, Jump Capital",tradingview,Dennis Gorski,0
+320,Traveloka,$3.00 ,1/1/17,Indonesia,Jakarta,Travel,"Global Founders Capital, East Ventures, Expedia Inc.",traveloka,Ferry Unardi,0
+321,Wildlife Studios,$3.00 ,12/5/19,Brazil,Sao Paulo,Other,"Benchmark, Bessemer Venture Partners",wildlife studios,Arthur Madrid,1
+322,Yixia,$3.00 ,11/24/15,China,Beijing,Mobile & telecommunications,"Sequoia Capital China, Sina Weibo, Kleiner Perkins Caufield & Byers, Redpoint Ventures",yixia,Jianhua Zhu,1
+323,Zuoyebang,$3.00 ,7/18/18,China,Beijing,Edtech,"Sequoia Capital China, Xiang He Capital, GGV Capital",zuoyebang,Yong Li,3
+324,Kraken,$2.92 ,6/25/19,United States,San Francisco,Fintech,"Bnk To The Future, Trammell Ventures, SBI Investment",kraken,Jesse Powell,1
+325,OpenAI,$2.92 ,7/22/19,United States,San Francisco,Artificial intelligence,Khosla Ventures,openai,Sam Altman,1
+326,Loft,$2.90 ,1/3/20,Brazil,Sao Paulo,E-commerce & direct-to-consumer,"Monashees+, Andreessen Horowitz, QED Investors",loft,Julie Wainwright,0
+327,Workrise,$2.90 ,9/30/19,United States,Austin,Internet software & services,"Founders Fund, Quantum Energy Partners, Bedrock Capital",workrise,Cody Sanford,2
+328,Gokin Solar,$2.88 ,4/13/22,China,Zhuhai,Other,"IDG Capital, Puluo Capital, Midea Capital",gokin solar,Elaine Chen,1
+329,Alan,$2.85 ,4/19/21,France,Paris,Fintech,"Index Ventures, Temasek, Portag3 Ventures",alan,JeanCharles Samuelian-Werve,0
+330,BharatPe,$2.85 ,7/30/21,India,New Delhi,Fintech,"Insight Partners, Sequoia Capital India, BEENEXT",bharatpe,Ashneer Grover,0
+331,DriveWealth,$2.85 ,8/20/21,United States,Chatham,Fintech,"Point72 Ventures, Route 66 Ventures, Accel",drivewealth,Robert Cortright,1
+332,Motive,$2.85 ,4/23/19,United States,San Francisco,"Supply chain, logistics, & delivery","Google Ventures, Index Ventures, Scale Venture Partners",motive,Adil Zaidi,0
+333,Meicai,$2.80 ,6/22/16,China,Beijing,Mobile & telecommunications,"Tiger Global Management, Blue Lake Capital, ZhenFund",meicai,Xiaoqiang Cui,1
+334,Zipline,$2.80 ,5/20/19,United States,South San Francisco,"Supply chain, logistics, & delivery","Sequoia Capital, Baillie Gifford & Co., Google Ventures",zipline,Keller Rinaudo,1
+335,Nutrabolt,$2.79 ,12/8/22,United States,Austin,Consumer & retail,MidOcean Partners,nutrabolt,Doss Cunningham,0
+336,Graphcore,$2.77 ,12/18/18,United Kingdom,Bristol,Artificial intelligence,"Dell Technologies Capital, Pitango Venture Capital, Amadeus Capital Partners",graphcore,Nigel Toon,1
+337,Dream Games,$2.75 ,6/30/21,Turkey,Istanbul,Mobile & telecommunications,"Makers Fund, Index Ventures, Inova Ventures Participacees",dream games,Eren Sengul,0
+338,Illumio,$2.75 ,4/14/15,United States,Sunnyvale,Cybersecurity,"Data Collective, Formation 8, General Catalyst Partners",illumio,Andrew Rubin,0
+339,MasterClass,$2.75 ,5/13/21,United States,San Francisco,Edtech,"Institutional Venture Partners, New Enterprise Associates, Javelin Venture Partners",masterclass,David Rogier,0
+340,Transmit Security,$2.74 ,6/22/21,Israel,Tel Aviv,Cybersecurity,"General Atlantic, Insight Partners, Vintage Investment Partners",transmit security,Rakesh Loonkar,2
+341,Ethos,$2.70 ,5/11/21,United States,San Francisco,Fintech,"Sequoia Capital, Google Ventures, Accel",ethos,Peter Churchouse,1
+342,Nextiva,$2.70 ,9/14/21,United States,Scottsdale,Internet software & services,Goldman Sachs Asset Management,nextiva,Tomas Gorny,1
+343,o9 Solutions,$2.70 ,4/28/20,United States,Dallas,Artificial intelligence,KKR,o9 solutions,Chakri Gottemukkala,0
+344,Thought Machine,$2.70 ,11/29/21,United Kingdom,London,Fintech,"British Patient Capital, SEB Venture Capital, IQ Capital",thought machine,Paul_Taylor,2
+345,Tradeshift,$2.70 ,5/30/18,United States,San Francisco,Fintech,"Notion Capital, Scentan Ventures, Kite Ventures",tradeshift,Christian Lanng,2
+346,Tridge,$2.70 ,8/24/22,South Korea,Seoul,Internet software & services,"Forest Partners, Softbank Ventures Asia",tridge,Samuel Kim,2
+347,Zetwerk,$2.68 ,8/20/21,India,Bengaluru,Internet software & services,"Sequoia Capital India, Kae Capital, Accel",zetwerk,Amrit Acharya,0
+348,BackBase,$2.66 ,6/9/22,Netherlands,Amsterdam,Fintech,Motive Partners,backbase,Jouk Pleiter,0
+349,Freenome,$2.62 ,8/26/20,United States,South San Francisco,Health,"Andreessen Horowitz, Data Collective, Roche Venture Fund",freenome,Gabe Otterson,0
+350,JumpCloud,$2.62 ,9/13/21,United States,Louisville,Data management & analytics,"Foundry Group, General Atlantic, BlackRock",jumpcloud,Rajat Bhargava,1
+351,Project44,$2.62 ,6/1/21,United States,Chicago,"Supply chain, logistics, & delivery","Emergence Capital Partners, 8VC, Chicago Ventures",project44,Jett McCandless,0
+352,Sourcegraph,$2.62 ,7/13/21,United States,San Francisco,Internet software & services,"Redpoint Ventures, Goldcrest Capital, Insight Partners",sourcegraph,Beyang Liu,2
+353,Axonius,$2.60 ,3/1/21,United States,New York,Cybersecurity,"Vertex Ventures Israel, Bessemer Venture Partners, Emerge",axonius,Dean Sysman,2
+354,Clari,$2.60 ,3/3/21,United States,Sunnyvale,Internet software & services,"Sequoia Capital, Bain Capital Ventures, enaya Capital",clari,Andy Byrne,0
+355,ManoMano,$2.60 ,7/5/21,France,Paris,E-commerce & direct-to-consumer,"General Atlantic, Piton Capital, Partech Partners",manomano,Philippe de Chanville,0
+356,Moglix,$2.60 ,5/17/21,Singapore,,E-commerce & direct-to-consumer,"Jungle Ventures, Accel, Venture Highway",moglix,Rahul Garg,2
+357,Pendo,$2.60 ,10/17/19,United States,Raleigh,Internet software & services,"Contour Venture Partners, Battery Ventures, Core Capital Partners",pendo,Todd Olson,3
+358,Plume,$2.60 ,2/23/21,United States,Palo Alto,Internet software & services,"Insight Partners, Jackson Square Ventures, Liberty Gloval Ventures",plume,Fahri Diner,1
+359,Unico,$2.60 ,8/3/21,Brazil,Sao Paulo,Artificial intelligence,"Big Bets, General Atlantic, SOFTBANK Latin America Ventures",unico,Zhongyu Jin,3
+360,Eat Just,$2.59 ,11/30/17,United States,San Francisco,Consumer & retail,"Khosla Ventures, Horizons Ventures, Founders Fund",eat just,Josh Tetrick,0
+361,Oura,$2.55 ,4/5/22,Finland,Oulu,Health,"Forerunner Ventures, Lifeline Ventures, MSD Capital",oura,Harpreet Rai,2
+362,A24 Films,$2.50 ,3/9/22,United States,New York,Other,"Stripes Group, Neuberger Berman",a24 films,David Fenkel,2
+363,Aura,$2.50 ,6/9/21,United States,Burlington,Cybersecurity,"Warburg Pincus, General Catalyst",aura,Stuart Hankin,1
+364,BYTON,$2.50 ,4/20/18,China,Nanjing,Auto & transportation,"FAW Group, Tencent Holdings, Tus Holdings",byton,Daniel Kirchert,0
+365,Cato Networks,$2.50 ,11/17/20,Israel,Tel Aviv,Cybersecurity,"Aspect Ventures, SingTel Innov8, Greylock Partners",cato networks,Shlomo Kramer,0
+366,Coda Payments,$2.50 ,4/15/22,Singapore,,Fintech,"GIC. Apis Partners, Insight Partners",coda payments,Neil Davidson,3
+367,Cribl,$2.50 ,8/25/21,United States,San Francisco,Data management & analytics,"Institutional Venture Partners, CRV, Sequoia Capital",cribl,Clint Sharp,2
+368,DriveNets,$2.50 ,1/27/21,Israel,Ra'anana,Internet software & services,"Bessemer Venture Partners, Pitango Venture Capital, D1 Capital Partners",drivenets,Ishai Medad,0
+369,Fetch Rewards,$2.50 ,3/31/21,United States,Madison,E-commerce & direct-to-consumer,"Greycroft, Loeb.NYC, DST Global",fetch rewards,Julie Lyle,0
+370,Games24x7,$2.50 ,3/30/22,India,Mumbai,Internet software & services,"Tiger Global Management, The Raine Group, Malabar Investments",games24x7,Bhavin Pandya,1
+371,Immutable,$2.50 ,3/7/22,Australia,Sydney,Fintech,"Fabric Ventures, AirTree Ventures, Temasek",immutable,James Ferguson,0
+372,Infra.Market,$2.50 ,2/25/21,India,Thane,E-commerce & direct-to-consumer,"Accel, Tiger Global Management, Nexus Venture Partners",infra.market,Souvik Sengupta,0
+373,Jetti Resources,$2.50 ,10/24/22,United States,Boulder,Other,"BMW i Ventures, BHP Ventures",jetti resources,Mike Levy,1
+374,Side,$2.50 ,3/22/21,United States,San Francisco,Internet software & services,"Coatue Managemeny, Trinity Ventures, Matrix Partners",side,Guy Galambos,0
+375,SiFive,$2.50 ,3/16/22,United States,San Mateo,Hardware,"Sutter Hill Ventures, Osage University Partners, Spark Capital",sifive,Naveed Sherwani,3
+376,Somatus,$2.50 ,2/23/22,United States,McLean,Health,"The Blue Venture Fund, Flare Capital Partners, Longitude Capital",somatus,Brian Kelly,2
+377,Sysdig,$2.50 ,4/28/21,United States,San Francisco,Cybersecurity,"Accel, Bain Capital Ventures, Insight Partners",sysdig,Suresh Vasudevan,0
+378,Uniphore,$2.50 ,2/16/22,United States,Palo Alto,Artificial Intelligence,"Chiratae Ventures, March Capital Partners, National Grid Partners",uniphore,Umakant Choudhary,0
+379,Varo Bank,$2.50 ,9/9/21,United States,San Francisco,Fintech,"Warburg Pincus, The Rise Fund, HarbourVest Partners",varo bank,Colin Walsh,0
+380,Vercel,$2.50 ,6/23/21,United States,San Francisco,Internet software & services,"CRV, Accel, Google Ventures",vercel,Guillermo Rauch,0
+381,Vista Global,$2.50 ,8/23/17,United Arab Emirates,Dubai,Other,Rhone Capital,vista global,Thomas Flohr,0
+382,Hibob,$2.45 ,10/12/21,Israel,Tel Aviv,Internet software & services,"Bessemer Venture Partners, Eight Roads Ventures, Battery Ventures",hibob,Ronni Zehavi,1
+383,Mobile Premier League,$2.45 ,9/15/21,India,Bengaluru,Internet software & services,"Sequoia Capital India, RTP Global, Go-Ventures",mobile premier league,Sai Srinivas Kiran G.,1
+384,Uala,$2.45 ,8/13/21,Argentina,Buenos Aires,Fintech,"Soros Fund Management, Ribbit Capital, Monashees+",uala,Pierpaolo Barbieri,2
+385,Cybereason,$2.44 ,8/6/19,United States,Boston,Cybersecurity,"SoftBank Group, CRV, Spark Capital",cybereason,Lior Div,1
+386,Cgtz,$2.41 ,2/21/17,China,Hangzhou,Fintech,"Shunwei Capital Partners, China Media Group, Guangzhou Huiyin Aofeng Equity Investment Fund",cgtz,Zhongyu Jin,3
+387,EquipmentShare,$2.41 ,5/1/20,United States,Columbia,Fintech,"Romulus Capital, Insight Partners, RedBird Capital Partners",equipmentshare,Jabbok Schlacks,0
+388,Star Charge,$2.41 ,5/19/21,China,Changzhou,Auto & transportation,"Shunwei Capital Partners, China Media Group, Guangzhou Huiyin Aofeng Equity Investment Fund",star charge,Zhenrong Shi,3
+389,ABL Space Systems,$2.40 ,3/25/21,United States,El Segundo,Other,"T. Rowe Price, Lockheed Martin Ventures, Fidelity Investment",abl space systems,Harry O'Hanley,2
+390,Beta Technologies,$2.40 ,4/19/22,United States,South Burlington,Other,"The Rise Fund, Fidelity Investments. RedBird Capital Partners",beta technologies,Kodiak Trombetta,1
+391,BitSight Technologies,$2.40 ,9/13/21,United States,Boston,Cybersecurity,"Menlo Ventures, GGV Capital, Flybridge Capital Partners",bitsight technologies,Tom Turner,1
+392,Carbon,$2.40 ,8/20/15,United States,Redwood City,Hardware,"Google Ventures, Sequoia Capital, Wakefield Group",carbon,Joseph DeSimone,0
+393,Exabeam,$2.40 ,6/1/21,United States,Foster City,Cybersecurity,"Norwest Venture Partners, Aspect Ventures, Lightspeed Venture Partners",exabeam,Nir Polak,1
+394,HoneyBook,$2.40 ,5/4/21,United States,San Francisco,Internet software & services,"Norwest Venture Partners, Hillsven Capital, Aleph",honeybook,Oz Alon,0
+395,Paxos,$2.40 ,4/29/21,United States,New York,Fintech,"Liberty City Ventures, RRE Ventures, Mithril Capital Management",paxos,Chad Cascarilla,1
+396,PolicyBazaar,$2.40 ,5/6/19,India,Gurgaon,Fintech,"Info Edge, Softbank Capital",policybazaar,Yashish Dahiya,0
+397,Rokt,$2.40 ,12/16/21,United States,New York,Internet software & services,"Square Peg Capital, TDM Growth Partners, Tiger Global Management",rokt,Bruce Buchanan,3
+398,Trumid,$2.40 ,7/15/20,United States,New York,Fintech,"T. Rowe Price, Dragoneer Investment Group, BlackRock",trumid,Ronald Anderson,0
+399,Jobandtalent,$2.35 ,12/1/21,Spain,Madrid,Internet software & services,"Kibo Ventures, SoftBank Group, Atomico",jobandtalent,Juan_Urdiales,0
+400,ManyPets,$2.35 ,6/1/21,United Kingdom,London,Fintech,"Octopus Ventures, Munich Re Ventures, CommerzVentures",manypets,Oliver Smith,1
+401,WEMAKEPRICE,$2.34 ,9/9/15,South Korea,Seoul,E-commerce & direct-to-consumer,"IMM Investment, NXC",wemakeprice,Jung-hoon Oh,0
+402,Biren Technology,$2.32 ,8/18/20,China,Shanghai,Hardware,"V FUND, IDG Capital, Green Pine Capital Partners",biren technology,David Wang,0
+403,Voodoo,$2.31 ,8/17/20,France,Paris,Other,"Tencent Holdings, Goldman Sachs",voodoo,Alexandre Yazdi,0
+404,Bowery Farming,$2.30 ,5/25/21,United States,New York,Other,"Temasek, Google Ventures, General Catalyst",bowery farming,Irving Fain,0
+405,Greenlight,$2.30 ,9/24/20,United States,Atlanta,Fintech,"Relay Ventures, TTV Capital, Canapi Ventures",greenlight,Jon Thomas,0
+406,Shield AI,$2.30 ,8/24/21,United States,San Diego,Artificial intelligence,"Andreessen Horowitz, Homebrew, Point72 Ventures",shield ai,Brandon Tseng,0
+407,Uptake,$2.30 ,10/27/15,United States,Chicago,Artificial intelligence,"Revolution, New Enterprise Associates, Caterpillar",uptake,Brad Keywell,1
+408,MoMo,$2.27 ,12/10/21,Vietnam,Ho Chi Minh City,Fintech,"Goodwater Capital, Warburg Pincus, GS Growth",momo,Diep Quynh Tram,0
+409,Algolia,$2.25 ,7/28/21,United States,San Francisco,Internet software & services,"Accel, Alven Capital, Storm Ventures",algolia,Nicolas Dessaigne,0
+410,Pattern,$2.25 ,10/6/21,United States,Lehi,Internet software & services,"Knox Lane, Ainge Advisory, Carlson Private Capital Partners",pattern,Ethan Diamond,1
+411,UpGrad,$2.25 ,8/9/21,India,Mumbai,Edtech,"Qualcomm Ventures, Accel, Canaan Partners",upgrad,Mayank Kumar,2
+412,Zume,$2.25 ,11/1/18,United States,Mountain View,Consumer & retail,"Softbank Group, AME Cloud Ventures, SignalFire",zume,Alex Garden.,0
+413,Bitso,$2.20 ,5/5/21,Mexico,Mexico City,Fintech,"Pantera Capital, QED Investors, Coinbase Ventures",bitso,Daniel Vogel,0
+414,BloomReach,$2.20 ,2/23/22,United States,Mountain View,Artificial intelligence,"Bain Capital Ventures, Sixth Street Growth, Lightspeed Venture Partners",bloomreach,Rajeev Raman,3
+415,Current,$2.20 ,4/27/21,United States,New York,Fintech,"Expa, QED Investors, Foundation Capital",current,Stuart Sopp,0
+416,Dialpad,$2.20 ,10/6/20,United States,San Francisco,Internet software & services,"Andreessen Horowitz, Google Ventures, Section 32",dialpad,Craig Walker,1
+417,G7 Networks,$2.20 ,2/15/22,China,Beijing,"Supply chain, logistics, & delivery","Eastern Bell Capital 32, SDIC CMC Investment Management, Trustbridge Partners",g7 networks,David Smith,0
+418,Gympass,$2.20 ,6/12/19,United States,New York,Internet software & services,"General Atlantic, SoftBank Group, Atomico",gympass,Cesar Carvalho,0
+419,Motif FoodWorks,$2.20 ,6/16/21,United States,Boston,Consumer & retail,"General Atlantic, Breakthrough Energy Ventures, Viking Global Investors",motif foodworks,Jonathan McIntyre,2
+420,MUSINSA,$2.20 ,11/11/19,South Korea,Seoul,E-commerce & direct-to-consumer,Sequoia Capital,musinsa,Cho Jung Wook,3
+421,Newfront Insurance,$2.20 ,4/12/22,United States,San Francisco,Fintech,"Founders Fund, Meritech Capital Partners, GS Growth",newfront insurance,Gordon W. Thompson,0
+422,NuCom Group,$2.20 ,2/22/18,Germany,Unterfoehring,Other,General Atlantic,nucom group,Markus Rehle,0
+423,Accelerant,$2.19 ,1/12/22,United Kingdom,Colchester,Other,"Deer Park Road, Altamont Capital Partners, Eldridge",accelerant,Ethan Hunt,2
+424,Huaqin Telecom Technology,$2.19 ,10/8/19,China,Shanghai,Mobile & telecommunications,"Zhangjiang Haocheng Venture Capital, Walden International, Intel Capital",huaqin telecom technology,Yuewen Li,0
+425,Hesai Tech,$2.18 ,8/1/20,China,Shanghai,Artificial intelligence,"Lightspeed China Partners, Baidu Ventures, Qiming Venture Partners",hesai tech,David Li,1
+426,Addepar,$2.17 ,6/15/21,United States,Mountain View,Fintech,"8VC, D1 Capital Partners, Sway Ventures",addepar,Joe Lonsdale,1
+427,Qualia,$2.17 ,12/21/20,United States,San Francisco,Fintech,"8VC, Menlo Ventures, Tiger Global Management",qualia,Kiran_Rao,0
+428,YITU Technology,$2.17 ,3/8/18,China,Shanghai,Artificial intelligence,"Sequoia Capital China, Banyan Capital",yitu technology,Liu Qingfeng,0
+429,CloudWalk,$2.15 ,9/8/21,Brazil,Sao Paulo,Fintech,"Plug and Play Ventures, Valor Capital Group, DST Global",cloudwalk,Xiadong Liu,3
+430,CoinDCX,$2.15 ,8/10/21,India,Maharashtra,Fintech,"Polychain Capital, Coinbase Ventures, Jump Capital",coindcx,Sumit Gupta,2
+431,Aledade,$2.10 ,1/19/21,United States,Bethesda,Health,"Venrock, CVF Capital Partners, ARCH Venture Partners",aledade,Farzad Mostashari,2
+432,Eightfold.ai,$2.10 ,10/27/20,United States,Santa Clara,Internet software & services,"Foundation Capital, Institutional Venture Partners, General Catalyst",eightfold.ai,Ashutosh Garg,0
+433,FirstCry,$2.10 ,2/7/20,India,Pune,E-commerce & direct-to-consumer,"SoftBank Group, SAIF Partners India, Valiant Capital Partners",firstcry,Supam Maheshwari,0
+434,Forto,$2.10 ,6/21/21,Germany,Berlin,"Supply chain, logistics, & delivery","Cherry Ventures, Northzone Ventures, Global Founders Capital",forto,Michael Wax,1
+435,GoCardless,$2.10 ,2/8/22,United Kingdom,London,Fintech,"Accel, Passion Capital, Balderton Capital",gocardless,Hiroki Takeuchi,0
+436,Jeeves,$2.10 ,3/14/22,United States,Orlando,Fintech,"Tencent Holdings, CRV, Clocktower Technology Ventures",jeeves,Robert Thomson,0
+437,Medable,$2.10 ,10/26/21,United States,Palo Alto,Health,"GSR Ventures, Sapphire Ventures, Streamlined Ventures",medable,Michelle Longmire,3
+438,Moveworks,$2.10 ,6/30/21,United States,Mountain View,Artificial intelligence,"Lightspeed Venture Partners, Sapphire Ventures, Kleiner Perkins Caufield & Byers",moveworks,Bhavin Shah,2
+439,PayFit,$2.10 ,1/6/22,United Kingdom,London,Fintech,"Accel, frst, Kima Ventures",payfit,Firmin Zocchetto,2
+440,ReCharge,$2.10 ,5/6/21,United States,Los Angeles,Fintech,"ICONIQ Growth, Bain Capital Ventures, Summit Partners",recharge,Oisin O'Connor,1
+441,Urban Company,$2.10 ,4/27/21,India,Gurgaon,E-commerce & direct-to-consumer,"VY Capital, Accel, Elevation Capital",urban company,Varun Khaitan,1
+442,21.co,$2.00 ,9/6/22,United States,New York,Fintech,"Quiet Ventures, ETFS Capital, Collab+Currency",21.co,Balaji Srinivasan,0
+443,4Paradigm,$2.00 ,12/19/18,China,Beijing,Artificial intelligence,"Sequoia Capital China, China Construction Bank, Bank of China",4paradigm,Jifeng Zhang,3
+444,Advance Intelligence Group,$2.00 ,9/23/21,Singapore,,Artificial intelligence,"Vision Plus Capital, GSR Ventures, ZhenFund",advance intelligence group,Jason King,2
+445,Akulaku,$2.00 ,2/15/22,Indonesia,Jakarta,E-commerce & direct-to-consumer,"DCM Ventures, IDG Capital, Siam Commercial Bank",akulaku,William Li,1
+446,Apeel Sciences,$2.00 ,5/26/20,United States,Goleta,Other,"Upfront Ventures, Tao Capital Partners, Andreessen Horowitz",apeel sciences,James Rogers,0
+447,AppsFlyer,$2.00 ,1/21/20,United States,San Francisco,Mobile & telecommunications,"Magma Venture Partners, Pitango Venture Capital, Qumra Capital",appsflyer,Oren Kaniel,0
+448,Avant,$2.00 ,12/17/12,United States,Chicago,Artificial intelligence,"RRE Ventures, Tiger Global, August Capital",avant,Al Goldstein,0
+449,Aviatrix,$2.00 ,9/8/21,United States,Santa Clara,Internet software & services,"Ignition Partners, Formation 8, CRV",aviatrix,Steve Mullaney,0
+450,Babel Finance,$2.00 ,5/25/22,Hong Kong,Hong Kong,Fintech,"Dragonfly Capital, BAI Capital, 10T Fund",babel finance,Flex Yang,1
+451,Beisen,$2.00 ,5/11/21,China,Beijing,Internet software & services,"Matrix Partners China, Sequoia Capital China, Genesis Capital",beisen,Xiaohua Yang,3
+452,BeZero,$2.00 ,11/14/22,United Kingdom,London,Other,"Molten Ventures, Contrarian Ventures, Hitachi Ventures",bezero,Hester Huis,1
+453,BlaBlaCar,$2.00 ,9/16/15,France,Paris,Auto & transportation,"Accel Partners, Index Ventures, Insight Venture Partners",blablacar,Frédéric Mazzella,2
+454,Black Sesame Technologies,$2.00 ,9/22/21,China,Shanghai,Artificial intelligence,"Northern Light Venture Capital, Xiaomi, FutureX Capital",black sesame technologies,Yingtao Hu,3
+455,Bunq,$2.00 ,6/18/21,Netherlands,Amsterdam,Fintech,Undisclosed,bunq,Ali Niknam,1
+456,Calm,$2.00 ,2/6/19,United States,San Francisco,Internet software & services,"Insight Venture Partners, TPG Growth, Sound Ventures",calm,Michael Acton Smith,2
+457,CertiK,$2.00 ,3/31/22,United States,New York,Cybersecurity,"Tiger Global Management, Lightspeed Venture Partners, Hillhouse Capital Management",certik,Ronghui Gu.,0
+458,Chipper Cash,$2.00 ,5/31/21,United States,San Francisco,Fintech,"Deciens Capital, Bezos Expeditions, 500 Startups",chipper cash,Serunjogi Ham Namakajjo,1
+459,Clearco,$2.00 ,4/20/21,Canada,Toronto,Fintech,"Highland Capital Partners, Oak HC/FT Partners, Emergence Capital Partners",clearco,Andrew_Denee,0
+460,ClickHouse,$2.00 ,10/28/21,United States,Portola Valley,Data management & analytics,"Lightspeed Venture Partners, Almaz Capital Partners, Altimeter Capital",clickhouse,Alexey Milovidov,0
+461,Clip,$2.00 ,6/10/21,Mexico,Mexico City,Fintech,"Alta Ventures Mexico, General Atlantic, SoftBank Group",clip,Ashvin Nichani,1
+462,Cloudinary,$2.00 ,2/15/22,United States,Santa Clara,Internet software & services,"Blackstone, Bessemer Venture Partners",cloudinary,Itai Lahan,1
+463,Devo Technology,$2.00 ,10/26/21,United States,Cambridge,Data management & analytics,"Insight Partners, Kibo Ventures, Bessemer Venture Partners",devo technology,Javier Rodriguez,1
+464,Divvy Homes,$2.00 ,8/13/21,United States,San Francisco,Fintech,"Andreessen Horowitz, Caffeinated Capital, SciFi VC",divvy homes,Brian Ma,3
+465,Drata,$2.00 ,11/8/21,United States,San Diego,Cybersecurity,"Cowboy Ventures, Leaders Fund, GGV Capital",drata,Adam Markowitz,0
+466,Dremio,$2.00 ,1/6/21,United States,Santa Clara,Data management & analytics,"Lightspeed Venture Partners, Redpoint Ventures, Norwest Venture Partners",dremio,Tomer Shiran,2
+467,Druva,$2.00 ,6/20/19,United States,Sunnyvale,Data management & analytics,"Nexus Venture Partners, Tenaya Capital, Sequoia Capital",druva,Jaspreet Singh,2
+468,Earnix,$2.00 ,2/21/21,Israel,Giv'atayim,Fintech,"Jerusalem Venture Partners, Israel Growth Partners, Insight Partners",earnix,David Yakira,0
+469,Everlaw,$2.00 ,3/10/20,United States,Oakland,Internet software & services,"K9 Ventures, Menlo Ventures, Andreessen Horowitz",everlaw,AJ Shankar,0
+470,Exotec,$2.00 ,1/17/22,France,Croix,Hardware,"Breega Capital, Iris Capital, 360 Capital Partners",exotec,Romain Moulin.,2
+471,Formlabs,$2.00 ,8/1/18,United States,Somerville,Hardware,"Pitango Venture Capital, DFJ Growth Fund, Foundry Group",formlabs,Maxim Lobovsky,2
+472,Geek+,$2.00 ,11/21/18,China,Beijing,Hardware,"Volcanics Ventures, Vertex Ventures China, Warburg Pincus",geek+,Jiangsu Yong You,1
+473,GO1,$2.00 ,7/19/21,Australia,Brisbane,Internet software & services,"Y Combinator, M12, SEEK",go1,Andrew Barnes,0
+474,GrubMarket,$2.00 ,9/14/21,United States,San Francisco,E-commerce & direct-to-consumer,"GGV Capital, BlackRock, ACE & Company",grubmarket,Mike Xu,2
+475,Guoquan Shihui,$2.00 ,3/17/21,China,Shanghai,Consumer & retail,"Tiantu Capital, CMB International Capital, Vision Knight Capital",guoquan shihui,Mingchao Yang,3
+476,Hive,$2.00 ,4/21/21,United States,San Francisco,Artificial intelligence,"Tomales Bay Capital, Bain & Company, General Catalyst",hive,Kevin Guo,1
+477,Hugging Face,$2.00 ,5/9/22,United States,New York,Artificial intelligence,"Betaworks Ventures, Addition, Lux Capital",hugging face,Clement Farabet,0
+478,HuiMin,$2.00 ,9/5/16,China,Beijing,E-commerce & direct-to-consumer,"Zheshang Venture Capital, GP Capital, Western Capital Management",huimin,HuiMin CEO: Mei Zhang,1
+479,ISN,$2.00 ,12/17/20,United States,Dallas,"Supply chain, logistics, & delivery",Blackstone,isn,Mark McLaughlin,0
+480,Iterable,$2.00 ,6/15/21,United States,San Francisco,Internet software & services,"CRV, Blue Cloud Ventures, Index Ventures",iterable,Justin Zhu,1
+481,Kajabi,$2.00 ,5/4/21,United States,Irvine,Internet software & services,"Meritech Capital Partners, Tiger Global Management, Spectrum Equity",kajabi,Kenny Rueter,1
+482,Kaseya,$2.00 ,3/27/19,United States,Miami,Cybersecurity,"Insight Partners, TPG Alternative & Renewable Technologies, Ireland Strategic Investment Fund",kaseya,Fred Voccola,0
+483,Keep,$2.00 ,5/19/20,China,Beijing,Internet software & services,"Bertelsmann Asia Investments, GGV Capital, Morningside Venture Capital",keep,Philipp Stangl,0
+484,KRY,$2.00 ,4/27/21,Sweden,Stockholm,Health,"Index Ventures, Creandum, Accel",kry,Joachim Hedenius,0
+485,Kujiale,$2.00 ,10/25/19,China,Hangzhou,Internet software & services,"GGV Capital, IDG Capital, Linear Venture",kujiale,Qiuzhuang Huang,3
+486,Loggi,$2.00 ,6/5/19,Brazil,Sao Paulo,"Supply chain, logistics, & delivery","Qualcomm Ventures, SoftBank Group. Monashees+",loggi,Fabien Mendez,1
+487,LTK,$2.00 ,11/22/21,United States,Dallas,Internet software & services,"SoftBank Group, Maverick Capital",ltk,Karen White,3
+488,Lunar,$2.00 ,7/12/21,Denmark,Aarhus,Fintech,"SEED Capital, Greyhound Capital, Socii Capital",lunar,Erik Torenberg,0
+489,Mafengwo,$2.00 ,5/23/19,China,Beijing,Travel,"Qiming Venture Partners, Capital Today, General Atlantic",mafengwo,Gang Lv,0
+490,Magic Leap,$2.00 ,10/21/14,United States,Plantation,Hardware,"Obvious Ventures, Qualcomm Ventures, Andreessen Horowitz",magic leap,Rony Abovitz,1
+491,Misfits Market,$2.00 ,4/21/21,United States,Pennsauken,"Supply chain, logistics, & delivery","Accel, D1 Capita Partners, Greenoaks Capital Management",misfits market,Abhi_Ramesh,1
+492,Modern Treasury,$2.00 ,10/6/21,United States,San Francisco,Fintech,"Benchmark, Altimeter Capital, Quiet Capital",modern treasury,Matt Galligan,0
+493,MURAL,$2.00 ,7/20/21,United States,San Francisco,Internet software & services,"Insight Partners, Tiger Global Management, Gradient Ventures",mural,Mariano Suarez Battan,0
+494,Mynt,$2.00 ,11/1/21,Philippines,Taguig City,Fintech,"Insight Partners, Warburg Pincus, Ayala Corporation",mynt,Anthony Thomas,0
+495,Mysten Labs,$2.00 ,9/8/22,United States,San Francisco,Internet software & services,"Andreessen Horowitz, Coinbase Ventures, Circle Ventures",mysten labs,Felicity Chen,1
+496,Neo4j,$2.00 ,6/17/21,United States,San Mateo,Data management & analytics,"Eight Roads Ventures, One Peak Partners, Creandum",neo4j,Emil Eifrem,2
+497,Netlify,$2.00 ,11/17/21,United States,San Francisco,Internet software & services,"Andreessen Horowitz, Kleiner Perkins Caufield & Byers, EQT Ventures",netlify,Mathias Biilmann.,0
+498,OCSiAl,$2.00 ,3/4/19,Luxembourg,Leudelange,Other,"A&NN, Rusnano",ocsial,Dmitry Svirskiy,0
+499,Opay,$2.00 ,8/23/21,Nigeria,Lagos,Fintech,"Sequoia Capital China, Source Code Capital, Redpoint Ventures China",opay,Charles Ifedi,0
+500,Pipe,$2.00 ,5/19/21,United States,Miami,Fintech,"next47, MaC Venture Capital, FinVC",pipe,Harry Hurst,1
+501,Preferred Networks,$2.00 ,5/17/18,Japan,Tokyo,Artificial intelligence,"Toyota Motor Corporation, Mizuho Financial Group, FANUC",preferred networks,Toru Nishikawa,0
+502,Quora,$2.00 ,4/21/17,United States,Mountain View,Internet software & services,"Y Combinator, Matrix Partners, Benchmark",quora,Adam D'Angelo,1
+503,Redis Labs,$2.00 ,8/25/20,United States,Mountain View,Data management & analytics,"Viola Ventures, Dell Technologies Capital, Bain Capital Ventures",redis labs,Ofer Bengal,0
+504,Rimac Automobili,$2.00 ,6/1/22,Croatia,Sveta Nedelja,Auto & transportation,"Porsche, InvestIndustrial, SoftBank Group",rimac automobili,Mate Rimac,2
+505,ROX Motor,$2.00 ,4/29/22,China,Shanghai,Auto & transportation,"Sequoia Capital China, IDG Capital, Qiming Venture Partners",rox motor,Adam Smith,2
+506,Salsify,$2.00 ,4/13/22,United States,Boston,Internet software & services,"Matrix Partners, North Bridge Venture Partners, Venrock",salsify,Jason Purcell,2
+507,SmartNews,$2.00 ,8/5/19,Japan,Tokyo,Mobile & telecommunications,"Japan Post Capital, Globis Capital Partners, Atomico",smartnews,Rich Jaroslovsky,0
+508,Solugen,$2.00 ,9/10/21,United States,Houston,Other,"Fifty Years Fund, Refactor Capital, Temasek",solugen,Gaurab Chakrabarti,0
+509,Spring Health,$2.00 ,9/16/21,United States,New York,Health,"Rethink Impact, Work-Bench, RRE Ventures",spring health,April Koh,1
+510,SWORD Health,$2.00 ,11/22/21,United States,New York,Health,"Khosla Ventures, Green Innovations, Founders Fund",sword health,Virgilio Bento Rodrigues,1
+511,Tier,$2.00 ,10/25/21,Germany,Berlin,Travel,"Northzone Ventures, White Star Capital, Novator Partners",tier,Matthias Laug,0
+512,Trax,$2.00 ,7/22/19,Singapore,,Artificial intelligence,"Hopu Investment Management, Boyu Capital, DC Thomson Ventures",trax,Justin Behar,2
+513,Trendy Group International,$2.00 ,2/13/12,Hong Kong,Kowloon,Consumer & retail,L Capital Partners,trendy group international,Caroline Deng,1
+514,Tubatu.com,$2.00 ,3/9/15,China,Shenzhen,E-commerce & direct-to-consumer,"Sequoia Capital China, Matrix Partners China, 58.com",tubatu.com,Shiling Zheng,1
+515,Unqork,$2.00 ,10/6/20,United States,New York,Fintech,"Blackrock, capitalG, World Lab Innovation",unqork,Gary Hoberman,0
+516,VerbIT,$2.00 ,6/8/21,United States,New York,Artificial intelligence,"ClalTech, Vertex Ventures, Oryzn Capital",verbit,Tom Livne,2
+517,Virta Health,$2.00 ,12/2/20,United States,San Francisco,Health,"Caffeinated Capital, Obvious Ventures, Venrock",virta health,Sami Inkinen,2
+518,Xinchao Media,$2.00 ,4/9/18,China,Chengdu,Internet software & services,"JD.com, Baidu, Vision Plus Capital",xinchao media,Yuanyang Wu,0
+519,Xingyun Group,$2.00 ,9/24/20,China,Shenzhen,E-commerce & direct-to-consumer,"Matrix Partners China, Eastern Bell Capital, Hongtai Capital Holdings",xingyun group,Jinbo Yao,3
+520,XtalPi,$2.00 ,8/11/21,China,Shenzhen,Artificial intelligence,"Tencent Holdings, 5Y Capital, Sequoia Capital China",xtalpi,Shuhao Wen,2
+521,Zilch,$2.00 ,11/10/21,United Kingdom,London,Fintech,"Gauss Ventures, Ventura Capital, dmg ventures",zilch,William Holland,2
+522,Ankorstore,$1.98 ,1/10/22,France,Paris,E-commerce & direct-to-consumer,"Global Founders Capital, Aglae Ventures, Alven Capital",ankorstore,Nicolas Cohen,2
+523,Fenbi Education,$1.95 ,2/7/21,China,Beijing,Edtech,"Trustbridge Partners, Hony Capital, IDG Capital",fenbi education,Boqiang Han,0
+524,Roofstock,$1.94 ,3/10/22,United States,Oakland,Fintech,"Khosla Ventures, Bain Capital Ventures, Lightspeed Venture Partners",roofstock,Gary Beasley,1
+525,thatgamecompany,$1.94 ,3/3/22,United States,Los Angeles,Internet software & services,"Benchmark, Sequoia Capital, TPG Capital",thatgamecompany,Jenova Chen,2
+526,ZigBang,$1.93 ,6/7/22,South Korea,Seoul,Mobile & telecommunications,"Black Pearl Ventures, Stonebridge Ventures, Yuanta Investment Korea",zigbang,"Ha Keon ""Amy"" Jeong",1
+527,Acorns,$1.90 ,3/9/22,United States,Irvine,Fintech,"e.ventures, Bain Capital Ventures, Greycroft",acorns,Noah Kerner,1
+528,CoinSwitch Kuber,$1.90 ,10/6/21,India,Bangalore,Fintech,"Tiger Global Management, Sequoia Capital India, Ribbit Capital",coinswitch kuber,Ashish Singhal,2
+529,ConcertAI,$1.90 ,3/29/22,United States,Boston,Artificial Intelligence,"Sixth Street Partners, Declaration Partners, Maverick Ventures Israel",concertai,Jeffrey Galas.,0
+530,eDaili,$1.90 ,2/1/19,China,Shanghai,E-commerce & direct-to-consumer,"K2VC, Lightspeed China Partners, Sky9 Capital",edaili,John Smith,0
+531,InVision,$1.90 ,11/1/17,United States,New York,Internet software & services,"FirstMark Capital, Tiger Global Management, ICONIQ Capital",invision,Clark Valberg,0
+532,Material Bank,$1.90 ,5/6/22,United States,Boca Raton,E-commerce & direct-to-consumer,"Bain Capital Ventures, SoftBank Group, Fifth Wall Ventures",material bank,Adam Sandow,0
+533,MX Technologies,$1.90 ,1/13/21,United States,Lehi,Fintech,"Point72 Ventures, Pelion Venture Partners, Commerce Ventures",mx technologies,Ryan Holmes,1
+534,Volocopter,$1.87 ,3/4/22,Germany,Bruchsal,Auto & transportation,"btov Partners, Geely, Intel Capital",volocopter,Florian Reuter,2
+535,CFGI,$1.85 ,9/15/21,United States,Boston,Fintech,"The Carlyle Group, CVC Capital Partners",cfgi,Nick Mahurin,2
+536,ENOVATE,$1.85 ,4/15/19,China,Shanghai,Auto & transportation,Automobile Industry Guidance Fund,enovate,Jason Liu,2
+537,MEGAZONE,$1.83 ,8/16/22,South Korea,Seoul,Internet software & services,"Salesforce Ventures, ATP Investment, kt investment",megazone,John Smith,0
+538,Diamond Foundry,$1.80 ,3/29/21,United States,San Francisco,Other,"Fashion Tech Lab, Fidelity Investments, Vast Ventures",diamond foundry,Martin Roscheisen,2
+539,FullStory,$1.80 ,8/4/21,United States,Atlanta,Internet software & services,"Google Ventures, Kleiner Perkins Caufield & Byers, Stripes Group",fullstory,Scott Voigt,1
+540,Lightricks,$1.80 ,7/31/19,Israel,Jerusalem,Artificial intelligence,"Viola Ventures, Insight Partners, ClalTech, Goldman Sachs",lightricks,Zeev Farbman,0
+541,Opentrons,$1.80 ,9/23/21,United States,New York,Hardware,"SOSV, Khosla Ventures, Lerer Hippeau",opentrons,Will Canine,1
+542,Orca Security,$1.80 ,3/23/21,United States,Portland,Cybersecurity,"YL Ventures, Redpoint Ventures, GGV Capital",orca security,Avi Shua,0
+543,Slice,$1.80 ,11/28/21,India,Bengaluru,Fintech,"Gunosy Capital, Blume Ventures, Das Capital",slice,Ilir Sela,1
+544,ZocDoc,$1.80 ,8/20/15,United States,New York,Health,"Founders Fund, Khosla Ventures, Goldman Sachs",zocdoc,Cyrus Massoumi,0
+545,Cambrian BioPharma,$1.79 ,10/26/21,United States,Brooklyn,Health,"Future Ventures, Apeiron Investment Group, Moore Capital Management",cambrian biopharma,David Hite,0
+546,AIWAYS,$1.78 ,4/16/18,China,Shanghai,Auto & transportation,"Jiangsu Sha Steel Group, Shanghai Puyin Industry, Funa Yuanchuang Technology",aiways,Gu Feng,3
+547,Crusoe,$1.75 ,4/21/22,United States,Denver,Internet software & services,"Bain Capital Ventures, Founders Fund, Winklevoss Capital",crusoe,Chase Lochmiller,0
+548,Spinny,$1.75 ,11/24/21,India,Gurugram,E-commerce & direct-to-consumer,"General Catalyst, Eleation Capital, Avenir Growth Capital",spinny,Niraj Singh.,0
+549,Trulioo,$1.75 ,6/7/21,Canada,Vancouver,Cybersecurity,"Blumberg Capital, American Express Ventures, BDC Venture Capital",trulioo,Stephen Ufford,1
+550,Apus Group,$1.73 ,1/16/15,China,Beijing,Mobile & telecommunications,"Redpoint Ventures, QiMing Venture Partners, Chengwei Capital",apus group,Li Tao,1
+551,Forte Labs,$1.73 ,5/12/21,United States,San Francisco,Fintech,"Iris Capital, Accel, Elaia Partners",forte labs,Tiago Forte,0
+552,Productboard,$1.73 ,2/2/22,United States,San Francisco,Internet software & services,"Index Ventures, Kleiner Perkins Caufield & Byers, Bessemer Venture Partners",productboard,Hubert Palan,0
+553,Alation,$1.70 ,6/3/21,United States,Redwood City,Internet software & services,"Costanoa Ventures, Data Collective, Salesforce Ventures",alation,Satyen Sangani,3
+554,AlphaSense,$1.70 ,6/15/22,United States,New York,Artificial intelligence,"Viking Global Investors, GS Growth, BlackRock",alphasense,Jack Kokko,1
+555,Carsome,$1.70 ,7/12/21,Malaysia,Selangor,E-commerce & direct-to-consumer,"Gobi Partners, 500 Startups, Ondine Capital",carsome,Eric Cheng,2
+556,CircleCI,$1.70 ,5/11/21,United States,San Francisco,Internet software & services,"Threshold Ventures, Baseline Ventures, Harrison Metal",circleci,Paul Biggar,0
+557,DealShare,$1.70 ,1/27/22,India,Bengaluru,E-commerce & direct-to-consumer,"Alpha Wave Global, Matrix Partners India, Tiger Global Management",dealshare,Vineet Singh,2
+558,DispatchHealth,$1.70 ,3/3/21,United States,Denver,Health,"Alta Partners, Questa Capital, Echo Health Ventures",dispatchhealth,Mark Prather,0
+559,Dragos,$1.70 ,10/28/21,United States,Hanover,Cybersecurity,"DataTribe, Energy Impact Partners, AllegisCyber Capital",dragos,Robert Lee,1
+560,Front,$1.70 ,6/28/22,United States,San Francisco,Internet software & services,"Sequoia Capital, Uncork Capital, Salesforce Ventures",front,Mathilde Collin,2
+561,Gousto,$1.70 ,11/3/20,United Kingdom,London,"Supply chain, logistics, & delivery","MMC Ventures, BGF Ventures, Unilever Ventures",gousto,Timo Boldt,2
+562,H2O.ai,$1.70 ,11/7/21,United States,Mountain View,Artificial intelligence,"Nexus Venture Partners, Transamerica Ventures, Crane Venture Partners",h2o.ai,SriSatish Ambati,3
+563,Harry's,$1.70 ,2/16/18,United States,New York,Consumer & retail,"Thrive Capital, Tiger Global Management, Temasek",harry's,Jeff Raider,1
+564,HomeLight,$1.70 ,9/2/21,United States,San Francisco,Fintech,"Zeev Ventures, Menlo Ventures,Crosslink Capital",homelight,Drew Uher,1
+565,Multiverse,$1.70 ,6/8/22,United Kingdom,London,Edtech,"Lightspeed Venture Partners, Google Ventures, General Catalyst",multiverse,Rishi Sunak,1
+566,PAX,$1.70 ,10/22/18,United States,San Francisco,Consumer & retail,"Tao Capital Partners, Global Asset Capital, Tiger Global Management",pax,Richard Vogel,0
+567,Pax8,$1.70 ,4/11/22,United States,Greenwood Village,Internet software & services,"Liberty Global Ventures, Sageview Capital, Blue Cloud Ventures",pax8,John Street,3
+568,Redesign Health,$1.70 ,9/13/22,United States,New York,Health,"General Catalyst, Samsung NEXT, CVS Health Partners",redesign health,Noah Knauf,0
+569,Reltio,$1.70 ,11/4/21,United States,Redwood City,Data management & analytics,"Crosslink Capital, .406 Ventures, Sapphire Ventures",reltio,Manish Sood,1
+570,Spotter,$1.70 ,2/16/22,United States,Los Angeles,Fintech,"SoftBank Group, Access Industries, Crossbeam Venture Partners",spotter,John Smith,0
+571,Vestiaire Collective,$1.70 ,3/1/21,France,Paris,E-commerce & direct-to-consumer,"Eurazeo, IDInvest Partners, Balderton Capital",vestiaire collective,Maximilian Bittner,2
+572,Wave,$1.70 ,9/7/21,Senegal,Dakar,Fintech,"Stripe, Founders Fund, Partech Partners",wave,Kirk Simpson,0
+573,ZenBusiness,$1.70 ,11/9/21,United States,Austin,Fintech,"Greycroft, Lerer Hippeau, Geekdom Fund",zenbusiness,Ross Buhrdorf.,0
+574,Tessera Therapeutics,$1.69 ,4/19/22,United States,Cambridge,Health,"Altitude Life Science Ventures, SoftBank Group, Alaska Permanent Fund",tessera therapeutics,Geoffrey von Maltzahn,0
+575,FinAccel,$1.66 ,8/15/22,Singapore,,Fintech,"Jungle Ventures, Square Peg Capital, OpenSpace Ventures",finaccel,Akshay_Goyal,0
+576,Uniswap,$1.66 ,10/13/22,United States,New York,Fintech,"A16z Crypto, Variant Fund, Paradigm",uniswap,Hayden Adams,1
+577,Glossier,$1.65 ,3/19/19,United States,New York,Consumer & retail,"Forerunner Ventures, Institutional Venture Partners, Thrive Capital",glossier,Emily Weiss,0
+578,Incredible Health,$1.65 ,8/17/22,United States,San Francisco,Health,"Obvious Ventures, Andreessen Horowitz, NFX",incredible health,Iman Abuzeid,3
+579,Optimism,$1.65 ,3/17/22,United States,San Francisco,Internet software & services,"Paradigm, Huobi Ventures, Andreessen Horowitz",optimism,Jinglan Wang,3
+580,solarisBank,$1.65 ,7/13/21,Germany,Berlin,Fintech,"Yabeo Capital, SBI Investment, Vulcan Capital",solarisbank,Roland Folz,0
+581,Jusfoun Big Data,$1.62 ,7/9/18,China,Beijing,Data management & analytics,"Boxin Capital, DT Capital Partners, IDG Capital",jusfoun big data,Xiaofeng Gao,3
+582,Transcarent,$1.62 ,1/11/22,United States,San Francisco,Health,"Alta Partners, General Catalyst, Jove Equity Partners",transcarent,Glen Tullman,1
+583,Zhubajie,$1.61 ,6/16/15,China,Chongqing,Internet software & services,"Cybernaut Growth Fund, IDG Capital",zhubajie,Xinjie Li,2
+584,Afiniti,$1.60 ,4/14/17,Bermuda,Hamilton,Artificial intelligence,GAM Holding,afiniti,Zia_Chishti,2
+585,ASAPP,$1.60 ,5/19/21,United States,New York,Artificial intelligence,"March Capital Partners, HOF Capital, Emergence Capital Partners",asapp,Gustavo Sapoznik,0
+586,Cao Cao Mobility,$1.60 ,1/17/18,China,Hangzhou,Auto & transportation,"People Electrical Appliance Group China, Zhongrong International Trust",cao cao mobility,Junyang WU,2
+587,Capitolis,$1.60 ,3/22/22,United States,New York,Fintech,"Sequoia Capital, Index Ventures, S Capital",capitolis,Gil Mandelzis,0
+588,Clio,$1.60 ,4/27/21,Canada,Burnaby,Internet software & services,"OMERS Private Equity, T. Rowe Price, Technology Crossover Ventures",clio,Jack Newton,1
+589,Cresta,$1.60 ,3/17/22,United States,San Francisco,Artificial Intelligence,"Andreessen Horowitz, Greylock Partners, Sequoia Capital",cresta,Philipp Stauffer,0
+590,DataStax,$1.60 ,5/26/21,United States,Santa Clara,Data management & analytics,"Crosslink Capital, Meritech Capital Partners, Lightspeed Venture Partners",datastax,Chet Kapoor,2
+591,ezCater,$1.60 ,4/2/19,United States,Boston,"Supply chain, logistics, & delivery","Insight Venture Partners, ICONIQ Capital, Launchpad Venture Group",ezcater,Stefania Mallett,2
+592,Infinidat,$1.60 ,4/29/15,United States,Waltham,Hardware,"TPG Growth, Goldman Sachs",infinidat,Moshe Yanai,0
+593,Magic Eden,$1.60 ,6/21/22,United States,San Francisco,Fintech,"Sequoia Capital, Lightspeed Venture Partners, Paradigm",magic eden,Jack Lu,1
+594,Mercury,$1.60 ,7/3/21,United States,San Francisco,Fintech,"Andreessen Horowitz, Coatue Management, Clocktower Technology Ventures",mercury,Jane Doe,0
+595,Monte Carlo,$1.60 ,5/24/22,United States,San Francisco,Artificial intelligence,"GGV Capital, Accel, Redpoint Ventures",monte carlo,Alberto Acciari,0
+596,Nord Security,$1.60 ,4/7/22,Lithuania,Vilnius,Cybersecurity,"General Catalyst, BaltCap, Novator Partners",nord security,Tommy Ryser,1
+597,Pave,$1.60 ,6/28/22,United States,San Francisco,Internet software & services,"Y Combinator, Andreessen Horowitz, Bessemer Venture Partners",pave,Chase Coleman,1
+598,SafetyCulture,$1.60 ,5/3/21,Australia,Sydney,Internet software & services,"Blackbird Ventures, IndexVentures, Tiger Global Management",safetyculture,Luke Anear,0
+599,SmartHR,$1.60 ,6/8/21,Japan,Tokyo,Fintech,"BEENEXT, World Innovation Lab, Light Street Capital",smarthr,David Johnson,0
+600,Tonal,$1.60 ,3/31/21,United States,San Francisco,E-commerce & direct-to-consumer,"Mayfield Fund, Shasta Ventures, L Catterton",tonal,Aly Orady,0
+601,Truepill,$1.60 ,10/27/21,United States,Hayward,Health,"Initialized Capital, Sound Ventures, TI Platform Management",truepill,Umar Farooq,0
+602,Unite Us,$1.60 ,3/16/21,United States,New York,Health,"Insight Partners, Sequoia Capital, Index Ventures",unite us,Dan Brillman,1
+603,Vanta,$1.60 ,6/7/22,United States,San Francisco,Cybersecurity,"Craft Ventures, Sequoia Capital, Verissimo Ventures",vanta,Christina Cacioppo,2
+604,Wayflyer,$1.60 ,2/1/22,Ireland,Dublin,Fintech,"QED Investors, DST Global, Left Lane Capital",wayflyer,Lani Boyle,0
+605,Promasidor Holdings,$1.59 ,11/8/16,South Africa,Bryanston,Consumer & retail,"IFC, Ajinomoto",promasidor holdings,Olivier G. Dawant,0
+606,GalaxySpace,$1.58 ,11/17/20,China,Beijing,Mobile & telecommunications,"Shunwei Capital Partners, 5Y Capital, Legend Capital",galaxyspace,Chen Guoping,0
+607,Fresh Life Style Supply Chain Management,$1.57 ,3/11/22,China,Chengdu,"Supply chain, logistics, & delivery","Guiyang Venture Capital, Longfor Capital, CAOGENZHIBEN GROUP",fresh life style supply chain management,Sophia Green,2
+608,ICON 3D,$1.57 ,2/18/22,United States,Austin,Hardware,"Moderne Ventures, Oakhouse Partners, Bjarke Ingels Group",icon 3d,Jason Ballard,1
+609,Alloy,$1.55 ,9/30/21,United States,New York,Fintech,"Bessemer Venture Partners, Eniac Ventures, Canapi Ventures",alloy,Jason Klein,2
+610,Baiwang,$1.55 ,3/25/19,China,Beijing,Fintech,"Guozhong Venture Capital Management, Shenzhen Capital Group, Oriental Fortune Capital",baiwang,Xinli Wang,0
+611,Iluvatar CoreX,$1.55 ,3/1/21,China,Shanghai,Hardware,"Centurium Capital, Cedarlake Capital, Unicom Innovation Venture Capital",iluvatar corex,Alexandra Powers,0
+612,Kitopi,$1.55 ,7/1/21,United Arab Emirates,Dubai,"Supply chain, logistics, & delivery","CE-Ventures, BECO Capital, Nordstar",kitopi,Mohammed Al Fardan,0
+613,Wenheyou,$1.55 ,4/17/21,China,Hunan,Other,"Sequoia Capital China, Warburg Pincus, IDG Capital",wenheyou,Yufeng Ma,3
+614,Loom,$1.53 ,5/20/21,United States,San Francisco,Internet software & services,"Kleiner Perkins Caufield & Byers, Sequoia Capital, General Catalyst",loom,Joe Thomas,0
+615,Carzone,$1.52 ,3/1/19,China,Jiangsu,E-commerce & direct-to-consumer,"Alibaba Group,Co-Stone Venture Capital, Buhuo Venture Capital",carzone,Paul Dudgeon,2
+616,Ximalaya FM,$1.52 ,9/22/17,China,Shanghai,Mobile & telecommunications,"China Creation Ventures, Sierra Ventures, Xingwang Investment Management",ximalaya fm,Yu Jianjun,0
+617,1047 Games,$1.50 ,9/14/21,United States,Zephyr Cove,Internet software & services,"VGames, Lakestar, Galaxy Interactive",1047 games,Ian Proulx,1
+618,5ire,$1.50 ,7/15/22,United Kingdom,London,Internet software & services,"Global Emerging Markets, Sram & Mram Group, Marshland Capital",5ire,Alexandre Dreyfus.,0
+619,Airbyte,$1.50 ,12/17/21,United States,San Francisco,Internet software & services,"Accel, Benchmark, SV Angel",airbyte,Michel Tricot,0
+620,Andela,$1.50 ,9/29/21,United States,New York,Internet software & services,"Spark Capital, Google Ventures, CRE Venture Capital",andela,Jeremy Johnson,0
+621,Ascend Money,$1.50 ,9/27/21,Thailand,Bangkok,Fintech,"Ant Group, Charoen Pokphand Group, Bow Wave Capital",ascend money,Rawin Boonyanusasna,0
+622,Athelas,$1.50 ,1/31/22,United States,Mountain View,Health,"Sequoia Capital, General Catalyst, Human Capital",athelas,Tanay Tandon,1
+623,Bilt Rewards,$1.50 ,10/25/22,United States,New York,Fintech,"Camber Creek, Kairos HQ, Fifth Wall Ventures",bilt rewards,Akash Desai,2
+624,Boba,$1.50 ,4/5/22,United States,San Francisco,Fintech,"DeFi Technologies, Hypersphere Ventures, M13",boba,Samantha Lee,2
+625,bolttech,$1.50 ,7/1/21,Singapore,,Fintech,"Mundi Ventures, Doqling Capital Partners, Activant Capital",bolttech,Andrew Lo,0
+626,Built,$1.50 ,9/30/21,United States,Nashville,Internet software & services,"Nyca Partners, Index Ventures, Technology Crossover Ventures",built,Nate Davis,1
+627,Cambridge Mobile Telematics,$1.50 ,12/19/18,United States,Cambridge,Auto & transportation,SoftBank Group,cambridge mobile telematics,William Powers,3
+628,candy.com,$1.50 ,10/21/21,United States,New York,Internet software & services,"Insight Partners, Softbank Group, Connect Ventures",candy.com,Michael Rubin,1
+629,Changingedu,$1.50 ,10/30/17,China,Shanghai,Edtech,"Trustbridge Partners, IDG Capital, Sequoia Capital China",changingedu,NingTang,3
+630,Cognite,$1.50 ,5/19/21,Norway,Lysaker,Data management & analytics,"Technology Crossover Ventures, Accel, Aker",cognite,John Markus Lervik,0
+631,CoinList,$1.50 ,10/15/21,United States,San Francisco,Fintech,"Accomplice, Polychain Capital, GoldenTree Asset Management",coinlist,Andy Bromberg,1
+632,Collective Health,$1.50 ,6/17/19,United States,San Francisco,Fintech,"New Enterprise Associates, Founders Fund, Google Ventures",collective health,Ali Diab,2
+633,Culture Amp,$1.50 ,7/29/21,Australia,Richmond,Internet software & services,"Felicis Ventures, Index Ventures, Blackbird Ventures",culture amp,Didier Elzinga,0
+634,CureFit,$1.50 ,11/10/21,India,Bengaluru,Health,"Chiratae Ventures, Accel, Kalaari Capital",curefit,Mukesh Bansal,0
+635,Dock,$1.50 ,5/12/22,Brazil,Sao Paulo,Fintech,"Viking Global Investors, Riverwood Capital, Lightrock",dock,Stephen EIDEN,0
+636,DT Dream,$1.50 ,6/8/17,China,Hangzhou,Data management & analytics,"Alibaba Group, China Everbright Investment Management, Yinxinggu Capital",dt dream,Larry Wang,2
+637,ElasticRun,$1.50 ,2/7/22,India,Pune,"Supply chain, logistics, & delivery","Kalaari Capital, Norwest Venture Partners, Prosus Ventures",elasticrun,Sandip_Diamond_Mittal,0
+638,Fabric,$1.50 ,2/24/22,United States,Bellevue,E-commerce & direct-to-consumer,"Redpoint Ventures, Norwest Venture Partners, Sierra Ventures",fabric,Caroline Wanga,1
+639,First Mode,$1.50 ,12/7/22,United States,Seattle,Other,Anglo American,first mode,Chris Voorhees,2
+640,Gett,$1.50 ,5/24/16,United Kingdom,London,Auto & transportation,"Volkswagen, Access Industries, Vostok New Ventures",gett,Dave Waiser,0
+641,ID.me,$1.50 ,3/19/21,United States,McLean,Cybersecurity,"Moonshots Capital, BoxGroup, Blu Venture Investors",id.me,Blake Hall,1
+642,Il Makiage,$1.50 ,1/10/22,United States,New York,E-commerce & direct-to-consumer,"L Catterton, Franklin Templeton, First Light Capital Group",il makiage,Oran Holtz,1
+643,impact.com,$1.50 ,7/13/21,United States,Santa Barbara,Internet software & services,"Redpoint Ventures, Providence Equity Partners, Silversmith Capital Partners",impact.com,Todd Crawford,0
+644,Inari,$1.50 ,5/12/21,United States,Cambridge,Other,"Flagship Pioneering, Alexandria Venture Investments, Investment Corporation of Dubai",inari,Ponsi Trivisvavet,2
+645,Jasper,$1.50 ,10/17/22,United States,Austin,Artificial intelligence,"Foundation Capital, Institutional Venture Partners, Founders Capital",jasper,Noah_Wasmer,0
+646,JOLLY Information Technology,$1.50 ,5/29/18,China,Hangzhou,E-commerce & direct-to-consumer,"Legend Capital, CDH Investments, Sequoia Capital China",jolly information technology,Ryan Jolly,1
+647,K Health,$1.50 ,1/19/21,United States,New York,Health,"Max Ventures, Mangrove Capital Partners, 14W",k health,Allon Bloch,2
+648,Kushki,$1.50 ,6/7/22,Ecuador,Quito,Fintech,"Clocktower Technology Ventures, DILA Capital, Kaszek Ventures",kushki,Armando Pantoja,0
+649,Ledger,$1.50 ,6/10/21,France,Paris,Hardware,"Digital Currency Group, Draper Esprit, Korelya Capital",ledger,Pascal Gauthier,0
+650,Lusha,$1.50 ,11/10/21,United States,New York,Internet software & services,"PSG, ION Crossover Partners",lusha,Yoni Tserruya,0
+651,Mashgin,$1.50 ,5/9/22,United States,Palo Alto,Artificial intelligence,"New Enterprise Associates, Matrix Partmers, Susa Ventures",mashgin,Travis Bracken,0
+652,Matillion,$1.50 ,9/15/21,United Kingdom,Altrincham,Data management & analytics,"Scale Venture Partners, Sapphire Ventures, Battery Ventures",matillion,Matthew Scullion,0
+653,Mofang Living,$1.50 ,4/13/16,China,Shanghai,E-commerce & direct-to-consumer,"Warburg Pincus, Aviation Industry Corporation of China",mofang living,Yongqiang Liang,3
+654,MOLOCO,$1.50 ,4/29/21,United States,Redwood City,Artificial intelligence,"Smilegate Investment, DSC Investments, KTB Ventures",moloco,Ismail Elshareef,0
+655,Mu Sigma,$1.50 ,2/7/13,United States,Northbrook,Data management & analytics,"Sequoia Capital, General Atlantic",mu sigma,Dhiraj C Sharma,2
+656,Next Silicon,$1.50 ,6/14/21,Israel,Tel Aviv,Hardware,"Amiti Ventures, Playground Global, Aleph",next silicon,John Smith,0
+657,NotCo,$1.50 ,7/26/21,Chile,Santiago,Consumer & retail,"Kaszek Ventures, SOSV, Tiger Global Management",notco,Matias Muchnick,0
+658,Olist,$1.50 ,12/15/21,Brazil,Curitiba,E-commerce & direct-to-consumer,"Redpoint e.ventures, Valor Capital Group, SoftBank Latin America Fund",olist,Tiago Dalvi,0
+659,OpenWeb,$1.50 ,11/9/21,United States,New York,Internet software & services,"Insight Partners, AltaIR Capital, Norma Investments",openweb,Nadav Shoval,1
+660,Orna Therapeutics,$1.50 ,8/16/22,United States,Cambridge,Health,"MPM Capital, Astellas Venture Management, F2 Ventures",orna therapeutics,Srinivasan Sivaram,0
+661,Pacaso,$1.50 ,3/24/21,United States,Cincinnati,Fintech,"Global Founders Capital, Shea Ventures, Greycroft",pacaso,Austin Allison,0
+662,Paradox,$1.50 ,12/27/21,United States,Scottsdale,Internet software & services,"Brighton Park Capital, Blue Cloud Ventures, Workday Ventures",paradox,Ebba Ljungerud,0
+663,Persona,$1.50 ,9/15/21,United States,San Francisco,Cybersecurity,"Coatue Management, Index Ventures, Founders Fund",persona,Linda Johnson,1
+664,Prometheus,$1.50 ,9/23/21,United States,Santa Cruz,Other,"BMW i Ventures, Metaplanet, Maersk Growth",prometheus,David Shaw,2
+665,SmartRecruiters,$1.50 ,7/20/21,United States,San Francisco,Internet software & services,"Mayfield Fund, Insight Partners, Rembrandt Venture Partners",smartrecruiters,Jerome Ternynck,0
+666,Snapdocs,$1.50 ,5/25/21,United States,San Francisco,Fintech,"Sequoia Capital, Y Combinator, F-Prime Capital",snapdocs,Aaron King,0
+667,Spendesk,$1.50 ,1/18/22,France,Paris,Fintech,"Index Ventures, Eight Roads Ventures, General Atlantic",spendesk,Rodolphe Ardant,0
+668,StoreDot,$1.50 ,1/4/22,Israel,Herzliya,Other,"Samsung Ventures, SingulariTeam, BP Ventures",storedot,Doron Myerdorf,0
+669,Strava,$1.50 ,11/16/20,United States,San Francisco,Internet software & services,"Jackson Square Ventures, Madrone Capital Partners, Sequoia Capital",strava,James Quarles,0
+670,TaxBit,$1.50 ,8/4/21,United States,Draper,Fintech,"Insight Partners, Coinbase Ventures, PayPal Ventures",taxbit,Austin Woodward,1
+671,Temporal,$1.50 ,2/16/22,United States,Bellevue,Internet software & services,"Amplify Partners, Addition, Madrona Venture Group",temporal,Kevin Lin,1
+672,TuJia,$1.50 ,6/17/15,China,Beijing,Travel,"GGV Capital, QiMing Venture Partnersl",tujia,Yang Changle,2
+673,Uplight,$1.50 ,3/3/21,United States,Boulder,Other,"Rubicon Technology Partners, Max Ventures, Inclusive Capital Partners",uplight,Adrian Tuck,2
+674,Upside,$1.50 ,4/26/22,United States,DC,Mobile & telecommunications,"Bessemer Venture Partners, Builders VC, General Catalyst",upside,Scott Gips,3
+675,Veho,$1.50 ,12/21/21,United States,Boulder,"Supply chain, logistics, & delivery","General Catalyst, Origin Ventures, Fontinalis Partners",veho,Andrew Clifton,1
+676,Veriff,$1.50 ,1/26/22,Estonia,Tallinn,Artificial intelligence,"Accel, Institutional Venture Partners, Tiger Global Management",veriff,Kaarel Kotkas,1
+677,XiaoZhu,$1.50 ,11/1/17,China,Beijing,Travel,"Morningside Ventures, Capital Today, JOY Capital",xiaozhu,Min Zhang,3
+678,Yijiupi,$1.50 ,9/20/18,China,Beijing,Consumer & retail,"Source Code Capital, Meituan Dianping, Tencent Holdings",yijiupi,Xue Dengke,0
+679,YunQuNa,$1.50 ,6/29/21,China,Shanghai,"Supply chain, logistics, & delivery","Source Code Capital, Coatue Management, DCM Ventures",yunquna,Xiaodong Xu,0
+680,Zenoti,$1.50 ,12/15/20,United States,Bellevue,Internet software & services,"Norwest Venture Partners, Accel, Tiger Global Management",zenoti,Sudhakar Pamidimukkala,0
+681,Zeta,$1.50 ,5/24/21,United States,San Francisco,Fintech,"Sodexo Ventures, SoftBank Group",zeta,Bhavin Turakhia,0
+682,Yipin Shengxian,$1.49 ,3/11/19,China,Hefei,E-commerce & direct-to-consumer,"Eastern Bell Capital, Capital Today, Longzhu Capital",yipin shengxian,Zhiliang Wang,0
+683,Arcadia,$1.48 ,5/10/22,United States,DC,Other,"BoxGroup, Energy Impact Partners, Camber Creek",arcadia,Philip Green,0
+684,Bordrin Motors,$1.48 ,6/3/19,China,Shanghai,Auto & transportation,"China Grand Prosperity Investment, CSC Group",bordrin motors,Ximing Huang,1
+685,VTS,$1.47 ,5/7/19,United States,New York,Internet software & services,"Trinity Ventures, Fifth Wall Ventures, OpenView Venture Partners",vts,Nick Romito,1
+686,Shukun Technology,$1.46 ,8/16/21,China,Beijing,Artificial Intelligence,"Marathon Venture Partners, Huagai Capital, China Creation Ventures",shukun technology,Jianhua Hou,3
+687,Aleo,$1.45 ,2/7/22,United States,San Francisco,Cybersecurity,"Slow Ventures, Andreessen Horowitz, SoftBank Group",aleo,Zachary Williamson,2
+688,Coocaa,$1.45 ,3/16/18,China,Shenzhen,Hardware,"Baidu, Tencent Holdings",coocaa,Songxinjia Jiang,1
+689,Gymshark,$1.45 ,8/14/20,United Kingdom,Solihull,E-commerce & direct-to-consumer,General Atlantic,gymshark,Ben Francis,0
+690,Juma Peisong,$1.45 ,11/26/18,China,Chengdu,"Supply chain, logistics, & delivery","Ding Xiang Capital, New Hope Fund, Sino-Ocean Capital",juma peisong,Jinghua Yan,3
+691,M1,$1.45 ,7/14/21,United States,Chicago,Fintech,"Left Lane Capital, Clocktower Technology Ventures, Jump Capital",m1,Karen Tan,0
+692,Ouyeel,$1.45 ,6/27/19,China,Shanghai,Internet software & services,Taigang Venture Capital,ouyeel,Yizhuang You,3
+693,Einride,$1.44 ,12/31/21,Sweden,Stockholm,Auto & transportation,"Temasek, BUILD Capital Partners, Northzone Ventures",einride,Robert Falck,0
+694,Justworks,$1.43 ,1/28/20,United States,New York,Internet software & services,"Index Ventures, Thrive Capital, Bain Capital Ventures",justworks,Isaac Oates,2
+695,Valgen Medtech,$1.43 ,5/6/21,China,Hangzhou,Health,"Sequoia Capital China, China Life Investment Holding Company, Qiming Venture Partners",valgen medtech,Emma Johnson,0
+696,SonderMind,$1.42 ,7/28/21,United States,Denver,Health,"Kickstart Fund, General Catalyst, Drive Capital",sondermind,Mark Frank,0
+697,Amagi,$1.40 ,3/16/22,India,Bengaluru,Internet software & services,"Mayfield, Accel, Norwest Venture Partners",amagi,Srinivasan Gopalakrishnan,1
+698,Astranis Space Technologies,$1.40 ,4/14/21,United States,San Francisco,Mobile & telecommunications,"Refactor Capital, Andreessen Horowitz, Fifty Years Fund",astranis space technologies,John Gedmark,0
+699,Away,$1.40 ,5/15/19,United States,New York,E-commerce & direct-to-consumer,"Global Founders Capital, Comcast Ventures, Forerunner Ventures",away,Steph Korey,1
+700,boAT,$1.40 ,10/28/22,India,Mumbai,Consumer & retail,"Qualcomm Ventures, Fireside Ventures",boat,Aman Gupta,2
+701,Bucketplace,$1.40 ,5/9/22,South Korea,Seoul,E-commerce & direct-to-consumer,"IMM Investment, Mirae Asset Capital, BOND",bucketplace,Lucas Stone,2
+702,Cabify,$1.40 ,1/22/18,Spain,Madrid,Auto & transportation,"Seaya Ventures, Otter Rock Capital, Rakuten",cabify,Juan de Antonio,0
+703,Clarify Health,$1.40 ,4/5/22,United States,San Francisco,Health,"KKR, Aspenwood Ventures, Spark Capital",clarify health,Jean Drouin,0
+704,Coda,$1.40 ,7/8/21,United States,Mountain View,Internet software & services,"Greylock Partners, General Catalyst, Khosla Ventures",coda,Shishir Mehrotra,0
+705,Degreed,$1.40 ,4/13/21,United States,Pleasanton,Edtech,"Signal Peak Ventures, Owl Ventures, Jump Capital",degreed,David Blake,1
+706,Deliverect,$1.40 ,1/24/22,Belgium,Ghent,Fintech,"Newion Partners, SmartFin Capital, OMERS Ventures",deliverect,Zion Wiener,0
+707,Envoy,$1.40 ,1/11/22,United States,San Francisco,Internet software & services,"Andreessen Horowitz, Initialized Capital, TriplePoint Capital",envoy,Larry Gadea,0
+708,Epidemic Sound,$1.40 ,3/11/21,Sweden,Stockholm,Internet software & services,"EQT Partners, Blackstone",epidemic sound,Oscar Hoglund,0
+709,Figment,$1.40 ,12/20/21,Canada,Toronto,Internet software & services,"Bonfire Ventures, Two Sigma Ventures, FJ Labs",figment,Lorien Gremore,1
+710,Firebolt,$1.40 ,1/26/22,Israel,Tel Aviv,Data management & analytics,"TLV Partners, Zeev Ventures, Bessemer Venture Partners",firebolt,Robert Johnson,0
+711,GupShup,$1.40 ,4/8/21,United States,San Francisco,Internet software & services,"Helion Venture Partners, Tiger Global management, CRV",gupshup,Beerud Sheth,0
+712,Hive Box,$1.40 ,1/23/18,China,Shenzhen,"Supply chain, logistics, & delivery","Eastern Bell Capital, SF Holding Co, STO Express",hive box,Jian Wang,3
+713,Kong,$1.40 ,12/31/20,United States,San Francisco,Internet software & services,"New Enterprise Associates, CRV, Index Ventures",kong,Augusto_Marietti,1
+714,Koudai,$1.40 ,10/23/14,China,Beijing,E-commerce & direct-to-consumer,"New Enterprise Associates, Tiger Global management, Tencent",koudai,Xuebai Kuang,2
+715,Nimble Rx,$1.40 ,6/14/22,United States,Redwood City,Health,"Sequoia Capital, Four Rivers Group, DAG Ventures",nimble rx,Talha Sattar,2
+716,OneCard,$1.40 ,7/13/22,India,Pune,Fintech,"Sequoia Capital India, Hummingbird Ventures, Matrix Partners India",onecard,Dipen Segal,2
+717,Paddle,$1.40 ,5/9/22,United Kingdom,London,Fintech,"Notion Capital, Kindred Capital, BGF Ventures",paddle,Patrick Leddy,2
+718,Panther Labs,$1.40 ,12/2/21,United States,San Francisco,Cybersecurity,"Innovation Endeavors, s28 Capital, Lightspeed Venture Partners",panther labs,David McNeil,0
+719,Papa,$1.40 ,11/4/21,United States,Miami,Health,"Initialized Capital, Canaan Partners, Sound Ventures",papa,David Rich,0
+720,Phenom People,$1.40 ,4/7/21,United States,Ambler,Internet software & services,"Sierra Ventures, AXA Venture Partners, Sigma Prime Ventures",phenom people,Mahe Bayireddi,0
+721,Pristyn Care,$1.40 ,12/7/21,India,Gurugram,Health,"Sequoia Capital India, Hummingbird Ventures, Epiq Capital",pristyn care,Harsimarbir Singh Khalsa,2
+722,Rad Power Bikes,$1.40 ,10/28/21,United States,Seattle,Auto & transportation,"Durable Capital Partners, Cercano Management, T. Rowe Price",rad power bikes,Mike Radenbaugh,0
+723,Rebel Foods,$1.40 ,10/7/21,India,Pune,E-commerce & direct-to-consumer,"Sequoia Capital India, Lightbox Ventures, Coatue Management",rebel foods,Jaydeep Barman,0
+724,Salt Security,$1.40 ,2/10/22,United States,Palo Alto,Cybersecurity,"Y Combinator, S Capital, Tenaya Capital",salt security,Roey Eliyahu.,0
+725,Scalable Capital,$1.40 ,6/8/21,Germany,Munich,Fintech,"BlackRock, Tengelmann Ventures, Holtzbrinck Ventures",scalable capital,Adam French,1
+726,SparkCognition,$1.40 ,1/25/22,United States,Austin,Artificial intelligence,"March Capital Partners, Temasek, Doha Venture Capital",sparkcognition,Abe L. Thompson,1
+727,Stash,$1.40 ,2/3/21,United States,New York,Fintech,"Goodwater Capital, Entree Capital, Valar Ventures",stash,Brandon Krieg,0
+728,Symphony,$1.40 ,5/16/17,United States,New York,Fintech,"BNP Paribas, Goldman Sachs, Google",symphony,David Gurlé,1
+729,Tripledot,$1.40 ,2/14/22,United Kingdom,London,Mobile & telecommunications,"Lightspeed Venture Partners, Access Industries, Eldridge",tripledot,Lior Shiff,0
+730,VideoAmp,$1.40 ,10/21/21,United States,Los Angeles,Internet software & services,"Simon Equity Partners, Wavemaker Partners, Anthem Venture Partners",videoamp,Ross McCray,1
+731,Yidian Zixun,$1.40 ,10/17/17,China,Beijing,Mobile & telecommunications,"Phoenix New Media, Tianjin Haihe Industry Fund",yidian zixun,Bin Wan,3
+732,Yotpo,$1.40 ,3/18/21,United States,New York,Internet software & services,"Bessemer Venture Partners, Vintage Investment Partners, Blumberg Capital",yotpo,Tomer Tagrin,1
+733,Neon,$1.38 ,2/14/22,Brazil,Sao Paulo,Fintech,"Propel Venture Partners, Monashees+, BBVA",neon,Jack Martin,2
+734,Veepee,$1.38 ,7/2/07,France,La Plaine Saint-Denis,E-commerce & direct-to-consumer,"Summit Partners, Qatar Holding",veepee,Jacques-Antoine Granjon,0
+735,Extend,$1.36 ,5/18/21,United States,San Francisco,Fintech,"GreatPoint Ventures, Meritech Capital Partners, PayPal Ventures",extend,Andrew Ruegger,2
+736,Generate Biomedicines,$1.36 ,11/18/21,United States,Cambridge,Health,"Altitude Life Science Ventures. T. Rowe Price, Morningside Venture Partners",generate biomedicines,Scott Verner,0
+737,Movable Ink,$1.36 ,4/28/22,United States,New York,Internet software & services,"Contour Venture Partners, Intel Capital, Silver Lake",movable ink,Vivek Sharma,2
+738,DeepBlue Technology,$1.35 ,4/16/18,China,Shanghai,Artificial intelligence,"DESUN Capital, Yunfeng Capital, Meridian Capital",deepblue technology,Wenbin Fang,3
+739,Epirus,$1.35 ,2/14/22,United States,Hawthorne,Other,"8VC, Bedrock Capital, Broom Ventures",epirus,Jonathan Fleming,0
+740,Klook,$1.35 ,8/7/18,Hong Kong,Central,Travel,"Sequoia Capital China, Goldman Sachs, Matrix Partners China",klook,Ethan Lin,2
+741,Yaoshibang,$1.35 ,6/15/21,China,Guangzhou,Health,"Green Pine Capital Partners, Ivy Capital, DCM Ventures",yaoshibang,Jianjun Huang,3
+742,Jaguar Microsystems,$1.34 ,6/23/22,China,Shenzhen,Hardware,"Tencent Holdings, Glory Ventures, Shenzhen Capital Group",jaguar microsystems,William Perez,0
+743,Signifyd,$1.34 ,4/15/21,United States,San Jose,Fintech,"Menlo Ventures, Resolute Ventures, IA Ventures",signifyd,Raj Ramanand,2
+744,Motorway,$1.33 ,11/29/21,United Kingdom,London,E-commerce & direct-to-consumer,"Marchmont Ventures, BMW i Ventures, Index Ventures",motorway,Tom Leathes,2
+745,RIDI,$1.33 ,1/24/22,South Korea,Seoul,E-commerce & direct-to-consumer,"Atinum Investment, Company K Partners, GIC",ridi,Susanne Klepsch,0
+746,Athletic Greens,$1.32 ,1/25/22,United States,New York,Health,"SC.Holdings, Not Boring Capital, Bolt Ventures",athletic greens,Chris Ashenden,0
+747,Flipboard,$1.32 ,7/22/15,United States,Palo Alto,Internet software & services,"Kleiner Perkins Caufield & Byers, Comcast Ventures, Insight Partners",flipboard,Mike McCue,2
+748,GPclub,$1.32 ,10/22/18,South Korea,Seoul,Other,Goldman Sachs,gpclub,,2
+749,Tongdun Technology,$1.32 ,4/25/19,China,Hangzhou,Cybersecurity,"Advantech Capital, Temasek Holdings Ltd., Tiantu Capital Co.",tongdun technology,,1
+750,Alzheon,$1.31 ,9/30/20,United States,Framingham,Health,"ARCH Venture Partners, Ally Bridge Group",alzheon,Martin Tolar,0
+751,Unisound,$1.31 ,7/19/18,China,Beijing,Artificial intelligence,"Qiming Venture Partners, China Internet Investment Fund, Qualcomm Ventures",unisound,Yin Qi,1
+752,Betterment,$1.30 ,9/29/21,United States,New York,Fintech,"Bessemer Venture Partners, Menlo Ventures, Anthermis",betterment,Jon Stein,1
+753,Biofourmis,$1.30 ,4/26/22,United States,Boston,Health,"General Atlantic, CVS Health, MassMutual Ventures",biofourmis,Kuldeep Singh Rajput,1
+754,Cava Group,$1.30 ,4/27/21,United States,Washington,Other,"SWaN & Legend Ventures, Revolution Growth, Invus Group",cava group,Brett Schulman,0
+755,Clipboard Health,$1.30 ,2/1/22,United States,San Francisco,Internet software & services,"Caffeinated Capital, Initialized Capital, Y Combinator",clipboard health,Ibrahim Khoury,0
+756,CoinTracker,$1.30 ,1/27/22,United States,San Francisco,Fintech,"Initialized Capital, General Catalyst, Kraken Ventures",cointracker,Chandan Lodha,0
+757,DistroKid,$1.30 ,8/16/21,United States,New York,Internet software & services,"Insight Partners, Silversmith Capital Partners, Spotify",distrokid,Philip Kaplan,0
+758,Domestika,$1.30 ,1/27/22,United States,Berkeley,Internet software & services,"Zeev Ventures, GSV Ventures",domestika,Antonio Eguiluz,0
+759,Equashield,$1.30 ,10/6/22,United States,Port Washington,Health,Nordic Capital,equashield,Marisa Luchetta,0
+760,Everly Health,$1.30 ,12/3/20,United States,Austin,Health,"Highland Capital Partners, Next Coast Ventures, SoGal Ventures",everly health,Julia Cheek,0
+761,Flock Freight,$1.30 ,10/20/21,United States,Encinitas,"Supply chain, logistics, & delivery","SignalFire, GLP Capital Partners, Google Ventures",flock freight,Oren Zaslansky,0
+762,HeartFlow,$1.30 ,12/4/17,United States,Redwood City,Health,"BlueCross BlueShield Venture Partners, US Venture Partners",heartflow,Charles Taylor,3
+763,InSightec,$1.30 ,3/6/20,Israel,Tirat Carmel,Health,"York Capital Management, GE Healthcare, Koch Disruptive Technologies",insightec,Maurice Ferré,0
+764,Island,$1.30 ,3/23/22,United States,Dallas,Internet software & services,"Insight Partners, Sequoia Capital, Stripes Group",island,Richard Branson,0
+765,iTrustCapital,$1.30 ,1/11/22,United States,Long Beach,Fintech,"Left Lane Capital, Walden Venture Capital",itrustcapital,Todd Southwick,3
+766,Konfio,$1.30 ,9/29/21,Mexico,Mexico City,Fintech,"Kaszek Ventures, QED Investors, International Finance Corporation",konfio,David Arana,1
+767,LinkTree,$1.30 ,3/16/22,Australia,Melbourne,Internet software & services,"AirTree Ventures, Insight Partners, Index Ventures",linktree,Alex Zaccaria,0
+768,Loadsmart,$1.30 ,2/1/22,United States,New York,"Supply chain, logistics, & delivery","Chromo Invest, Maersk Growth, BlackRock",loadsmart,Ricardo Salgado,0
+769,Lukka,$1.30 ,1/14/22,United States,New York,Fintech,"Liberty City Ventures, Soros Fund Management, Summer Capital",lukka,Robert Materazzi,0
+770,Manner,$1.30 ,12/24/20,China,Shanghai,Other,"Coatue Management, H Capital, Capital Today",manner,John Smith,0
+771,MasterControl,$1.30 ,12/15/22,United States,Salt Lake City,Health,InnoVentures Capital Partners,mastercontrol,Jonathan Beckstrand,2
+772,Optibus,$1.30 ,5/16/22,Israel,Tel Aviv,"Supply chain, logistics, & delivery","Bessemer Venture Partners, Insight Partners, Pitango Venture Capital",optibus,Amos Haggiag,0
+773,Shiprocket,$1.30 ,8/16/22,India,New Delhi,"Supply chain, logistics, & delivery","Bertelsmann India Investments, March Capital Partners, Tribe Capital, Nirvana Venture Advisors",shiprocket,Saahil Goel,0
+774,STORD,$1.30 ,9/13/21,United States,Atlanta,"Supply chain, logistics, & delivery","Dynamo VC, Susa Ventures, Founders Fund",stord,Sean Henry,0
+775,TalkingData,$1.30 ,1/6/21,China,Beijing,Mobile & telecommunications,"N5 Capital, CR Capital Mgmt, JD Digits",talkingdata,Jingguang Li,3
+776,The Brandtech Group,$1.30 ,11/19/19,United States,New York,Other,Undisclosed,the brandtech group,John Smith,0
+777,TravelPerk,$1.30 ,1/12/22,Spain,Barcelona,Travel,"LocalGlobe, Kinnevik, Felix Capital",travelperk,Avi Meir,1
+778,TUNGEE,$1.30 ,12/15/21,China,Guangzhou,Artificial Intelligence,"UNITY VENTURES, Qiming Venture Partners, GGV Capital",tungee,Mikhail Petrov,2
+779,Yubi,$1.30 ,3/7/22,India,Chennai,Fintech,"Insight Partners, B Capital Group, Lightspeed Venture Partners",yubi,Satoshi Nakamura,0
+780,YugaByte,$1.30 ,10/28/21,United States,Sunnyvale,Data management & analytics,"Lightspeed Venture Partners, Dell Technologies Capital, Wipro Ventures",yugabyte,Kannan Muthukkaruppan,0
+781,Huisuanzhang,$1.28 ,5/24/21,China,Beijing,Fintech,"IDG Capital, Gaocheng Capital, Chuanrong Capital",huisuanzhang,Zhongjun Xu,3
+782,Intercom,$1.28 ,3/27/18,United States,San Francisco,Internet software & services,"FirstMark Capital, Tiger Global Management",intercom,Des Traynor,1
+783,OVO Energy,$1.28 ,2/14/19,United Kingdom,Bristol,Other,"Mitsubishi Corporation, Mayfair Equity Partners",ovo energy,Stephen Fitzpatrick,1
+784,WTOIP,$1.27 ,4/8/18,China,Guangzhou,Internet software & services,"Dark Horse Technology Group, Hopu Investment Management, Kefa Capital",wtoip,CarlosGrau,0
+785,Greater Bay Technology,$1.26 ,4/2/22,China,Guangzhou,Hardware,"Tencent Holdings, Utrust Venture Capital, GF Xinde Investment Management Co.",greater bay technology,Frank Tang,1
+786,JMGO,$1.26 ,3/15/22,China,Shenzhen,Hardware,"IDG Capital, Yuanda Venture Investment, Primitive Forest Holdings Group",jmgo,Xiao Wei,2
+787,airSlate,$1.25 ,6/16/22,United States,Brookline,Internet software & services,"G Squared, UiPath Ventures, General Catalyst",airslate,Borya Shakhnovich,1
+788,BigID,$1.25 ,12/16/20,United States,New York,Cybersecurity,"BOLDstart Ventures, SAP.iO Fund, Scale Venture Partners",bigid,Dimitri Sirota,0
+789,CaptivateIQ,$1.25 ,1/26/22,United States,San Francisco,Fintech,"Sequoia Capital, Y Combinator, Accel",captivateiq,Lingke Wang,3
+790,ClassDojo,$1.25 ,7/21/22,United States,San Francisco,Edtech,"General Catalyst, Unkork Capital, Tencent Holdings",classdojo,Sam Chaudhary,1
+791,Flipdish,$1.25 ,1/13/22,Ireland,Dublin,Internet software & services,"Tencent Holdings, Tiger Global Management, Global Founders Capital",flipdish,Conor McCarthy,1
+792,Honor Technology,$1.25 ,10/5/21,United States,San Francisco,Internet software & services,"Andreessen Horowitz, Prosus Ventures, Thrive Capital",honor technology,George Zhao,0
+793,Incode Technologies,$1.25 ,12/7/21,United States,San Francisco,Cybersecurity,"Dila Capital, Framework Ventures, 3L",incode technologies,Laura Mather,2
+794,Kuaikan Manhua,$1.25 ,12/1/17,China,Beijing,Internet software & services,"Sequoia Capital China, CMC Capital Partners, Tencent Holdings",kuaikan manhua,Haotian Liu,3
+795,Marshmallow,$1.25 ,9/8/21,United Kingdom,London,Fintech,"Passion Capital, Hedosophia, Outrun Ventures",marshmallow,Oliver Smith,2
+796,Mythical Games,$1.25 ,11/4/21,United States,Sherman Oaks,Internet software & services,"Javelin Venture Partners, Struck Capital, Alumni Ventures Group",mythical games,John Linden,0
+797,Route,$1.25 ,1/21/22,United States,Lehi,"Supply chain, logistics, & delivery","Madrona Venture Group, Banner Ventures, FJ Labs",route,Jason Woosley,0
+798,Tackle.io,$1.25 ,12/21/21,United States,Boise,Internet software & services,"Andreessen Horowitz, Bessemer Venture Partners, Coatue Management",tackle.io,Andrew Duffle,0
+799,Talos,$1.25 ,5/10/22,United States,New York,Fintech,"Castle Island Ventures, PayPal Ventures, Andreessen Horowitz",talos,Jason Waxman,0
+800,BrewDog,$1.24 ,4/10/17,United Kingdom,Aberdeen,Consumer & retail,"TSG Consumer Partners, Crowdcube",brewdog,James Watt,3
+801,Enflame,$1.24 ,1/5/21,China,Shanghai,Hardware,"Tencent Holdings, Delta Capital, Redpoint Ventures China",enflame,Wei Li,3
+802,SeatGeek,$1.24 ,8/31/22,United States,New York,E-commerce & direct-to-consumer,"Accel, Founder Collective, Brainchild Holdings",seatgeek,Russell D'Souza,0
+803,Shulan Health,$1.24 ,3/1/21,China,Hangzhou,Health,Qiming Venture Partners,shulan health,Qijun Chen,3
+804,EQRx,$1.23 ,1/11/21,United States,Cambridge,Health,"Nextech Invest, Casdin Capital, Google Ventures",eqrx,Alexis Borisy,0
+805,inDriver,$1.23 ,2/1/21,United States,Mountain View,Auto & transportation,"Leta Capital, Insight Partners, General Catalyst",indriver,Egor_Belyakov,1
+806,Nexii,$1.23 ,9/8/21,Canada,Vancouver,Other,"Trane Technologies, Honeywell",nexii,Stephen Sidwell,0
+807,Insider,$1.22 ,2/28/22,Turkey,Istanbul,Internet software & services,"Wamda Capital, Endeavor, Riverwood Capital",insider,Henry Blodget,1
+808,Kallyope,$1.22 ,2/15/22,United States,New York,Health,"The Column Group, Alexandria Venture Investments, Lux Capital",kallyope,Nancy Thornberry,3
+809,Spiber,$1.22 ,9/8/21,Japan,Tsuruoka,Other,"Cool Japan Fund, JAFCO, The Carlyle Group",spiber,Kazuhide Sekiyama,1
+810,Ada Support,$1.20 ,5/7/21,Canada,Toronto,Artificial intelligence,"Version One Ventures, Bessemer Venture Partners, FirstMark Capital",ada support,Mike Murchison,0
+811,AgentSync,$1.20 ,12/7/21,United States,Denver,Fintech,"Craft Ventures, Caffeinated Capital, Operator Collective",agentsync,Jason Coleman,1
+812,Aibee,$1.20 ,4/13/21,China,Beijing,Artificial intelligence,"Sequoia Capital China, Lenovo Capital and Incubator, Group GSR Ventures",aibee,Yuanqing Lin,3
+813,BigPanda,$1.20 ,1/12/22,United States,Mountain View,Artificial intelligence,"Advent International, Battery Ventures, Sequoia Capital Israel",bigpanda,Assaf Resnick,2
+814,CarDekho,$1.20 ,10/13/21,India,Jaipur,E-commerce & direct-to-consumer,"Sequoia Capital India, Hillhouse Capital Management, Sunley House Capital Management",cardekho,Amit Jain,2
+815,Choco,$1.20 ,4/12/22,Germany,Berlin,E-commerce & direct-to-consumer,"Bessemer Venture Partners, G Squared, Insight Partners",choco,Christian Burunczik,3
+816,Copado,$1.20 ,9/13/21,United States,Chicago,Data management & analytics,"Insight Partners, Salesforce Ventures, Perpetual Investors",copado,Ted Elliott,1
+817,DailyPay,$1.20 ,5/18/21,United States,New York,Fintech,"RPM Ventures, Inspiration Ventures, Carrick Capital Partners",dailypay,Jason Lee,2
+818,Fair,$1.20 ,12/20/18,United States,Santa Monica,Auto & transportation,"CreditEase Fintech Investment Fund, BMW i Ventures, SoftBank Group",fair,Scott Painter,0
+819,FloQast,$1.20 ,7/21/21,United States,Los Angeles,Fintech,"Polaris Partners, Insight Partners, Norwest Venture Partners",floqast,Mike Whitmire,1
+820,Gem,$1.20 ,9/28/21,United States,San Francisco,Internet software & services,"Accel, Greylock Partners, Meritech Capital Partners",gem,Steve Ellis,1
+821,Jokr,$1.20 ,12/2/21,United States,New York,"Supply chain, logistics, & delivery","GGV Capital, Tiger Global Management, Greycroft",jokr,Ralf_Wenzel,1
+822,LivSpace,$1.20 ,2/8/22,India,Bengaluru,E-commerce & direct-to-consumer,"Jungle Ventures, Helion Venture Partners, INGKA Investments",livspace,Ramakant Sharma,1
+823,Merama,$1.20 ,12/9/21,Mexico,Mexico City,E-commerce & direct-to-consumer,"SoftBank Latin America Fund, Advent International, Balderton Capital",merama,Pedro Arnt,0
+824,MindTickle,$1.20 ,8/3/21,United States,San Francisco,Internet software & services,"Qualcomm Ventures, Accel, Canaan Partners",mindtickle,Krishna Depura,2
+825,MyGlamm,$1.20 ,11/10/21,India,Mumbai,E-commerce & direct-to-consumer,"L'Occitane, Trifecta Capital, Bessemer Venture Partners",myglamm,Darpan Sanghvi,0
+826,Nova Labs,$1.20 ,2/22/22,United States,San Francisco,Internet software & services,"FirstMark Capital, Tiger Global Management, FTX Venture",nova labs,Sarah Johnson,2
+827,Offchain Labs,$1.20 ,8/31/21,United States,Princeton,Internet software & services,"Pantera Capital, Polychain Capital, Lightspeed Venture Partners",offchain labs,Ed Felten,3
+828,Phantom,$1.20 ,1/31/22,United States,San Francisco,Fintech,"Paradigm, Andreessen Horowitz, Jump Capital",phantom,Julian Zegelman,0
+829,Pilot.com,$1.20 ,3/26/21,United States,San Francisco,Fintech,"Index Ventures, Sequoia Capital, Bezos Expeditions",pilot.com,Waseem Daher,2
+830,Pipa Coding,$1.20 ,3/25/21,China,Beijing,Edtech,"Source Code Capital, XVC Venture Capital, Hillhouse Capital Management",pipa coding,Julia Rodriguez,2
+831,Prime Medicine,$1.20 ,7/13/21,United States,Cambridge,Health,"Newpath Partners, Google Ventures, F-Prime Capital",prime medicine,Keith Murphy,0
+832,Public,$1.20 ,2/17/21,United States,New York,Fintech,"Accel, Greycroft, Advancit Capital",public,Philippe Petitcolin,0
+833,Qumulo,$1.20 ,7/16/20,United States,Seattle,Data management & analytics,"Madrona Venture Group, Kleiner Perkins Caufield & Byers, Highland Capital Partners",qumulo,Peter Godman,0
+834,Rohlik Group,$1.20 ,7/1/21,Czech Republic,Prague,"Supply chain, logistics, & delivery","Partech Partners, Index Ventures, Quadrille Capital",rohlik group,Tomas Cupr,2
+835,SeekOut,$1.20 ,1/12/22,United States,Bellevue,Internet software & services,"Mayfield, Madrona Venture Group, Tiger Global Management",seekout,Anoop Gupta,0
+836,SmartMore,$1.20 ,6/24/21,China,Shenzhen,Artificial Intelligence,"IDG Capital, ZhenFund, Sequoia Capital China",smartmore,Adam Smith,2
+837,Spectrum Medical,$1.20 ,7/18/22,United Kingdom,Gloucester,Health,CVC Capital Partners,spectrum medical,John Doe,0
+838,stori,$1.20 ,7/15/22,Mexico,Juarez,Fintech,"Vision Plus Capital, Source Code Capital, Lightspeed Venture Partners",stori,Michael Nicklas,2
+839,Swiftly,$1.20 ,9/19/22,United States,Seattle,Mobile & telecommunications,"Mendacre, BRV Capital Management, Liquid 2 Ventures",swiftly,Drew McElroy,1
+840,Tealium,$1.20 ,2/3/21,United States,San Diego,Internet software & services,"Georgian Partners, Silver Lake, Presidio Ventures",tealium,Jeff Lunsford,0
+841,Unit,$1.20 ,5/17/22,United States,New York,Fintech,"Accel, Better Tomorrow Ventures, Flourish Ventures",unit,John Smith,0
+842,Vectra Networks,$1.20 ,4/29/21,United States,San Jose,Artificial intelligence,"IA Ventures, Khosla Ventures, AME Cloud Ventures",vectra networks,Hitesh Sheth,0
+843,Viz.ai,$1.20 ,4/7/22,United States,San Francisco,Artificial Intelligence,"Kleiner Perkins Caufield & Byers, CRV, Threshold Ventures",viz.ai,Chris Mansi,3
+844,Workhuman,$1.20 ,6/23/20,Ireland,Dublin,Internet software & services,ICG,workhuman,Eric Mosley,1
+845,Xpressbees,$1.20 ,2/9/22,India,Pune,"Supply chain, logistics, & delivery","Norwest Venture Partners, Investcorp, Blackstone",xpressbees,Supreet Singh,1
+846,Yiguo,$1.20 ,11/9/16,China,Shanghai,"Supply chain, logistics, & delivery","Alibaba Group, KKR, Goldman Sachs",yiguo,Chen Ningning,1
+847,Zip,$1.20 ,5/25/22,United States,San Francisco,Fintech,"CRV, Tiger Global Management, Y Combinator",zip,Peter Arrowsmith,0
+848,L&P Cosmetic,$1.19 ,1/1/16,South Korea,Seoul,Consumer & retail,CDIB Capital,l&p cosmetic,Liam Parker,1
+849,Mininglamp Technology,$1.19 ,3/27/19,China,Beijing,Artificial intelligence,"Russia-China Investment Fund, Tencent Holdings, Sequoia Capital China",mininglamp technology,Mingyuan Li,3
+850,Luoji Siwei,$1.18 ,7/20/17,China,Beijing,Edtech,"Sequoia Capital China, Qiming Venture Partners, Tencent Holdings",luoji siwei,Jianming Hu,3
+851,IRL,$1.17 ,6/15/21,United States,San Francisco,Internet software & services,"Goodwater Capital, Floodgate, Founders Fund",irl,Abby Kearns,0
+852,Modern Health,$1.17 ,2/11/21,United States,San Francisco,Health,"Kleiner Perkins Caufield & Byers, Afore Capital, Founders Fund",modern health,Alison Watson,0
+853,Yimidida,$1.17 ,1/14/19,China,Shanghai,"Supply chain, logistics, & delivery","Source Code Capital, Global Logistic Properties, K2VC",yimidida,Zhang Yiming,1
+854,SOURCE Global,$1.16 ,4/29/22,United States,Scottsdale,Other,"Breakthrough Energy Ventures, Material Impact, 3x5 Special Opportunity Partners",source global,Katherine Giscombe,0
+855,Tuhu,$1.16 ,9/15/18,China,Shanghai,Auto & transportation,"Qiming Venture Partners, Yaxia Automobile, Far East Horizon",tuhu,Xiaopeng Zhang,2
+856,Younited,$1.16 ,12/8/22,France,Paris,Fintech,"Weber Investissements, Schibsted Growth",younited,Charles Egly,0
+857,CloudBees,$1.15 ,12/9/21,United States,San Jose,Data management & analytics,"Matrix Partners, Lightspeed Venture Partners, Verizon Ventures",cloudbees,Sacha Labourey,2
+858,Elemy,$1.15 ,10/6/21,United States,San Francisco,Health,"General Catalyst, Bling Capital, Felicis Ventures",elemy,Jonathan Stevens,3
+859,Guideline,$1.15 ,6/16/21,United States,San Mateo,Fintech,"Pelion Venture Partners, Foundation Capital, Thoma Bravo",guideline,Kevin Busque,1
+860,Happy Money,$1.15 ,2/8/22,United States,Tustin,Fintech,"FirstMark Capital, Anthemis, CMFG Ventures",happy money,Scott Saunders,2
+861,LifeMiles,$1.15 ,7/13/15,Colombia,Bogota,Other,Advent International,lifemiles,Andres_Benitez,1
+862,Rebellion Defense,$1.15 ,9/16/21,United States,Washington DC,Artificial intelligence,"Venrock, Innovation Endeavors, Insights Partners",rebellion defense,Jon Berry,2
+863,Venafi,$1.15 ,12/10/20,United States,Salt Lake City,Cybersecurity,"Pelion Venture Partners, Foundation Capital, Thoma Bravo",venafi,Jeff Hudson,1
+864,DANA,$1.13 ,8/10/22,Indonesia,Jakarta,Fintech,"Ant Group, Lazada, Sinar Mas Indonesia",dana,James_Kehoe,2
+865,At-Bay,$1.12 ,7/27/21,United States,Mountain View,Fintech,"Lightspeed Venture Partners, Khosla Ventures, Munich Re Ventures",at-bay,Rotem Iram,1
+866,TELD,$1.12 ,12/16/19,China,Qingdao,Fintech,"China Reform Fund, Gaopeng Capital, Jinhui Xingye",teld,John Smith,0
+867,Visby Medical,$1.12 ,3/1/22,United States,San Jose,Health,"Artiman Ventures, Pitango Venture Capital, Valo Ventures",visby medical,Adam De La Zerda,1
+868,Acko General Insurance,$1.10 ,10/28/21,India,Bengaluru,Fintech,"Intact Ventures, Munich Re Ventures, General Atlantic",acko general insurance,Varun Dua,2
+869,apna,$1.10 ,9/15/21,India,Bengaluru,Internet software & services,"Sequoia Capital India, Rocketship.vc, Lightspeed India Partners",apna,Nirmit Parikh,2
+870,AppDirect,$1.10 ,10/7/15,United States,San Francisco,E-commerce & direct-to-consumer,"Mithril, iNovia Capital, Foundry Group",appdirect,Daniel Saks,0
+871,Beyond Identity,$1.10 ,2/22/22,United States,New York,Cybersecurity,"New Enterprise Associates, Koch Disruptive Technologies, Evolution Equity Partners",beyond identity,Tom Jermoluk.,0
+872,CAIS,$1.10 ,1/11/22,United States,New York,Fintech,"Franklin Templeton, Motive Partners. Apollo Global Management",cais,Michael T. Pompian,2
+873,Caribou,$1.10 ,5/23/22,United States,Denver,Fintech,"CMFG Ventures, Accomplice, Moderne Ventures",caribou,Sarah Spiegel,0
+874,Carousell,$1.10 ,9/15/21,Singapore,,E-commerce & direct-to-consumer,"500 Global, Rakuten Ventures, Golden Gate Ventures",carousell,Si Quan Ong,1
+875,Chief,$1.10 ,3/31/22,United States,New York,Other,"General Catalyst, Inspired Capital, Flybridge Capital Partners",chief,John Doe,0
+876,Daily Harvest,$1.10 ,11/16/21,United States,New York,E-commerce & direct-to-consumer,"M13, Lightspeed Venture Partners, Lone Pine Capital",daily harvest,Rachel Drori,2
+877,Enpal,$1.10 ,10/18/21,Germany,Berlin,Internet software & services,"HV Capital, Softbank Group, BlackRock",enpal,Mario Kohle,0
+878,eSentire,$1.10 ,2/22/22,Canada,Waterloo,Cybersecurity,"Edison Partners, Georgian Partners, VentureLink",esentire,J.Paul Haynes,0
+879,Firefly Aerospace,$1.10 ,5/4/21,United States,Cedar Park,Other,"XBTO Ventures, Raven One Ventures, SK Ventures",firefly aerospace,Tom Markusic,0
+880,Fundbox,$1.10 ,11/30/21,United States,San Francisco,Fintech,"Khosla Ventures, General Catalyst, Blumberg Capital",fundbox,Eyal Shinar,1
+881,G2,$1.10 ,6/22/21,United States,Chicago,Internet software & services,"Pritzker Group Venture Capital, Accel, Hyde Park Venture Partners",g2,Godard Abel,2
+882,Gaussian Robotics,$1.10 ,11/10/21,China,Shanghai,Hardware,"BlueRun Ventures, Grand Flight Investment, Meituan Dianping",gaussian robotics,Edward Cheng,0
+883,GetYourGuide,$1.10 ,5/16/19,Germany,Berlin,Travel,"Spark Capital, Highland Europe, Sunstone Capital",getyourguide,Johannes Reck,2
+884,GlobalBees,$1.10 ,12/28/21,India,New Delhi,E-commerce & direct-to-consumer,"Chiratae Ventures, SoftBank Group, Trifecta Capital",globalbees,Ameya Upadhyay,2
+885,Imply Data,$1.10 ,5/17/22,United States,Burlingame,Data management & analytics,"Andreessen Horowitz, Bessemer Venture Partners, Khosla Ventures,",imply data,Fangjin Yang,2
+886,IntelyCare,$1.10 ,4/6/22,United States,Quincy,Health,"Kaiser Permanente Ventures, Endeavour Vision, LRVHealth",intelycare,David Coppins,0
+887,Invoca,$1.10 ,6/14/22,United States,Santa Barbara,Artificial intelligence,"Upfront Ventures, Accel, Industry Ventures",invoca,Jason Spievak,1
+888,Ivalua,$1.10 ,5/21/19,United States,Redwood City,Fintech,"Ardian, Tiger Global Management, KKR",ivalua,David Khuat-Duy,2
+889,Juanpi,$1.10 ,4/14/16,China,Wuhan,E-commerce & direct-to-consumer,"Tiantu Capital, SAIF Partners China, Newsion Venture Capital",juanpi,Shuang Su,2
+890,Karat,$1.10 ,10/13/21,United States,Seattle,Internet software & services,"8VC, Norwest Venture Partners, Tiger Global Management",karat,Will Graylin,0
+891,LEAD School,$1.10 ,1/13/22,India,Andheri,Edtech,"WestBridge Capital, GSV Ventures, Elevar Equity",lead school,Smita Dnyaneshwar Deorah,1
+892,Material Security,$1.10 ,5/11/22,United States,Redwood City,Cybersecurity,"Andreessen Horowitz, Founders Fund",material security,David Greenberg,0
+893,Nexthink,$1.10 ,2/8/21,Switzerland,Prilly,Data management & analytics,"Auriga, Galeo Ventures, Highland Europe",nexthink,Pedro Bados,0
+894,Nowports,$1.10 ,5/24/22,Mexico,Monterrey,"Supply chain, logistics, & delivery","Monashees+, Foundation Capital, Base10 Partners",nowports,Ramón López,0
+895,OVH,$1.10 ,8/15/16,France,Roubaix,Other,"KKR, TowerBrook Capital Partners",ovh,Octave Klaba,2
+896,People.ai,$1.10 ,8/11/21,United States,San Francisco,Internet software & services,"GGV Capital, Lightspeed Venture Partners, ICONIQ Capital",people.ai,Oleg Rogynskyy,2
+897,Pharmapacks,$1.10 ,11/12/20,United States,Islandia,E-commerce & direct-to-consumer,The Carlyle Group,pharmapacks,Andrew Vagenas,2
+898,PhysicsWallah,$1.10 ,6/7/22,India,Uttar Pradesh,Edtech,"GSV Ventures, WestBridge Capital",physicswallah,Alakh Verma,0
+899,Purplle,$1.10 ,6/9/22,India,Mumbai,E-commerce & direct-to-consumer,"Blume Ventures, JSW Ventures, IvyCap Ventures",purplle,Manish Taneja,2
+900,Qingting FM,$1.10 ,6/2/21,China,Shanghai,Internet software & services,"China Culture Industrial Investment Fund, We Capital, China Minsheng Investment Group",qingting fm,Fan Fan,2
+901,Recover,$1.10 ,6/9/22,Spain,Banyeres de Mariola,Other,"Goldman Sachs Asset Management, STORY3 Capital Partners",recover,Samuel Davis,0
+902,Rightway,$1.10 ,3/30/21,United States,New York,Health,"Thrive Capital, Khosla Ventures, Tiger Global Management",rightway,James Smith,0
+903,Sennder,$1.10 ,1/14/21,Germany,Berlin,"Supply chain, logistics, & delivery","Accelm Scania Growth Capital, Lakestar",sennder,David Nothacker,2
+904,Sisense,$1.10 ,1/9/20,United States,New York,Data management & analytics,"Opus Capital, Genesis Partners, Battery Ventures",sisense,Amir Orad,2
+905,Staffbase,$1.10 ,3/15/22,Germany,Chemnitz,Internet software & services,"Insight Partners, e.ventures, General Atlantic",staffbase,Frank Wolf,2
+906,Sunbit,$1.10 ,5/20/21,United States,Los Angeles,Fintech,"Zeev Ventures, Group11, Chicago Ventures",sunbit,Arad Levertov,0
+907,TangoMe,$1.10 ,3/20/14,United States,Mountain View,Mobile & telecommunications,"Draper Fisher Jurtson, Qualcomm Ventures, Alibaba Group",tangome,Uri Raz,0
+908,Teleport,$1.10 ,5/3/22,United States,Oakland,Cybersecurity,"Kleiner Perkins Caufield & Byers, s28 Capital, Insight Partners",teleport,Sten Tamkivi,2
+909,The Bank of London,$1.10 ,11/30/21,United Kingdom,London,Fintech,"Mangrove Capital Partners,14W. ForgeLight",the bank of london,John Smith,0
+910,Turing,$1.10 ,12/20/21,United States,Palo Alto,Internet software & services,"Foundation Capital, Frontier Ventures, AltaIR Capital",turing,Aubrey de Grey,0
+911,Wasabi,$1.10 ,9/27/22,United States,Boston,Internet software & services,"Forestay Capital, Alumni Ventures, NTT DoCoMo Ventures",wasabi,David Friend,0
+912,Zego,$1.10 ,3/9/21,United Kingdom,London,Fintech,"LocalGlobe, Balderton Capital, Target Global",zego,Harry Franks,0
+913,56PINGTAI,$1.08 ,1/25/21,China,Shanghai,"Supply chain, logistics, & delivery","QF Capital, QC Capital, Unicom Innovation Venture Capital",56pingtai,Jianwen Li,0
+914,Nxin,$1.08 ,9/18/18,China,Beijing,Internet software & services,"Beijing Juneng Hesheng Industry Investment Fund, Beijing Shuju Xinrong Fund",nxin,Sundar Pichai,2
+915,UISEE Technology,$1.08 ,1/25/21,China,Beijing,"Supply chain, logistics, & delivery","Shenzhen Capital Group, Robert Bosch Venture Capital, SeptWolves Ventures",uisee technology,Jason Chen,2
+916,Cirkul,$1.07 ,6/13/22,United States,Sarasota,Consumer & retail,"AF Ventures, Siddhi Capital, SC.Holdings",cirkul,Blake Murray,0
+917,Mamaearth,$1.07 ,12/28/21,India,Gurgaon,E-commerce & direct-to-consumer,"Fireside Ventures, Sequoia Capital India, Stellaris Venture Partners",mamaearth,Ghazal Alagh,0
+918,Radius Payment Solutions,$1.07 ,11/27/17,United Kingdom,Crewe,Fintech,Inflexion Private Equity,radius payment solutions,William Holmes,3
+919,Rivigo,$1.07 ,7/11/19,India,Gurgaon,"Supply chain, logistics, & delivery","SAIF Partners India, Warburg Pincus, Trifecta Capital Advisors",rivigo,Deepak Garg,1
+920,MobileCoin,$1.06 ,7/7/21,United States,San Francisco,Fintech,"General Catalyst, Future Ventures, AU21",mobilecoin,Joshua Goldbard,1
+921,0x,$1.05 ,4/26/22,United States,San Francisco,Fintech,"Jump Capital, Pantera Capital, Greylock Partners",0x,Will Warren,1
+922,Branch,$1.05 ,3/1/22,United States,Columbus,Fintech,"American Family Ventures, Greycroft, SignalFire",branch,Atif Ameer Sheikh,1
+923,Density,$1.05 ,11/10/21,United States,San Francisco,Hardware,"Founders Fund, Upfront Ventures, 01 Advisors",density,Andrew Farah,0
+924,Instabase,$1.05 ,10/21/19,United States,San Francisco,Data management & analytics,"New Enterprise Associates, Greylock Partners, Andreessen Horowitz",instabase,Anant Bhardwaj,1
+925,Jiuxian,$1.05 ,7/30/15,China,Beijing,E-commerce & direct-to-consumer,"Sequoia Capital China, Rich Land Capital, Merrysunny Wealth",jiuxian,Dejian Liu,2
+926,Matrixport,$1.05 ,6/1/21,Singapore,,Fintech,"Dragonfly Captial, Qiming Venture Partners, DST Global",matrixport,Geoffrey Yu,0
+927,Mixpanel,$1.05 ,11/15/21,United States,San Francisco,Internet software & services,"Bain Capital Tech Opportunities, Andreessen Horowitz, Sequoia Capital",mixpanel,Suki Leacey,2
+928,Sendbird,$1.05 ,4/6/21,United States,San Mateo,Mobile & telecommunications,"FundersClub, Y Combinator, Tiger Global Management",sendbird,John Kim,0
+929,Aprogen,$1.04 ,5/31/19,South Korea,Seongnam-Si,Health,"Lindeman Asia Investment, Nichi-Iko Pharmaceutical",aprogen,Jin-San Yoo,0
+930,OrCam Technologies,$1.03 ,2/20/18,Israel,Jerusalem,Artificial intelligence,"Intel Capital, Aviv Venture Capital",orcam technologies,Amnon Shashua,3
+931,Ample,$1.02 ,11/11/21,United States,San Francisco,Hardware,"Shell Ventures, Blackstone, Moore Strategic Ventures",ample,John Doe,0
+932,BlackBuck,$1.02 ,7/22/21,India,Bengaluru,"Supply chain, logistics, & delivery","Accel, Sands Capital, International Finance Corporation",blackbuck,Rajesh Yabaji,0
+933,Leap Motor,$1.01 ,11/20/18,China,Hangzhou,Auto & transportation,"Sequoia Capital China, Gopher Asset Management, Shanghai Electric Group",leap motor,Jingfeng Wang,3
+934,Wheel,$1.01 ,1/19/22,United States,Austin,Health,"Silverton Partners, Tusk Ventures, CRV",wheel,Sarah Cooper,0
+935,1KMXC,$1.00 ,8/30/21,China,Hangzhou,Hardware,"Goldman Sachs Asset Management, SDP Investment, Alibaba Group",1kmxc,Hengzhi Shi,3
+936,58 Daojia,$1.00 ,10/12/15,China,Beijing,Internet software & services,"KKR, Alibaba Group, Ping An Insurance",58 daojia,Hao Zhang,3
+937,Agile Robots,$1.00 ,9/9/21,Germany,Munich,Hardware,"Hillhouse Capital Management, Sequoia Capital China, Linear Venture",agile robots,Zhang Jinghua,1
+938,Aircall,$1.00 ,6/23/21,United States,New York,Internet software & services,"Balderton Capital, Next World Capital, Draper Esprit",aircall,Olivier Pailhes,0
+939,Ajaib,$1.00 ,10/4/21,Indonesia,Jakarta,Fintech,"Softbank Ventures Asia, Alpha JWC Ventures, Insignia Ventures Partners",ajaib,Syakir Hashim,0
+940,Alto Pharmacy,$1.00 ,1/30/20,United States,San Francisco,Health,"Jackson Square Ventures, Greenoaks Capital Management, Softbank Group",alto pharmacy,Mattieu Gamache-Asselin,0
+941,Amount,$1.00 ,5/17/21,United States,Chicago,Fintech,"Invus Group, Hanaco Venture Capital, WestCap Group",amount,Adam Hughes,0
+942,Amperity,$1.00 ,7/13/21,United States,Seattle,Artificial intelligence,"Madrona Venture Group, Tiger Global Management, Madera Technology Partners",amperity,Kabir Shahani,0
+943,Anyscale,$1.00 ,12/7/21,United States,Berkeley,Artificial Intelligence,"Andreessen Horowitz, Intel Capital, Foundation Capital",anyscale,Robert_Craige,0
+944,Aptos,$1.00 ,3/15/22,United States,Palo Alto,Internet software & services,"Andreessen Horowitz, Coinbase Ventures, Tiger Global Management",aptos,Noël Goggin,0
+945,Aqua Security,$1.00 ,3/10/21,Israel,Ramat Gan,Cybersecurity,"TLV Partners, Lightspeed Venture Partners, M12",aqua security,Assaf Keren,3
+946,Assembly,$1.00 ,9/21/21,United States,Culver City,Internet software & services,"Advent International, PSG, Providence Equity Partners",assembly,Sam Altman,1
+947,Assent,$1.00 ,1/6/22,Canada,Ottawa,"Supply chain, logistics, & delivery","Vista Equity Partners, Warburg Pincus, First Ascent Ventures",assent,David Landa,1
+948,Augury,$1.00 ,10/26/21,United States,New York,Artificial intelligence,"Lerer Hippeau, Munich Re Ventures, Eclipse Ventures",augury,Saar Yoskovitz,0
+949,Augustinus Bader,$1.00 ,11/9/22,London,United Kingdom,Consumer & retail,General Atlantic,augustinus bader,Augustinus Bader,0
+950,Axelar,$1.00 ,2/15/22,Canada,Waterloo,Internet software & services,"Lemniscap VC, North Island Ventures, Polychain Capital",axelar,Emma Johnson,2
+951,Axiom Space,$1.00 ,2/16/21,United States,Houston,Other,"C5 Capital, Hemisphere Ventures, The Venture Collective",axiom space,Michael Suffredini,2
+952,Axtria,$1.00 ,5/13/21,United States,Berkeley Heights,Data management & analytics,"Helion Venture Partners, Bain Capital Tech Opportunities, Sequoia Capital India",axtria,Jassi Chadha,1
+953,Banma Network Technologies,$1.00 ,9/13/18,China,Shanghai,Auto & transportation,"Yunfeng Capital, SDIC Innovation Investment Management, Shang Qi Capital",banma network technologies,Ding Ding,1
+954,Beamery,$1.00 ,12/13/22,United Kingdom,London,Artificial intelligence,"Index Ventures, EQT Ventures, Workday Ventures",beamery,Abakar Saidov,1
+955,BeiBei,$1.00 ,1/22/15,China,Hangzhou,E-commerce & direct-to-consumer,"Banyan Capital, New Horizon Capital, IDG Capital Partners",beibei,Jianhang Jin,0
+956,Berlin Brands Group,$1.00 ,9/1/21,Germany,Berlin,E-commerce & direct-to-consumer,"Ardian, Bain Capital",berlin brands group,Stefan Tittel,0
+957,Betterfly,$1.00 ,2/1/22,Chile,Santiago,Artificial intelligence,"QED Investors, DST Global, Endeavor",betterfly,Adam Smith,2
+958,BitFury,$1.00 ,11/6/18,Netherlands,Amsterdam,Hardware,"Georgian Co-Investment Fund, iTech Capital, Galaxy Digital",bitfury,Valery Vavilov,1
+959,Bluecore,$1.00 ,8/5/21,United States,New York,Artificial intelligence,"FirstMark Capital, Georgian Partners, Norwest Venture Partners",bluecore,Fayez Mohamood,2
+960,BlueVoyant,$1.00 ,2/23/22,United States,New York,Cybersecurity,"8VC, Liberty Strategic Capital, Eden Global Partners",bluevoyant,Jim Rosenthal,1
+961,Boom Supersonic,$1.00 ,12/16/20,United States,Englewood,Other,"WRVI Capital, Caffeinated Capital, Y Combinator",boom supersonic,Blake Scholl,0
+962,BostonGene,$1.00 ,4/6/22,United States,Waltham,Health,"Japan Industrial Partners, Impact Investment Capital, NEC",bostongene,Andrew Feinberg,0
+963,Bringg,$1.00 ,6/16/21,Israel,Tel Aviv,"Supply chain, logistics, & delivery","Salesforce Ventures, next47, Pereg Ventures",bringg,Guy Bloch,1
+964,C2FO,$1.00 ,8/7/19,United States,Leawood,Fintech,"Union Square Ventures, Summerhill Venture Partners, Mithril Capital Management",c2fo,Sandy Kemper,0
+965,Cadence,$1.00 ,12/14/21,United States,New York,Health,"Thrive Capital, General Catalyst, Coatue Management",cadence,Lip-Bu Tan,2
+966,Cameo,$1.00 ,3/30/21,United States,Chicago,Internet software & services,"Lightspeed Venture Partners, Kleiner Perkins Caufield & Byers, Origin Ventures",cameo,Steven Galanis,0
+967,Capsule,$1.00 ,4/28/21,United States,New York,Health,"Thrive Capital, Durable Capital Partners, G Squared",capsule,Eric Kinariwala,0
+968,CareBridge,$1.00 ,6/8/22,United States,Nashville,Health,"Bain Capital Ventures, Splunk Ventures, Cisco Investments",carebridge,Mike Tudeen,3
+969,CargoX,$1.00 ,10/21/21,Brazil,Sao Paulo,"Supply chain, logistics, & delivery","Valor Capital Group, Lightrock, Softbank Group",cargox,Stefan Kukman,1
+970,Carro,$1.00 ,6/14/21,Singapore,,E-commerce & direct-to-consumer,"SingTel Innov8, Alpha JWC Ventures, Golden Gate Ventures",carro,Aaron Tan,0
+971,Carson Group,$1.00 ,7/14/21,United States,Lincoln,Fintech,Bain Capital,carson group,Aaron Schaben,0
+972,Celestia,$1.00 ,10/19/22,Liechtenstein,Vaduz,Internet software & services,"Placeholder Capital, Coinbase Ventures, Binance Ventures",celestia,Jasmine Patel,2
+973,Cell C,$1.00 ,8/7/17,South Africa,Midrand,Mobile & telecommunications,"Blue Label Telecoms, Net1 UEPS Technologies",cell c,Jose Dos Santos,0
+974,CHEQ,$1.00 ,2/22/22,United States,New York,Cybersecurity,"Battery Ventures, Tiger Global Management, Hanaco Ventures",cheq,Guy Filipovich,1
+975,China Cloud,$1.00 ,6/11/18,China,Wuxi,Hardware,"V Star Capital, GF Xinde Investment Management Co., Haitong Leading Capital Management",china cloud,Wei Wu,3
+976,Chronosphere,$1.00 ,10/7/21,United States,New York,Data management & analytics,"Greylock Partners, Lux Capital, General Atlantic",chronosphere,Martin Mao,1
+977,Cider,$1.00 ,9/2/21,Hong Kong,,E-commerce & direct-to-consumer,"Andreessen Horowitz, DST Global, IDG Capital",cider,Jane Smith,0
+978,Clara,$1.00 ,12/6/21,Mexico,Mexico City,Fintech,"DST Global, General Catalyst, Monashees+",clara,Patrick Collison,1
+979,Claroty,$1.00 ,6/17/21,United States,New York,Cybersecurity,"Bessemer Venture Partners, MoreVC, Team8",claroty,Yaniv Vardi,1
+980,Clearcover,$1.00 ,4/13/21,United States,Chicago,Fintech,"American Family Ventures, Cox Enterprises, OMERS Ventures",clearcover,Kyle Nakatsuji.,1
+981,CommerceIQ,$1.00 ,3/21/22,United States,Palo Alto,Artificial Intelligence,"Trinity Ventures, Madrona Venture Group, Shasta Ventures",commerceiq,Viswanathan Anand,0
+982,Contrast Security,$1.00 ,11/9/21,United States,Los Altos,Cybersecurity,"Acero Capital, General Catalyst, M12",contrast security,Alan Naumann,0
+983,Darwinbox,$1.00 ,1/25/22,India,Hyderabad,Internet software & services,"Lightspeed India Partners, Sequoia Capital India, Endiya Partners",darwinbox,Chaitanya Peddi,0
+984,Dental Monitoring,$1.00 ,10/21/21,France,Paris,Health,"Vitruvian Partners, Merieux Equity Partners, Straumann",dental monitoring,Philippe Salah,0
+985,DianRong,$1.00 ,8/2/17,China,Shanghai,E-commerce & direct-to-consumer,"Standard Chartered, FinSight Ventures, Affirma Capital",dianrong,Soul Htite,1
+986,Divergent 3D,$1.00 ,4/25/22,United States,Torrance,Auto & transportation,"Hedosophia, Horizons Ventures, Alumni Ventures Group",divergent 3d,Kevin Czinger,2
+987,dMed Biopharmaceutical,$1.00 ,7/12/21,China,Shanghai,Health,"Qiming Venture Partners, Vivo Capital, Sequoia Capital China",dmed biopharmaceutical,Lida Zhang,1
+988,Dune Analytics,$1.00 ,2/2/22,Norway,Oslo,Data management & analytics,"Multicoin Capital, Coatue Management, Dragonfly Capital Partners",dune analytics,Frederik Haga,0
+989,Dxy.cn,$1.00 ,4/10/18,China,Hangzhou,Health,"Tencent Holdings, DCM Ventures",dxy.cn,Lu Wenbin,3
+990,EBANX,$1.00 ,10/16/19,Brazil,Curitiba,Fintech,"FTV Capital, Endeavor",ebanx,Joao del Valle,1
+991,EcoFlow,$1.00 ,6/10/21,China,Shenzhen,Hardware,"Delian Capital, China International Capital Corporation, Sequoia Capital China",ecoflow,Apisit Pantumkomolchai,0
+992,EcoVadis,$1.00 ,6/14/22,France,Paris,"Supply chain, logistics, & delivery","Astorg Partners, Princeville Global, Beyond Net Zero",ecovadis,Frederic Trinel,0
+993,Electric,$1.00 ,3/29/22,United States,New York,Cybersecurity,"Primary Venture Partners, Bessemer Venture Partners, Harmonic Growth Partners",electric,Elon Musk,1
+994,Emerging Markets Property Group,$1.00 ,4/28/20,United Arab Emirates,Dubai,Other,"OLX Group, KCK Group, EXOR Seeds",emerging markets property group,Haider Ali Khan,2
+995,Esusu,$1.00 ,1/27/22,United States,New York,Fintech,"Next Play Ventures, Zeal Capital Partners, SoftBank Group",esusu,Abbasi-Omokhodion Sumayyah,1
+996,Evidation,$1.00 ,3/22/21,United States,San Mateo,Health,"B Capital Group,, GE Ventures, McKesson Ventures",evidation,Deborah Kilpatrick,0
+997,Expel,$1.00 ,11/18/21,United States,Herndon,Cybersecurity,"Paladin Capital Group, Greycroft, Scale Venture Partners",expel,Dave Merkel,0
+998,Fabric,$1.00 ,10/26/21,United States,New York,"Supply chain, logistics, & delivery","Innovation Endeavors, Aleph, Temasek",fabric,Kosta Eleftheriou,0
+999,Factorial,$1.00 ,10/11/22,Spain,Barcelona,Internet software & services,"K Fund, Creandum, CRV",factorial,Jordi Romero,1
+1000,Feedzai,$1.00 ,3/24/21,United States,San Mateo,Artificial intelligence,"Global Founders Capital, Shea Ventures, Greycroft",feedzai,Nuno Sebastiao,1
+1001,Fever Labs,$1.00 ,1/26/22,United States,New York,Internet software & services,"Accel, 14W, GS Growth",fever labs,Alberto Arribas Blázquez,0
+1002,Fiture,$1.00 ,4/14/21,China,Chengdu,Health,"Bertelsmann Asia Investments, Sequoia Capital China, NIO Capital",fiture,Adam Smith,2
+1003,FLASH,$1.00 ,3/16/22,United States,Austin,Fintech,"L Catterton, Trellis Partners, Vista Equity Partners",flash,Alon Lits,1
+1004,Flash Express,$1.00 ,2/1/21,Thailand,Bangkok,"Supply chain, logistics, & delivery","SCB 10X, Krungsri Finnovate, eWTP Capital",flash express,Komsan Lee-nguemphiwat,0
+1005,FlashEx,$1.00 ,8/27/18,China,Beijing,"Supply chain, logistics, & delivery","Prometheus Capital, Matrix Partners China, JD Capital Management",flashex,John Smith,0
+1006,Flexe,$1.00 ,4/21/22,United States,Seattle,"Supply chain, logistics, & delivery","Redpoint Ventures, Prologis Ventures, Madrona Venture Group",flexe,Karl Siebrecht,2
+1007,Flow,$1.00 ,8/15/22,United States,New York,Fintech,Andreessen Horowitz,flow,Robert Frankenberg,2
+1008,FourKites,$1.00 ,6/21/22,United States,Chicago,"Supply chain, logistics, & delivery","Hyde Park Venture Partners, Bain Capital Ventures, Hyde Park Angels",fourkites,Mathew Elenjickal,0
+1009,Fractal Analytics,$1.00 ,1/5/22,India,Mumbai,Data management & analytics,"TPG Capital, Apax Partners, TA Associates",fractal analytics,Srikanth Velamakanni,1
+1010,Freshbooks,$1.00 ,8/10/21,Canada,Toronto,Fintech,"Accomplice, Oak Investment Partners, Georgian Partners",freshbooks,Mike McDerment,1
+1011,FXiaoKe,$1.00 ,7/2/15,China,Beijing,Mobile & telecommunications,"IDG Capital, Northern Light Venture Capital, DCM Ventures",fxiaoke,Yiming Chen,3
+1012,Gauntlet Networks,$1.00 ,3/7/22,United States,New York,Fintech,"Polychain Capital, Paradigm, Ribbit Capital",gauntlet networks,Brian Gallagher,1
+1013,Gelato,$1.00 ,8/16/21,Norway,Oslo,E-commerce & direct-to-consumer,"Greylock Partners, Google Ventures, BlackRock",gelato,Henrik Nielsen,0
+1014,Genies,$1.00 ,4/12/22,United States,Venice,Internet software & services,"New Enterprise Associates, Tull Investment Group, Silver Lake",genies,Akash Nigam,2
+1015,Glean,$1.00 ,5/18/22,United States,Palo Alto,Internet software & services,"General Catalyst, Kleiner Perkins Caufield & Byers, Lightspeed Venture Partners",glean,Julie Martin,3
+1016,Glia,$1.00 ,3/21/22,United States,New York,Fintech,"Wildcat Capital Management, Insight Partners, Tola Capital",glia,Dan Michaeli,2
+1017,Globality,$1.00 ,1/22/19,United States,Menlo Park,Artificial intelligence,SoftBank Group,globality,Joel Hyatt,0
+1018,Groq,$1.00 ,4/14/21,United States,Mountain View,Artificial intelligence,"TDK Ventures, Social Capital, D1 Capital Partners",groq,Jonathan Ross,2
+1019,Grover,$1.00 ,4/7/22,Germany,Berlin,E-commerce & direct-to-consumer,"Varengold Bank, Circularity Capital, Coparion",grover,Michael Cassau,2
+1020,Habi,$1.00 ,5/11/22,Colombia,Bogota,Fintech,"Homebrew, Inspired Capital, Tiger Global Management",habi,Brynne Herbert,2
+1021,Hailo,$1.00 ,10/12/21,Israel,Tel Aviv,Artificial intelligence,"Glory Ventures, Maniv Mobility",hailo,Andrew Pinnington,0
+1022,Haomao.AI,$1.00 ,12/22/21,China,Beijing,Artificial Intelligence,"Qualcomm Ventures, Nine Intelligence Capital, Hillhouse Capital Management",haomao.ai,Huijuan Li,3
+1023,Hasura,$1.00 ,2/22/22,India,Bengaluru,Internet software & services,"Nexus Venture Partners, Vertex Ventures, STRIVE",hasura,Tanmai Gopal,2
+1024,HAYDON,$1.00 ,9/24/21,China,Shanghai,Consumer & retail,"Tencent Holdings, Hillhouse Capital Management",haydon,Jeffrey Haydon,2
+1025,Heyday,$1.00 ,11/16/21,United States,Chicago,E-commerce & direct-to-consumer,"Khosla Ventures,General Catalyst, Victory Park Capital",heyday,Adam Ross.,0
+1026,HMD Global,$1.00 ,5/21/18,Finland,Espoo,Mobile & telecommunications,Ginko Ventures,hmd global,Florian Seiche,0
+1027,Hosjoy,$1.00 ,10/18/18,China,Nanjing,E-commerce & direct-to-consumer,"U.S.-China Green Fund, Founder H Fund, Richland Equities",hosjoy,Jingying Xu,2
+1028,Hotmart,$1.00 ,3/17/20,Netherlands,Amsterdam,E-commerce & direct-to-consumer,"Technology Crossover Ventures, Alkeon Capital Management, General Atlantic",hotmart,João Pedro Resende,2
+1029,Huike Group,$1.00 ,5/24/18,China,Beijing,Edtech,"Fosun RZ Capital, Oceanwide Holdings, Shenzhen Qianhe Capital Management Co.",huike group,Yongqiang Zhang,3
+1030,HuJiang,$1.00 ,10/29/15,China,Shanghai,Edtech,"China Minsheng Investment, Baidu, Wanxin Media",hujiang,Xiaoqiang Zhu,3
+1031,Human Interest,$1.00 ,8/4/21,United States,San Francisco,Fintech,"Wing Venture Capital, Slow Ventures, Uncork Capital",human interest,Aivaras Rastenis,0
+1032,Hyperchain,$1.00 ,4/11/21,China,Hangzhou,Fintech,"Yinhong Equity Investment Fund, E Fund, Ideal International",hyperchain,Yifan He,0
+1033,Ibotta,$1.00 ,8/6/19,United States,Denver,Fintech,"Koch Disruptive Technologies, Teamworthy Ventures, GGV Capital",ibotta,Bryan Leach,0
+1034,iCarbonX,$1.00 ,4/12/16,China,Shenzhen,Artificial intelligence,"Tencent, Vcanbio",icarbonx,Jun Wang,0
+1035,IGAWorks,$1.00 ,11/8/21,South Korea,Seoul,Internet software & services,"Korea Investment Private Equity, Atinum Investment, Korea Investment Partners",igaworks,Kyu C. Lee,1
+1036,Immuta,$1.00 ,6/8/22,United States,Boston,Data management & analytics,"DFJ Growth Fund, Dell Technologies Capital, Ten Eleven Ventures",immuta,Matthew Carroll,1
+1037,InFarm,$1.00 ,12/16/21,Germany,Berlin,Other,"Atomico, Hanaco Venture Capital, TriplePoint Capital",infarm,Erez Galil,0
+1038,Infobip,$1.00 ,7/30/20,Croatia,Vodnjan,Mobile & telecommunications,One Equity Partners,infobip,Silvio Kutic,0
+1039,Injective Protocol,$1.00 ,4/20/21,United States,New York,Fintech,"Pantera Capital, Cadenza Ventures, BlockTower Capital",injective protocol,Mirko Schmiedl,0
+1040,InMobi,$1.00 ,12/2/14,India,Bengaluru,Mobile & telecommunications,"Kleiner Perkins Caufield & Byers, Softbank Corp., Sherpalo Ventures",inmobi,Abhay Singhal,2
+1041,Intellifusion,$1.00 ,3/22/19,China,Shenzhen,Artificial intelligence,"BOC International, TopoScend Capital, Hongxiu VC",intellifusion,Yiheng Percival Zhang,3
+1042,Interos,$1.00 ,7/22/21,United States,Arlington,"Supply chain, logistics, & delivery","Kleiner Perkins Caufield & Byers, NightDragon Security, Venrock",interos,Jennifer Bisceglie,0
+1043,Iodine Software,$1.00 ,12/1/21,United States,Austin,Data management & analytics,"Advent International, Bain Capital Ventures, Silversmith Capital Partners",iodine software,Thomas_Clement,1
+1044,iTutorGroup,$1.00 ,11/18/15,China,Shanghai,Edtech,"QiMing Venture Partners, Temasek Holdings, Silverlink Capital",itutorgroup,Ernie Hao,2
+1045,JimuBox,$1.00 ,4/21/15,China,Beijing,Fintech,"Matrix Partners China, Ventech China, Shunwei Capital Partners",jimubox,Xuewen Yao,3
+1046,JoyTunes,$1.00 ,6/21/21,Israel,Tel Aviv,Edtech,"Genesis Partners, Aleph, Insight Partners",joytunes,Yuval Kaminka,0
+1047,JupiterOne,$1.00 ,6/2/22,United States,Morrisville,Cybersecurity,"Bain Capital Ventures, Splunk Ventures, Cisco Investments",jupiterone,Erkang Zheng,3
+1048,Keenon Robotics,$1.00 ,9/15/21,China,Shanghai,"Supply chain, logistics, & delivery","Yunqi Partners, SoftBank Group, iVision Ventures",keenon robotics,Jingming Li,2
+1049,Kendra Scott,$1.00 ,12/21/16,United States,Austin,Consumer & retail,"Berkshire Partners, Norwest Venture Partners",kendra scott,Kendra Scott,1
+1050,KnowBox,$1.00 ,5/30/19,China,Beijing,Edtech,"TAL Education Group, Legend Star, Alibaba Group",knowbox,Willian Wei,0
+1051,Kopi Kenangan,$1.00 ,12/27/21,Indonesia,Jakarta,Consumer & retail,"Horizons Ventures, Sequoia Capital India, Alpha JWC Ventures",kopi kenangan,Edward Tirtanata,2
+1052,Lamabang,$1.00 ,3/6/15,China,Shenzhen,E-commerce & direct-to-consumer,"5Y Capital, Matrix Partners China, K2VC",lamabang,John Doe,0
+1053,LayerZero Labs,$1.00 ,3/30/22,United States,New York,Internet software & services,"Andreessen Horowitz, FTX Ventures, Tiger Global Management",layerzero labs,John Doe,0
+1054,LeadSquared,$1.00 ,6/21/22,India,Bengaluru,Internet software & services,"Gaja Capital Partners, Stakeboat Capital, WestBridge Capital",leadsquared,Nilesh Patel,2
+1055,Lessen,$1.00 ,11/30/21,United States,Scottsdale,Internet software & services,"Khosla Ventures, General Catalyst, Navitas Capital",lessen,John Smith,0
+1056,LetsGetChecked,$1.00 ,6/7/21,Ireland,Dublin,Health,"Optum Ventures, Qiming Venture Partners, Transformation Capital",letsgetchecked,Peter Foley,1
+1057,Licious,$1.00 ,10/5/21,India,Bengaluru,E-commerce & direct-to-consumer,"3one4 Capital Partners, Bertelsmann India Investments, Vertex Ventures SE Asia",licious,Abhay Hanjura,0
+1058,LINE MAN Wongnai,$1.00 ,9/26/22,Thailand,Bangkok,E-commerce & direct-to-consumer,"BRV Capital Management, Bualuang Ventures",line man wongnai,Kawin Prachanukul,1
+1059,LinkDoc Technology,$1.00 ,7/5/18,China,Beijing,Health,"China Investment Corporation, New Enterprise Associates",linkdoc technology,Yi Liu,3
+1060,LinkSure Network,$1.00 ,1/1/15,China,Shanghai,Mobile & telecommunications,,linksure network,Jianqing Ding,3
+1061,Locus Robotics,$1.00 ,2/17/21,United States,Wilmington,Hardware,"Scale Venture Partners, Bond, Tiger Global Management",locus robotics,Rick_Faulk,1
+1062,Lookout,$1.00 ,10/10/13,United States,San Francisco,Cybersecurity,"Accel Partners, Greylock Partners, Lowercase Capital",lookout,Jim Dolce,0
+1063,Lydia,$1.00 ,12/8/21,France,Paris,Fintech,"NewAlpha, XAnge Private Equity, Tencent Holdings",lydia,Cyril Grislain,0
+1064,MadeiraMadeira,$1.00 ,1/7/21,Brazil,Parana,E-commerce & direct-to-consumer,"Flybridge Capital Partners, SoftBank Group, Monashees+",madeiramadeira,Daniel Scandian,0
+1065,Maimai,$1.00 ,11/15/17,China,Beijing,Mobile & telecommunications,"Morningside Venture Capital, IDG Capital, DCM Ventures",maimai,Lin Fan,1
+1066,Mammoth Biosciences,$1.00 ,9/9/21,United States,Brisbane,Health,"NFX, Plum Alley, Mayfield",mammoth biosciences,Trevor Martin,1
+1067,Masterworks,$1.00 ,10/5/21,United States,New York,Fintech,"Left Lane Capital, Galaxy Interactive, Tru Arrow Partners",masterworks,ScottLynn,1
+1068,Maven Clinic,$1.00 ,8/17/21,United States,New York,Health,"Female Founders Fund, Oak HC/FT Partners, Sequoia Capital",maven clinic,Katherine Ryder,2
+1069,MediaMath,$1.00 ,7/10/18,United States,New York,Internet software & services,"Silicon Valley Bank, QED Investors, European Founders Fund",mediamath,Joe Zawadzki,2
+1070,Meero,$1.00 ,6/18/19,France,Paris,Artificial intelligence,"Aglae Ventures, Global Founders Capital, Alven Capital",meero,Thomas Rebaud,2
+1071,Mensa Brands,$1.00 ,11/16/21,India,Bengaluru,Other,"Accel, Falcon Edge Capital, Norwest Venture Partners",mensa brands,Ryan Cohen,1
+1072,Mia.com,$1.00 ,9/8/15,China,Beijing,E-commerce & direct-to-consumer,"Sequoia Capital China, ZhenFund, K2 Ventures",mia.com,Noah Everett,1
+1073,MindMaze,$1.00 ,1/28/16,Switzerland,Lausanne,Health,Hinduja Group,mindmaze,Tej_Tadi,2
+1074,Minio,$1.00 ,1/26/22,United States,Palo Alto,Data management & analytics,"General Catalyst, Nexus Venture Partners, Dell Technologies Capital",minio,Anand Babu Periasamy,2
+1075,MobiKwik,$1.00 ,10/13/21,India,Gurugram,Fintech,"Sequoia Capital India, The Times Group, GMO VenturePartners",mobikwik,Upasana Taku,2
+1076,Mobvoi,$1.00 ,4/6/17,China,Beijing,Consumer & retail,"Sequoia Capital China, SIG Asia Investments, ZhenFund",mobvoi,Zhifei Li,3
+1077,Modernizing Medicine,$1.00 ,5/10/17,United States,Boca Raton,Health,"Warburg Pincus, Summit Partners, Sands Capital",modernizing medicine,Dan Cane,1
+1078,Moka,$1.00 ,11/2/21,China,Beijing,Internet software & services,"GGV Capital, GSR Ventures, FreesFund",moka,Ferry TANAMAL,0
+1079,Momenta,$1.00 ,10/17/18,China,Beijing,Artificial intelligence,"Sinovation Ventures, Tencent Holdings, Sequoia Capital China",momenta,Dawn Fitzpatrick,1
+1080,Morning Consult,$1.00 ,6/8/21,United States,Washington DC,Internet software & services,"Advance Venture Partners, Susquehanna Growth Equity, Lupa Systems",morning consult,Michael Ramlet,1
+1081,Movile,$1.00 ,7/12/18,Brazil,Sao Paulo,Mobile & telecommunications,"Innova Capital - FIP, 3G Capital Management, Prosus Ventures",movile,Fabricio Bloisi,0
+1082,Mux,$1.00 ,4/30/21,United States,San Francisco,Internet software & services,"Accel, Cobalt Capital, Andreessen Horowitz",mux,Jon Dahl,1
+1083,Nature's Fynd,$1.00 ,7/19/21,United States,Chicago,Consumer & retail,"Danone Manifesto Ventures, 1955 Capital, Breakthrough Energy Ventures",nature's fynd,Thomas Jonas,2
+1084,News Break,$1.00 ,1/7/21,United States,Mountain View,Internet software & services,"IDG Capital, Francisco Partners, ZhenFund",news break,Jeffrey Kuang,1
+1085,Newsela,$1.00 ,2/25/21,United States,New York,Edtech,"Owl Ventures, Technology Crossover Ventures, Tao Capital Partners",newsela,Matthew Gross,1
+1086,NexHealth,$1.00 ,4/21/22,United States,San Francisco,Health,"iSeed Ventures, Point Nine Capital, Buckley Ventures",nexhealth,Allyson Kaplan,0
+1087,Ninja Van,$1.00 ,9/27/21,Singapore,,"Supply chain, logistics, & delivery","B Capital Group, Monk's Hill Ventures, Dynamic Parcel Distribution",ninja van,Chang Wen Lai,0
+1088,NIUM,$1.00 ,7/13/21,Singapore,,Fintech,"Vertex Ventures SE Asia, Global Founders Capital, Visa Ventures",nium,Prajit Nanu,0
+1089,NoBroker,$1.00 ,11/23/21,India,Bengaluru,Internet software & services,"General Atlantic, Elevation Capital, BEENEXT",nobroker,Akhil Gupta,3
+1090,Noname Security,$1.00 ,12/15/21,United States,Palo Alto,Cybersecurity,"Insight Partners, Lightspeed Venture Partners, CyberStarts",noname security,Daniel Kolovski,0
+1091,Numbrs,$1.00 ,8/22/19,Switzerland,Zurich,Fintech,"Investment Corporation of Dubai, Centralway",numbrs,Martin Saidler,1
+1092,Omada Health,$1.00 ,2/23/22,United States,San Francisco,Health,"U.S. Venture Partners, dRx Capital, Andreessen Horowitz",omada health,Sean Duffy,1
+1093,Omio,$1.00 ,10/23/18,Germany,Berlin,Travel,"Lakestar, Battery Ventures, New Enterprise Associates",omio,Naren Shaam,1
+1094,ONE,$1.00 ,12/8/21,Singapore,,Internet software & services,"Temasek, Guggenheim Investments, Qatar Investment Authority",one,Saidah Nash Carter,1
+1095,Open,$1.00 ,5/2/22,India,Bengaluru,Fintech,"3one4 Capital Partners, Tiger Global Management, Temasek",open,Anish Achuthan,0
+1096,Opn,$1.00 ,5/9/22,Japan,Tokyo,Fintech,"Sinar Mas Digital Ventures, JIC Venture Growth Investments, Golden Gate Ventures",opn,Jeremy Smith,0
+1097,Orca Bio,$1.00 ,6/17/20,United States,Menlo Park,Health,"Lightspeed Venture Partners, Data Collective, 8VC",orca bio,Ilya Rozenbaum,2
+1098,Orchard,$1.00 ,9/9/21,United States,New York,Fintech,"Accomplice, Juxtapose, FirstMark Capital",orchard,David Greenberg,0
+1099,Owkin,$1.00 ,11/18/21,United States,New York,Artificial Intelligence,"Google Ventures, Cathay Innovation, NJF Capital",owkin,Thomas Clozel,0
+1100,Oyster,$1.00 ,4/20/22,United States,Wilmington,Fintech,"Emergence Capital, Slack Fund, PayPal Ventures",oyster,Tony Coe,0
+1101,PandaDoc,$1.00 ,9/22/21,United States,San Francisco,Internet software & services,"Rembrandt Venture Partners, M12, Altos Ventures",pandadoc,Mikita Mikado,2
+1102,Pantheon Systems,$1.00 ,7/13/21,United States,San Francisco,Internet software & services,"Foundry Group, Scale Venture Partners, SoftBank Group",pantheon systems,Zack Rosen,0
+1103,Pat McGrath Labs,$1.00 ,7/16/18,United States,New York,Consumer & retail,"One Luxury Group, Eurazeo",pat mcgrath labs,Pat McGrath,0
+1104,PatSnap,$1.00 ,3/16/21,Singapore,,Internet software & services,"Sequoia Capital China, Shunwei Capital Partners, Qualgro",patsnap,Jeffrey Tiong,1
+1105,Payhawk,$1.00 ,2/14/22,United Kingdom,London,Fintech,"Earlybird Venture Capital, Eleven Ventures, QED Investors",payhawk,Hristo Borisov,0
+1106,Paystand,$1.00 ,8/2/22,United States,Scotts Valley,Fintech,"BlueRun Ventures, LEAP Global Partners, Cervin Ventures",paystand,Jeremy Almond,0
+1107,Pentera,$1.00 ,1/11/22,Israel,Petah Tikva,Cybersecurity,"AWZ Ventures, Blackstone, Insight Partners",pentera,Ilan Zacharzewski,0
+1108,Perimeter 81,$1.00 ,6/6/22,Israel,Tel Aviv,Cybersecurity,"Insight Partners, Toba Capital, Spring Ventures",perimeter 81,Sagi Gidali,1
+1109,Pet Circle,$1.00 ,12/6/21,Australia,Alexandria,E-commerce & direct-to-consumer,"Prysm Capital, Baillie Gifford & Co., TDM Growth Partners",pet circle,David Jackson,3
+1110,PicsArt,$1.00 ,8/26/21,United States,San Francisco,Mobile & telecommunications,"Sequoia Capital, DCM Ventures, Insight Partners",picsart,Hovhannes Avoyan,2
+1111,PLACE,$1.00 ,11/17/21,United States,Bellingham,Internet software & services,"Goldman Sachs Asset Management, 3L",place,John Smith,0
+1112,Placer.ai,$1.00 ,1/12/22,United States,Los Altos,Artificial intelligence,"Fifth Wall Ventures, JBV Capital, Array Ventures",placer.ai,Noam Ben-Zvi,1
+1113,Playco,$1.00 ,9/21/20,Japan,Tokyo,Other,"Sozo Ventures, Caffeinated Capital, Sequoia Capital",playco,Michael Carter,0
+1114,Poizon,$1.00 ,4/29/19,China,Shanghai,Mobile & telecommunications,"DST Global, Sequoia Capital China, Gaorong Capital",poizon,Samuel Zhou,0
+1115,Polarium,$1.00 ,5/3/22,Sweden,Kista,Other,AMF Pensionsforsakring,polarium,Sarah Johnson,1
+1116,PPRO,$1.00 ,1/19/21,United Kingdom,London,Fintech,"Wellington Management, Eurazeo, Citi Ventures",ppro,Simon Black,1
+1117,Printful,$1.00 ,5/24/21,United States,Charlotte,Other,Bregal Sagemount,printful,Davis Siksnans,0
+1118,Quantum Metric,$1.00 ,1/7/21,United States,Colorado Springs,Data management & analytics,"Insight Partners, Bain Capital Ventures",quantum metric,Mario Ciabarra,1
+1119,Quizlet,$1.00 ,5/13/20,United States,San Francisco,Edtech,"Union Square Ventures, Altos Ventures, Costanoa Ventures",quizlet,Matthew Glotzbach,2
+1120,RapidAPI,$1.00 ,3/23/22,United States,San Francisco,Internet software & services,"Green Bay Ventures, M12, Andreessen Horowitz",rapidapi,Ilya Gelfenbeyn,2
+1121,Razor,$1.00 ,11/8/21,Germany,Berlin,Consumer & retail,"Global Founders Capital, 468 Capital, Redalpine Venture Partners",razor,Min-Liang Tan,1
+1122,Red Ventures,$1.00 ,1/7/15,United States,Fort Mill,Other,"Silver Lake Partners, General Atlantic",red ventures,Ric Elias,0
+1123,REEF Technology,$1.00 ,12/10/18,United States,Miami,"Supply chain, logistics, & delivery","Target Global, UBS Asset Management, Mubadala Capital",reef technology,Areef Suleiman,0
+1124,ReliaQuest,$1.00 ,12/1/21,United States,Tampa,Cybersecurity,"KKR, FTV Capital, Ten Eleven Ventures",reliaquest,Brian Murphy,0
+1125,Remarkable,$1.00 ,5/10/22,Norway,Oslo,Internet software & services,Spark Capital,remarkable,Daniel Dines,1
+1126,Revolution Precrafted,$1.00 ,10/23/17,Philippines,Manila,Other,"K2 Global, 500 Startups",revolution precrafted,Robbie Antonio,0
+1127,Rothy's,$1.00 ,12/21/21,United States,San Francisco,Consumer & retail,"Alpargatas, GS Growth, Lightspeed Venture Partners",rothy's,Stephen Hawthornthwaite,3
+1128,SaltPay,$1.00 ,4/9/21,United Kingdom,London,Fintech,"Tiger Global Management, Hedosophia",saltpay,Eduardo Pontes,0
+1129,Satispay,$1.00 ,9/28/22,Italy,Milan,Fintech,"Lightrock, Greyhound Capital, Endeavor",satispay,Alberto Dalmasso,2
+1130,Savage X Fenty,$1.00 ,2/10/21,United States,El Segundo,E-commerce & direct-to-consumer,"Speedinvest, Valar Ventures, Uniqa Ventures",savage x fenty,Rihanna Fenty,0
+1131,Scalapay,$1.00 ,2/23/22,Italy,Milan,Fintech,"Fasanara Capital, Tiger Global Management, Baleen Capital",scalapay,Simone Mancini,2
+1132,Scandit,$1.00 ,2/9/22,Switzerland,Zurich,"Supply chain, logistics, & delivery","Atomico, NGP Capital, Google Ventures",scandit,Samuel Mueller,2
+1133,SellerX,$1.00 ,12/9/21,Germany,Berlin,E-commerce & direct-to-consumer,"Cherry Ventures, Felix Capital, 83North",sellerx,John Smith,0
+1134,Shift Technology,$1.00 ,5/6/21,France,Paris,Artificial intelligence,"Griffin Gaming Partners, Andreessen Horowitz, Battery Ventures",shift technology,Jeremy Jawish,1
+1135,ShipBob,$1.00 ,6/29/21,United States,Chicago,"Supply chain, logistics, & delivery","Hyde Park Venture Partners, FundersClub. Bain Capital Ventures",shipbob,Dhruv Saxena,2
+1136,Shippo,$1.00 ,6/2/21,United States,San Francisco,"Supply chain, logistics, & delivery","Version One Ventures, Uncork Capital, Bessemer Venture Partners",shippo,Laura Behrens Wu,2
+1137,Sidecar Health,$1.00 ,1/26/21,United States,El Segundo,Fintech,"GreatPoint Ventures, Tiger Global Management, Menlo Ventures",sidecar health,Patrick_spann,1
+1138,Sift,$1.00 ,4/22/21,United States,San Francisco,Artificial intelligence,"Union Square Ventures, Insight Partners, Spark Capital",sift,Jason Tan,2
+1139,SingleStore,$1.00 ,7/12/22,United States,San Francisco,Data management & analytics,"Google Ventures, Accel, Data Collective",singlestore,Adam Proutney,2
+1140,SITECH DEV,$1.00 ,5/16/19,China,Guiyang,Other,China Prosperity Capital,sitech dev,John Smith,0
+1141,Skydio,$1.00 ,2/25/21,United States,Redwood City,"Supply chain, logistics, & delivery","Andreessen Horowitz, Andreessen Horowitz, Institutional Venture Partners, Accel",skydio,Adam Bry,0
+1142,SmartAsset,$1.00 ,6/24/21,United States,New York,Fintech,"Javelin Venture Partners, TTV Capital, Peterson Ventures",smartasset,Michael Carvin,0
+1143,SMS Assist,$1.00 ,6/7/16,United States,Chicago,Internet software & services,"Goldman Sachs, Insights Venture Partners, Pritzker Group Venture Capital",sms assist,Taylor Rhodes,1
+1144,Snapdeal,$1.00 ,5/21/14,India,New Delhi,E-commerce & direct-to-consumer,"SoftBankGroup, Blackrock, Alibaba Group",snapdeal,Kunal Bahl,2
+1145,SnapLogic,$1.00 ,12/13/21,United States,San Mateo,Internet software & services,"Andreessen Horowitz, Triangle Peak Partners, Ignition Partners",snaplogic,Gaurav Dhillon,1
+1146,Snorkel AI,$1.00 ,8/9/21,United States,Palo Alto,Artificial intelligence,"Greylock Partners, Google Ventures, BlackRock",snorkel ai,Eric Burns,0
+1147,Solo.io,$1.00 ,10/7/21,United States,Cambridge,Internet software & services,"True Ventures, Altimeter Capital, Redpoint Ventures",solo.io,Idit Levine,1
+1148,Splashtop,$1.00 ,1/27/21,United States,San Jose,Internet software & services,"Storm Ventures, DFJ DragonFund, New Enterprise Associates",splashtop,Mark Lee,1
+1149,Stability AI,$1.00 ,10/5/22,United Kingdom,London,Artificial intelligence,"Lightspeed Venture Partners, Coatue Management",stability ai,Edward Renteria,0
+1150,Standard,$1.00 ,2/17/21,United States,San Francisco,Artificial intelligence,"CRV, Y Combinator, Initialized Capital",standard,John Doe,0
+1151,Stytch,$1.00 ,11/18/21,United States,San Francisco,Cybersecurity,"Index Ventures, Benchmark, Thrive Capital",stytch,Clark R. Smith,1
+1152,Swile,$1.00 ,10/11/21,France,Montpellier,Fintech,"Index Ventures, IDInvest Partners, Daphni",swile,Loic-Christophe Henry,0
+1153,Tarana Wireless,$1.00 ,3/23/22,United States,Milpitas,Mobile & telecommunications,"Prime Movers Lab, Khosla Ventures, I Squared Capital",tarana wireless,Sergey Makarov,0
+1154,Taxfix,$1.00 ,4/28/22,Germany,Berlin,Fintech,"Valar Ventures, Index Ventures, Creandum",taxfix,Mathis Büchi,1
+1155,TechStyle Fashion Group,$1.00 ,8/29/14,United States,El Segundo,E-commerce & direct-to-consumer,"Matrix Partners, Passport Capital, Rho Ventures",techstyle fashion group,Adam Goldenberg,1
+1156,TensTorrent,$1.00 ,5/5/21,Canada,Toronto,Artificial intelligence,"Eclipse Ventures, Fidelity Investments, Moore Capital Management",tenstorrent,Karen Roberts,0
+1157,TERMINUS Technology,$1.00 ,10/25/18,China,Beijing,Hardware,"China Everbright Limited, IDG Capital, iFLYTEK",terminus technology,Davi Ramos,0
+1158,Tezign,$1.00 ,11/2/21,China,Shanghai,Internet software & services,"Sequoia Capital China, Linear Venture, Hearst Ventures",tezign,Ling Xiao,3
+1159,The Zebra,$1.00 ,4/12/21,United States,Austin,E-commerce & direct-to-consumer,"Silverton Partners, Accel, Ballast Point Ventures",the zebra,Keith Melnick,0
+1160,Thirty Madison,$1.00 ,6/2/21,United States,New York,Health,"Northzone Ventures, Maveron, Johnson & Johnson Innovation",thirty madison,Steven Gutentag,0
+1161,Timescale,$1.00 ,2/22/22,United States,New York,Internet software & services,"New Enterprise Associates, Benchmark, Two Sigma Ventures",timescale,Ajay Kulkarni,0
+1162,Tractable,$1.00 ,6/16/21,United Kingdom,London,Artificial intelligence,"Insight Partners, Ignition Partners, Georgian Partners",tractable,Alex Dalyac,1
+1163,TransferMate,$1.00 ,5/22/22,Ireland,Kilkenny,Fintech,Railway Pension Trustee Co. Ltd.,transfermate,Terry Clune,1
+1164,Tresata,$1.00 ,10/10/18,United States,Charlotte,Fintech,GCP Capital Partners,tresata,Abhishek Mehta,0
+1165,TrialSpark,$1.00 ,9/30/21,United States,New York,Health,"Sequoia Capital, Thrive Capital, Sound Ventures",trialspark,Jonathan Flatow,0
+1166,TrueLayer,$1.00 ,9/21/21,United Kingdom,London,Fintech,"Anthemis, Connect Ventures, Northzone Ventures",truelayer,Francesco Simoneschi,2
+1167,Turntide Technologies,$1.00 ,6/15/22,United States,Sunnyvale,Auto & transportation,"Meson Capital Partners, Fifth Wall Ventures, OGCI Climate Investments",turntide technologies,Ryan Morris,1
+1168,Unstoppable Domains,$1.00 ,7/27/22,United States,Las Vegas,Internet software & services,"Boost VC, Draper Associates, Gaingels",unstoppable domains,Matthew Gould,0
+1169,UPSIDE Foods,$1.00 ,4/21/22,United States,Berkeley,Other,"Battery Ventures, Adams Street Partners, Coatue Management",upside foods,Ethan Brown,2
+1170,Vagaro,$1.00 ,11/3/21,United States,Dublin,Internet software & services,FTV Capital,vagaro,Fred Helou,1
+1171,Vayyar,$1.00 ,6/6/22,Israel,Yehud,Hardware,"Battery Ventures, Bessemer Venture Partners, MoreVC",vayyar,Raviv Melamed.,1
+1172,Vedantu,$1.00 ,9/29/21,India,Bengaluru,Edtech,"Accel, Tiger Global Management, Omidyar Network",vedantu,Vamsi Krishna,0
+1173,Veev,$1.00 ,2/24/22,United States,San Mateo,Internet software & services,"Zeev Ventures, Bond, Fifth Wall Ventures",veev,Paul_Duffy,2
+1174,Vendr,$1.00 ,2/24/22,United States,Boston,Fintech,"Craft Ventures, F-Prime Capital, Sound Ventures",vendr,Ryan Barretto,2
+1175,Vesttoo,$1.00 ,10/25/22,Israel,Tel Aviv-Yafo,Fintech,"Mouro Capital, Hanaco Venture Capital, Gramercy Ventures",vesttoo,Tal Sharon,2
+1176,Vise,$1.00 ,5/18/21,United States,New York,Fintech,"Sequoia Capital, Founders Fund, Bling Capital",vise,Samir Vasavada,0
+1177,Visier,$1.00 ,6/29/21,Canada,Vancouver,Internet software & services,"Foundation Capital, Summit Partners, Adams Street Partners",visier,Ryan Wong,1
+1178,VOI,$1.00 ,12/21/21,Sweden,Stockholm,Travel,"Vostok New Ventures, The Raine Group, Balderton Capital",voi,Fredrik Hjelm.,0
+1179,Vox Media,$1.00 ,8/12/15,United States,Washington,Internet software & services,"Accel Partners, Comcast Ventures, General Atlantic",vox media,Jim Bankoff,0
+1180,VulcanForms,$1.00 ,7/5/22,United States,Burlington,"Supply chain, logistics, & delivery","Eclipse Ventures, D1 Capital Partners, Industry Ventures",vulcanforms,Tobin Fisher,0
+1181,Wacai,$1.00 ,7/18/18,China,Hangzhou,Mobile & telecommunications,"Qiming Venture Partners, China Broadband Capital, CDH Investments",wacai,Tianyu Wu,0
+1182,Watershed,$1.00 ,2/8/22,United States,San Francisco,Internet software & services,"Kleiner Perkins Caufield & Byers, Sequoia Capital",watershed,Chris McNulty,3
+1183,WeBull,$1.00 ,2/18/21,China,Changsha,Fintech,"Bojiang Capital, Hongdao Capital, Mobai Capital",webull,Anthony Denier,0
+1184,Weights & Biases,$1.00 ,10/13/21,United States,San Francisco,Artificial intelligence,"Coatue Management, Insight Partners, Trinity Ventures",weights & biases,Chris Van Pelt,0
+1185,WeLab,$1.00 ,11/8/17,Hong Kong,,Fintech,"Sequoia Capital China, ING, Alibaba Entrepreneurs Fund",welab,Adrian Tse,0
+1186,Womai,$1.00 ,10/12/15,China,Beijing,E-commerce & direct-to-consumer,"SAIF Partners China, Baidu, IDG Capital",womai,Fausto_Laguillo,0
+1187,Worldcoin,$1.00 ,6/29/21,United States,San Francisco,Fintech,"Day One Ventures, Coinbase Ventures, Andreessen Horowitz",worldcoin,William Quigley,0
+1188,Wrapbook,$1.00 ,11/10/21,United States,New York,Fintech,"Equal Ventures, Uncork Capital, Andreessen Horowitz",wrapbook,Jenner Deal,3
+1189,Xanadu,$1.00 ,11/9/22,Canada,Toronto,Hardware,"BDC Capital, Georgian, Bessemer Venture Partners",xanadu,Saša Frnjak,0
+1190,Xendit,$1.00 ,9/14/21,Indonesia,Jakarta,Fintech,"Accel, Y Combinator, Amasia",xendit,Moses Lo,2
+1191,XForcePlus,$1.00 ,6/1/21,China,Shanghai,Internet software & services,"Eastern Bell Capital, Danhua Capital, MSA Capital",xforceplus,Shawn Johnson,1
+1192,Xiaoe Tech,$1.00 ,6/15/21,China,Shenzhen,Internet software & services,"GGV Capital, Hillhouse Capital Management, IDG Capital",xiaoe tech,Chen Zhiping,2
+1193,Xiaoice,$1.00 ,7/12/21,China,Beijing,E-commerce & direct-to-consumer,"NetEase Capital, Northern Light Venture Capital, Microsoft",xiaoice,Li Di,1
+1194,Yanolja,$1.00 ,6/10/19,South Korea,Seoul,Travel,"SBI Investment Korea, Partners Investment, GIC",yanolja,Soowan Lee,3
+1195,YH Global,$1.00 ,9/21/17,China,Shenzhen,"Supply chain, logistics, & delivery","Co-Energy Finance, Grandland",yh global,James Kim,0
+1196,YipitData,$1.00 ,12/6/21,United States,New York,Internet software & services,"RRE Ventures+, Highland Capital Partners, The Carlyle Group",yipitdata,Mike Baum,2
+1197,Ynsect,$1.00 ,2/21/19,France,Evry,Other,"Astanor Ventures, Upfront Ventures, IDInvest Partners",ynsect,Antoine Hubert,2
+1198,Yunxuetang,$1.00 ,3/29/21,China,Suzhou,Edtech,"Matrix Partners China, Sequoia Capital China, Hundreds Capital",yunxuetang,Yiming Ye,3
+1199,Zebec,$1.00 ,8/29/22,United States,San Francisco,Fintech,"Resolute Ventures, Shima Capital, Circle Ventures",zebec,Tomoko Yamaguchi,2
+1200,Zhaogang,$1.00 ,6/29/17,China,Shanghai,E-commerce & direct-to-consumer,"K2 Ventures, Matrix Partners China, IDG Capital",zhaogang,Wei Zhang,0
+1201,Zhuan Zhuan,$1.00 ,4/18/17,China,Beijing,E-commerce & direct-to-consumer,"58.com, Tencent Holdings",zhuan zhuan,Haiyang Wang,0
+1202,Zihaiguo,$1.00 ,5/6/21,China,Chongqing,Consumer & retail,"Xingwang Investment Management, China Capital Investment Group, Matrix Partners China",zihaiguo,Hongliang Cai,3
+1203,Zopa,$1.00 ,10/19/21,United Kingdom,London,Fintech,"IAG Capital Partners, Augmentum Fintech, Northzone Ventures",zopa,Jaidev Janardana,0
+1204,Zwift,$1.00 ,9/16/20,United States,Long Beach,E-commerce & direct-to-consumer,"Novator Partners, True, Causeway Media Partners",zwift,Eric Min,0
