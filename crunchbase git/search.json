@@ -1,0 +1,410 @@
+{
+    "count": 18024,
+    "entities": [
+        {
+            "facet_ids": [
+                "contact",
+                "siftery",
+                "apptopia",
+                "semrush",
+                "company",
+                "rank",
+                "builtwith",
+                "bombora",
+                "key_event"
+            ],
+            "identifier": {
+                "uuid": "a687d060-62ee-65e1-ec20-35aa967e36ed",
+                "value": "Oura",
+                "image_id": "ssh8s1gm7yaej5jltmnv",
+                "permalink": "\u014cura",
+                "entity_def_id": "organization"
+            },
+            "short_description": "\u014cURA is the company behind the Oura Ring \u2014 the smart ring that delivers personalized health data, insights, and daily guidance."
+        },
+        {
+            "facet_ids": [
+                "rank",
+                "contact",
+                "builtwith",
+                "company"
+            ],
+            "identifier": {
+                "uuid": "23fa3a69-4942-47ad-9959-973b26a1e022",
+                "value": "OURA",
+                "image_id": "murzmhcqnpg62v1xfzmt",
+                "permalink": "oura",
+                "entity_def_id": "organization"
+            },
+            "short_description": "At OURA, we are driven to do good. We are passionate about healthy solutions and enhancing the human (recovery) experience."
+        },
+        {
+            "facet_ids": [
+                "contact",
+                "siftery",
+                "ipqwery",
+                "aberdeen",
+                "semrush",
+                "company",
+                "rank",
+                "builtwith",
+                "bombora"
+            ],
+            "identifier": {
+                "uuid": "a71c3116-8c1b-451a-91c0-34038166add7",
+                "value": "Ouray Sportswear",
+                "image_id": "v1509746897/ximvyjv9pv8evrfegy9z.png",
+                "permalink": "ouray-sportswear",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Ouray Sportswear is an apparel and fashion company that designs, produces, and decorates apparel for various industries."
+        },
+        {
+            "facet_ids": [
+                "company",
+                "rank",
+                "builtwith"
+            ],
+            "identifier": {
+                "uuid": "b1718e40-e477-4d0f-a95b-25679e46cfd2",
+                "value": "Oura Collective",
+                "image_id": "t2nvx3s661tgwytwauuz",
+                "permalink": "oura-collective-llc",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Oura Collective is a technology public relations and marketing firm that develops and executes results-driven campaigns for companies."
+        },
+        {
+            "facet_ids": [
+                "company",
+                "rank",
+                "builtwith"
+            ],
+            "identifier": {
+                "uuid": "cd823f7b-9073-4b9c-89b2-1706a7b43d46",
+                "value": "OuraCleanse",
+                "image_id": "irgf8xrvw66e73lxah7o",
+                "permalink": "ouracleanse",
+                "entity_def_id": "organization"
+            },
+            "short_description": "OuraCleanse is an online shop that sells health and wellness products."
+        },
+        {
+            "facet_ids": [
+                "company",
+                "rank",
+                "builtwith"
+            ],
+            "identifier": {
+                "uuid": "11da72ed-3535-493e-9ff3-def461583edb",
+                "value": "Ouragin",
+                "image_id": "cgxrgma5bkzzazufay0c",
+                "permalink": "ouragin",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Ouragin offers healthcare professionals safe, stylish scrubs with a side of stocks."
+        },
+        {
+            "facet_ids": [
+                "company",
+                "rank"
+            ],
+            "identifier": {
+                "uuid": "9f3c58ec-e036-4916-b5ea-cc87556b011e",
+                "value": "Ouray Solution",
+                "image_id": "zhjnsl1jcfgct9go8kkx",
+                "permalink": "ouray-solution",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Ouray Solution is a software company that offers web design and development, E-commerce portal, social media marketing, and SEO services."
+        },
+        {
+            "facet_ids": [
+                "rank",
+                "builtwith",
+                "company"
+            ],
+            "identifier": {
+                "uuid": "8135a1b9-e798-4a00-96cf-eebd7c83eee4",
+                "value": "Ouray School District",
+                "image_id": "rhlben42h1dermi0jv9h",
+                "permalink": "ouray-school-district",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Ouray School District is an educational community. It contributes responsibly to a global society by ensuring them an exceptional education."
+        },
+        {
+            "facet_ids": [
+                "company",
+                "rank",
+                "builtwith"
+            ],
+            "identifier": {
+                "uuid": "791c17c3-cbd7-4cd6-b6ed-4d87f213b9fa",
+                "value": "Ourakousoku",
+                "image_id": "jgcahc5e76s6m5oludcd",
+                "permalink": "ourakousoku",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Ourakousoku provides construction surveying, general surveying, applied surveying, dispatched supervision, and 3D measurement services."
+        },
+        {
+            "facet_ids": [
+                "company",
+                "rank"
+            ],
+            "identifier": {
+                "uuid": "f24fe4e7-4bba-40a4-b18c-9696d9c459d6",
+                "value": "Ouray Digital",
+                "image_id": "afepo8q3xoygybha0lcu",
+                "permalink": "ouray-digital",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Ouray Digital is a technology company developing a series of community-building applications."
+        },
+        {
+            "facet_ids": [
+                "rank",
+                "contact",
+                "company",
+                "aberdeen"
+            ],
+            "identifier": {
+                "uuid": "43ca1fb3-685f-4a40-ac94-6706e71b8486",
+                "value": "OURAY Environmental Services",
+                "image_id": "n97mly0mq3tcioqooplv",
+                "permalink": "ouray-environmental-services",
+                "entity_def_id": "organization"
+            },
+            "short_description": "OURAY Environmental Services is a provider of emergency response, remediation, hazardous, and industrial waste disposal."
+        },
+        {
+            "facet_ids": [
+                "semrush",
+                "company",
+                "rank",
+                "builtwith",
+                "bombora"
+            ],
+            "identifier": {
+                "uuid": "dd72596b-270f-47e8-ba99-ebb6851ecabb",
+                "value": "Ouray County Plaindealer",
+                "image_id": "iuddug44c4u5ce7h8idw",
+                "permalink": "ouray-county-plaindealer",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Ouray County Plaindealer is a news paper publisher."
+        },
+        {
+            "facet_ids": [
+                "company",
+                "builtwith",
+                "rank"
+            ],
+            "identifier": {
+                "uuid": "a9633e7a-c504-4537-92f0-46b37032e766",
+                "value": "Ouraset",
+                "image_id": "dc58f0335d6227fb5401",
+                "permalink": "ouraset",
+                "entity_def_id": "organization"
+            },
+            "short_description": "OURASET is a manufacturer and exporter of solar thermal systems."
+        },
+        {
+            "facet_ids": [
+                "company",
+                "rank",
+                "contact"
+            ],
+            "identifier": {
+                "uuid": "bf6885e8-7155-40fb-a705-6b0d6dd91d14",
+                "value": "Ouranos",
+                "permalink": "ouranos",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Ouranos is a Non-profit organization that develops collaborative projects involving a network of 450 researchers, experts, practitioners."
+        },
+        {
+            "facet_ids": [
+                "company",
+                "rank"
+            ],
+            "identifier": {
+                "uuid": "bf1b2368-c03c-4a59-bd5d-c063503fd1e1",
+                "value": "Ouranos Technologies",
+                "image_id": "12901daa9aa2670b6fa0",
+                "permalink": "ouranos-technologies",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Ouranos Technologies is an offshore development company."
+        },
+        {
+            "facet_ids": [
+                "company",
+                "rank",
+                "builtwith"
+            ],
+            "identifier": {
+                "uuid": "96fa1c99-13ae-4900-aba3-c784c4c40248",
+                "value": "Thai Chili Ouray",
+                "image_id": "vde2cl4fxmhg7stt7rq0",
+                "permalink": "thai-chili-ouray",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Thai Food in Ouray, CO"
+        },
+        {
+            "facet_ids": [
+                "rank",
+                "builtwith",
+                "company",
+                "siftery"
+            ],
+            "identifier": {
+                "uuid": "a0ab5324-0d8f-897a-13d6-473dc1dd41a0",
+                "value": "Custom Force Interior",
+                "image_id": "v1434538126/ufvztnhv3bafdmje7qg0.jpg",
+                "permalink": "custom-force-interior",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Our a family owned business, We design high quality of Custom Cabinet Makers, Flat Pack Kitchens, Splashback Melbourne."
+        },
+        {
+            "facet_ids": [
+                "company",
+                "builtwith",
+                "rank"
+            ],
+            "identifier": {
+                "uuid": "90d6877a-b53f-44e5-920e-882794161c6f",
+                "value": "Sentiner",
+                "image_id": "i497ro3ugqkfgb6ixyjk",
+                "permalink": "sentiner",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Our A.I solution can turn a common CCTV system into an intelligent system."
+        },
+        {
+            "facet_ids": [
+                "company",
+                "builtwith",
+                "rank"
+            ],
+            "identifier": {
+                "uuid": "e97cd3dd-e68a-1f36-0c9a-08491cbf1693",
+                "value": "Guangzhou A & J Automation Equipment Co., Ltd",
+                "image_id": "v1464829699/woyzvi1b6y6uenvhs7uz.png",
+                "permalink": "guangzhou-a-j-automation-equipment-co-ltd",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Our A & J Automation is specialize in designing and manufacturing automatical machine that be used to produce medical supplies."
+        },
+        {
+            "facet_ids": [
+                "company",
+                "rank",
+                "builtwith"
+            ],
+            "identifier": {
+                "uuid": "d9c1e457-2b05-4371-8cac-0515d3b97305",
+                "value": "Innocorn Technology Limited",
+                "image_id": "g0qtbn9xpiknvarho0pw",
+                "permalink": "innocorn-technology-limited",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Our A I Kimia, is an innovative, animated, NLP virtual character, designed to provide various assistant services across different industries"
+        },
+        {
+            "facet_ids": [
+                "company",
+                "rank",
+                "builtwith"
+            ],
+            "identifier": {
+                "uuid": "8bf969f4-78e9-4a37-b891-274151271b1c",
+                "value": "A+ Lawn Care",
+                "image_id": "jtoneshdq75kbm5ykz86",
+                "permalink": "a-lawn-care",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Our A+ grade, is due to our reputation of outstanding service, quality and reliability."
+        },
+        {
+            "facet_ids": [
+                "contact",
+                "siftery",
+                "company",
+                "rank",
+                "builtwith"
+            ],
+            "identifier": {
+                "uuid": "505df883-190b-ede5-3098-7ba4a818c5fc",
+                "value": "Ken Massa Plumbing & Heating",
+                "permalink": "ken-massa-plumbing-heating",
+                "entity_def_id": "organization"
+            },
+            "short_description": "We our a great Long Island, NY Plumber"
+        },
+        {
+            "facet_ids": [
+                "contact",
+                "siftery",
+                "semrush",
+                "company",
+                "rank",
+                "builtwith",
+                "bombora"
+            ],
+            "identifier": {
+                "uuid": "a61f04a8-6949-4fea-9ab4-bf0dad809ccc",
+                "value": "CaucusRoom",
+                "image_id": "rcaezgr2k4wlqytejuqy",
+                "permalink": "caucusroom",
+                "entity_def_id": "organization"
+            },
+            "short_description": "CaucusRoom is a place to gather, encourage, and mobilize conservatives in a neighborhood."
+        },
+        {
+            "facet_ids": [
+                "contact",
+                "siftery",
+                "investor",
+                "ipqwery",
+                "apptopia",
+                "semrush",
+                "company",
+                "rank",
+                "builtwith",
+                "bombora",
+                "key_event"
+            ],
+            "identifier": {
+                "uuid": "bef5bd4b-72c6-7877-d7ab-8bbe43f7bda7",
+                "value": "Oracle",
+                "image_id": "lftp498venorpfdjmczr",
+                "permalink": "oracle",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Oracle is an integrated cloud application and platform services that sells a range of enterprise information technology solutions."
+        },
+        {
+            "facet_ids": [
+                "contact",
+                "ipqwery",
+                "apptopia",
+                "company",
+                "rank",
+                "builtwith",
+                "bombora"
+            ],
+            "identifier": {
+                "uuid": "22a46337-2212-0da5-c27f-0fa79aa3a1eb",
+                "value": "Oracle Dyn",
+                "image_id": "v1494346764/gyvlefo4z6ay0owdmsw2.png",
+                "permalink": "dyn",
+                "entity_def_id": "organization"
+            },
+            "short_description": "Dyn is a pioneer in managed DNS and in cloud-based infrastructure that connects users with digital content and experiences across internet."
+        }
+    ]
+}
