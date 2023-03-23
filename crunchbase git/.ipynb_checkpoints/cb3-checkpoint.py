@@ -1,12 +1,15 @@
 import csv
 import json
 import os
+import sys
 import traceback
 from datetime import datetime
 from itertools import cycle
 from random import uniform
 from time import sleep
+from urllib.parse import quote_plus
 
+#checking and setting up the environment 
 try:
     import httpx
     import pandas as pd
@@ -30,16 +33,26 @@ except:
     from pydash import get as _
     from selectolax.parser import HTMLParser
 
+maxInt = sys.maxsize
+
+while True:
+    try:
+        csv.field_size_limit(maxInt)
+        break
+    except OverflowError:
+        maxInt = int(maxInt / 10)
+
+#sign into crunchbase with the API associated with your account      
 API_KEY = '5997205bf36a0f923c14066e7ae6408a'
 
-
+#helper function converting file to a list
 def file2list(filename):
     if os.path.isfile(filename):
         with open(filename, encoding='utf-8') as f:
             return [x.strip() for x in f.read().splitlines() if x.strip()]
     return []
 
-
+#access the proxy server indicated in "proxy.txt" and return proxy server URLs
 def load_proxy(fn='./proxy.txt'):
     proxies = set()
     if os.path.exists(fn):
@@ -47,18 +60,19 @@ def load_proxy(fn='./proxy.txt'):
             for line in f:
                 px = line.strip().split(':')
                 proxies.add(f'http://{px[2]}:{px[3]}@{px[0]}:{px[1]}')
+    #if the file with proxy server information does not exist 
     if not proxies:
         raise Exception('No proxy found')
     return proxies
 
-
+#create an infinite iterator that cycles through the set of proxy URLs returned by the previous function
 proxies = cycle(load_proxy(os.path.join(os.getcwd(), 'proxy.txt')))
 
-
+#helper function introducing random delays between requests 
 def rand_sleep(from_min, to_max):
     sleep(uniform(from_min, to_max))
 
-
+#helper function making HTTP GET requests to a given URL while adding proxy servers
 def fetch(url, method='GET', headers=None, retry=3, proxy=None):
     for rt in range(retry):
         session = httpx.Client(timeout=30,
@@ -78,22 +92,32 @@ def fetch(url, method='GET', headers=None, retry=3, proxy=None):
                 logger.error(f'Error: {e}')
                 traceback.print_exc()
 
-
+#helper function getting search response from Crunchbase API and converts the response's JSON into python objects
 def search(term):
     response = fetch(
-        f'https://api.crunchbase.com/api/v4/autocompletes?query={term}&collection_ids=organizations&limit=10&user_key={API_KEY}'
+        f'https://api.crunchbase.com/api/v4/autocompletes?query={quote_plus(term)}&collection_ids=organizations&limit=25&user_key={API_KEY}'
     )
 
     js = response.json()
+    with open('search.json', 'w') as f:
+        json.dump(js, f, indent=4)
+    first_result = None
     for entity in _(js, 'entities') or []:
-        v = (_(entity, 'identifier.value') or '').lower()
-        if v == term.lower():
+        v = (_(entity, 'identifier.value')
+             or '').lower().replace("'", '').replace('’', '')
+        if v == term.lower().replace("'", '').replace('’', ''):
             return _(entity, 'identifier.permalink')
+        if not first_result:
+            first_result = _(entity, 'identifier.permalink')
+    return first_result
 
 
 @logger.catch
+
+#searching for a single company on Crunchbase and extracts specific information, including number of acquisitions, exits, investments, total funding amount, number of lead investors, number of investors, country, and industry
 def scrape_company(company, writer, f):
     logger.info(f'Searching {company}...')
+    #obtion json information of the company
     slug = search(company)
     print(company, slug)
     if not slug:
@@ -117,6 +141,7 @@ def scrape_company(company, writer, f):
                         '9e1b5ea8-3f2d-477e-a023-a9a649232282',
                         'x-requested-with': 'XMLHttpRequest',
                     }
+                    #adding proxy to company's url
                     url = f'https://www.crunchbase.com/v4/data/entities/organizations/{slug}?field_ids=%5B%22identifier%22,%22layout_id%22,%22facet_ids%22,%22title%22,%22short_description%22,%22is_locked%22%5D&layout_mode=view_v2'
                     proxy = next(proxies)
                     r = fetch(url, headers=headers, proxy=proxy)
@@ -136,12 +161,15 @@ def scrape_company(company, writer, f):
                                 js,
                                 'cards.investor_about_fields2.location_identifiers'
                         ) or []:
-                            if _(ct, 'location_type') == 'region':
+                            if _(ct, 'location_type') == 'country':
                                 country = _(ct, 'value')
                                 break
+                    #indicating and extracting desired features in json file
                     data = {
                         'Company':
                         company,
+                        'URL':
+                        f'https://www.crunchbase.com/organization/{slug}',
                         'Acquisitions':
                         _(
                             js,
@@ -195,10 +223,10 @@ def scrape_company(company, writer, f):
                         'Number of Investors':
                         _(js,
                           'cards.company_financials_highlights.num_investors')
-                        or (js, 'cards.investors_summary.num_investors')
-                        or (js,
+                        or _(js, 'cards.investors_summary.num_investors') or _(
+                            js,
                             'cards.investor_overview_highlights.num_investors')
-                        or (js, 'cards.investors_headline.num_investors'),
+                        or _(js, 'cards.investors_headline.num_investors'),
                         'Country':
                         country,
                         'Industry':
@@ -220,12 +248,13 @@ def scrape_company(company, writer, f):
 
 
 csv_headers = [
-    "Company", "Acquisitions", "Exits", "Investments", "Total Funding Amount",
-    "Number of Lead Investors", "Number of Investors", "Country", "Industry"
+    "Company", 'URL', "Acquisitions", "Exits", "Investments",
+    "Total Funding Amount", "Number of Lead Investors", "Number of Investors",
+    "Country", "Industry"
 ]
 scraped = set()
 
-
+#calls all functions above and save them into a ".xlsx" file
 def main():
     output = os.path.join(os.getcwd(), 'crunchbase.csv')
     mode = "a" if os.path.exists(output) else "w"
