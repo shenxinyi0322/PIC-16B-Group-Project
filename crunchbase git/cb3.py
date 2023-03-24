@@ -114,7 +114,7 @@ def search(term):
 
 @logger.catch
 
-#searching for a single company on Crunchbase and extracts specific information, including number of acquisitions, exits, investments, total funding amount, number of lead investors, number of investors, country, and industry
+#searching for a single company on Crunchbase API and extracts specific information, including number of acquisitions, exits, investments, total funding amount, number of lead investors, number of investors, country, and industry
 def scrape_company(company, writer, f):
     logger.info(f'Searching {company}...')
     #obtion json information of the company
